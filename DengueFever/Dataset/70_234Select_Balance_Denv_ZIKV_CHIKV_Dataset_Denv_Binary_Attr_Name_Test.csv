@@ -1,0 +1,333 @@
+sex,age,fever,rash,pruritus,muscle pain,joint pain,arthritis,conjunctivitis,headache,lymphadenopathy,Class
+Male,18.0,Fever >38.5 C,no,no,no,No present,no,no,yes,yes,Not DENV
+Female,28.0,Fever >38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Male,75.0,Fever <38.5 C,no,no,yes,Mild,no,no,no,no,Not DENV
+Female,25.0,Fever >38.5 C,yes,yes,no,Mild,no,no,no,no,Not DENV
+Female,16.0,Fever <38.5 C,yes,yes,no,No present,no,no,no,no,Not DENV
+Female,69.0,Fever >38.5 C,no,no,no,No present,no,no,yes,no,DENV
+Male,29.0,Fever >38.5 C,no,no,yes,No present,no,no,no,no,DENV
+Female,13.0,Fever >38.5 C,no,no,no,No present,no,no,yes,no,DENV
+Female,49.0,Fever <38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Female,46.0,Fever <38.5 C,yes,yes,no,No present,no,no,no,no,Not DENV
+Female,36.0,Fever >38.5 C,no,no,yes,Mild,no,no,yes,no,DENV
+Male,33.0,Fever >38.5 C,no,no,no,No present,no,no,yes,no,DENV
+Male,59.0,Fever >38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Female,72.0,Fever >38.5 C,no,yes,yes,No present,no,no,yes,no,Not DENV
+Female,0.91,Fever >38.5 C,no,no,no,No present,no,yes,no,no,Not DENV
+Male,36.0,Fever >38.5 C,no,no,yes,No present,no,no,no,no,DENV
+Female,21.0,Fever >38.5 C,no,no,yes,No present,no,no,no,no,DENV
+Female,15.0,Fever >38.5 C,no,no,no,No present,no,no,yes,no,DENV
+Female,1.0,Fever >38.5 C,no,no,no,No present,no,no,no,no,DENV
+Male,20.0,Fever >38.5 C,no,no,no,No present,no,no,yes,no,DENV
+Male,30.0,Fever >38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Male,7.0,Fever >38.5 C,no,no,no,No present,no,no,yes,no,DENV
+Female,17.0,Fever >38.5 C,no,no,no,No present,no,yes,yes,no,Not DENV
+Male,0.83,Fever >38.5 C,yes,no,no,No present,no,no,no,no,Not DENV
+Female,40.0,Fever >38.5 C,no,no,no,No present,no,no,yes,no,DENV
+Male,31.0,Fever >38.5 C,no,no,yes,No present,no,no,no,no,DENV
+Female,26.0,Fever >38.5 C,no,no,no,Mild,no,no,no,no,DENV
+Female,6.0,Fever <38.5 C,no,yes,no,No present,no,no,no,no,Not DENV
+Female,42.0,Fever <38.5 C,no,no,no,Moderate,no,no,yes,no,Not DENV
+Female,23.0,Fever <38.5 C,yes,yes,yes,Mild,no,no,yes,no,Not DENV
+Male,46.0,Fever <38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Female,24.0,Fever <38.5 C,yes,yes,no,No present,no,no,no,no,Not DENV
+Male,34.0,Fever >38.5 C,no,no,no,Mild,no,no,yes,no,DENV
+Male,6.0,Fever <38.5 C,yes,no,no,No present,no,no,no,no,Not DENV
+Female,45.0,Fever <38.5 C,yes,no,no,No present,no,no,no,no,Not DENV
+Female,46.0,Fever >38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Female,14.0,Fever >38.5 C,no,no,no,No present,no,no,yes,no,DENV
+Male,10.0,Fever >38.5 C,yes,no,yes,No present,no,no,no,no,Not DENV
+Female,14.0,Fever >38.5 C,no,no,yes,No present,no,no,no,no,DENV
+Female,32.0,Fever <38.5 C,yes,yes,yes,Mild,no,no,no,no,DENV
+Female,7.0,Fever >38.5 C,no,no,no,No present,no,no,yes,no,DENV
+Female,22.0,Fever >38.5 C,yes,yes,yes,No present,no,no,yes,no,Not DENV
+Female,31.0,Fever >38.5 C,no,no,no,No present,no,no,yes,no,DENV
+Female,27.0,Fever <38.5 C,yes,no,yes,No present,no,no,no,yes,Not DENV
+Male,37.0,Fever <38.5 C,yes,yes,yes,Mild,no,no,no,no,Not DENV
+Male,20.0,Fever >38.5 C,yes,yes,no,Mild,no,no,yes,no,Not DENV
+Female,56.0,Fever >38.5 C,no,no,no,Mild,no,no,no,no,Not DENV
+Male,9.0,Fever >38.5 C,no,no,no,No present,no,no,yes,no,DENV
+Female,39.0,Fever <38.5 C,yes,yes,no,Mild,no,yes,no,no,Not DENV
+Female,22.0,Fever >38.5 C,no,no,yes,Mild,no,no,yes,no,DENV
+Male,16.0,Fever >38.5 C,no,no,no,No present,no,no,yes,no,DENV
+Female,29.0,Fever >38.5 C,yes,no,no,No present,no,no,no,no,Not DENV
+Male,15.0,Fever <38.5 C,yes,yes,no,No present,no,no,no,no,Not DENV
+Female,20.0,Fever >38.5 C,no,no,no,No present,no,no,yes,no,DENV
+Male,36.0,Fever <38.5 C,yes,yes,yes,No present,no,no,yes,no,Not DENV
+Male,9.0,Fever >38.5 C,no,no,yes,No present,no,no,no,no,DENV
+Female,42.0,Fever >38.5 C,no,no,no,Moderate,no,no,yes,no,Not DENV
+Male,19.0,Fever >38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Male,17.0,Fever >38.5 C,no,yes,no,No present,no,no,no,no,Not DENV
+Male,9.0,Fever >38.5 C,yes,no,no,No present,no,no,yes,no,Not DENV
+Male,54.0,Fever >38.5 C,yes,yes,yes,No present,no,no,no,no,Not DENV
+Male,30.0,Fever >38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Female,33.0,Fever >38.5 C,no,no,yes,Moderate,no,no,no,no,Not DENV
+Male,17.0,Fever >38.5 C,yes,no,yes,No present,no,no,no,no,Not DENV
+Female,14.0,Fever <38.5 C,yes,yes,no,No present,no,no,no,no,Not DENV
+Female,30.0,Fever <38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Male,73.0,Fever <38.5 C,yes,yes,no,No present,no,no,no,no,Not DENV
+Female,32.0,Fever >38.5 C,yes,yes,no,Moderate,no,no,yes,no,Not DENV
+Male,27.0,Fever >38.5 C,no,no,no,Mild,no,no,no,no,DENV
+Female,37.0,Fever <38.5 C,no,yes,yes,No present,no,no,no,no,Not DENV
+Male,29.0,Fever >38.5 C,yes,yes,yes,No present,no,yes,no,no,Not DENV
+Male,32.0,Fever <38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Male,32.0,Fever <38.5 C,yes,yes,yes,Mild,no,no,yes,no,DENV
+Male,23.0,Fever >38.5 C,no,no,yes,Mild,no,no,yes,no,DENV
+Female,56.0,Fever <38.5 C,yes,no,no,Mild,no,no,no,no,Not DENV
+Female,53.0,Fever >38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Male,6.0,Fever >38.5 C,no,no,no,No present,no,no,yes,no,DENV
+Male,47.0,Fever >38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Female,32.0,Fever <38.5 C,yes,yes,yes,Mild,no,no,yes,no,Not DENV
+Male,17.0,Fever <38.5 C,yes,yes,no,No present,no,no,no,no,DENV
+Female,23.0,Fever <38.5 C,yes,no,yes,Mild,no,no,yes,no,Not DENV
+Female,14.0,Fever >38.5 C,no,no,no,No present,no,no,yes,no,DENV
+Female,15.0,Fever <38.5 C,yes,yes,no,No present,no,no,yes,no,Not DENV
+Male,6.0,Fever >38.5 C,no,yes,no,No present,no,no,no,no,Not DENV
+Female,54.0,Fever >38.5 C,no,no,yes,Mild,no,yes,yes,no,Not DENV
+Female,35.0,Fever >38.5 C,no,no,yes,No present,no,no,yes,no,Not DENV
+Female,12.0,Fever >38.5 C,no,no,no,No present,no,no,yes,no,DENV
+Male,12.0,Fever >38.5 C,no,no,no,No present,no,no,yes,no,DENV
+Female,45.0,Fever >38.5 C,no,no,yes,Moderate,no,no,no,no,Not DENV
+Male,39.0,Fever <38.5 C,no,no,yes,Mild,no,no,yes,no,DENV
+Female,46.0,Fever <38.5 C,no,yes,yes,Mild,no,no,yes,no,Not DENV
+Female,56.0,Fever <38.5 C,yes,yes,no,No present,no,yes,no,no,Not DENV
+Female,38.0,Fever <38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Female,26.0,Fever >38.5 C,no,no,yes,No present,no,no,no,no,DENV
+Male,43.0,Fever <38.5 C,yes,no,no,No present,no,no,yes,no,Not DENV
+Female,31.0,Fever <38.5 C,yes,yes,no,No present,no,no,no,no,Not DENV
+Female,82.0,Fever <38.5 C,no,yes,yes,Mild,no,no,no,no,Not DENV
+Male,14.0,Fever >38.5 C,no,no,no,No present,no,no,yes,no,DENV
+Female,7.0,Fever <38.5 C,yes,yes,yes,No present,no,no,yes,no,Not DENV
+Female,20.0,Fever >38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Female,60.0,Fever <38.5 C,yes,yes,yes,No present,no,yes,no,no,Not DENV
+Male,25.0,Fever <38.5 C,yes,yes,yes,No present,no,no,no,no,Not DENV
+Male,42.0,Fever >38.5 C,no,no,no,No present,no,no,yes,no,DENV
+Male,62.0,Fever <38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Female,28.0,Fever >38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Female,27.0,Fever <38.5 C,yes,no,yes,Mild,no,no,no,no,Not DENV
+Female,52.0,Fever <38.5 C,no,yes,yes,No present,no,no,no,no,Not DENV
+Female,26.0,Fever <38.5 C,yes,yes,yes,No present,no,no,yes,no,Not DENV
+Female,23.0,Fever >38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Female,49.0,Fever >38.5 C,no,yes,yes,Mild,no,no,no,no,Not DENV
+Female,30.0,Fever <38.5 C,yes,yes,no,No present,no,no,no,no,DENV
+Male,41.0,Fever >38.5 C,no,no,yes,Mild,no,no,no,no,DENV
+Female,35.0,Fever <38.5 C,yes,yes,no,No present,no,no,no,no,Not DENV
+Male,6.0,Fever >38.5 C,no,no,no,No present,no,no,yes,no,DENV
+Female,20.0,Fever <38.5 C,no,no,yes,Mild,no,no,yes,no,Not DENV
+Female,4.0,Fever >38.5 C,yes,yes,no,No present,no,no,no,no,Not DENV
+Female,20.0,Fever <38.5 C,no,yes,yes,No present,no,no,no,no,Not DENV
+Male,20.0,Fever >38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Male,20.0,Fever >38.5 C,no,no,yes,Moderate,no,no,yes,no,Not DENV
+Female,13.0,Fever >38.5 C,no,no,no,No present,no,no,yes,no,DENV
+Male,23.0,Fever <38.5 C,yes,yes,no,No present,no,no,yes,no,Not DENV
+Male,61.0,Fever <38.5 C,no,no,no,Mild,no,no,yes,no,Not DENV
+Female,27.0,Fever <38.5 C,yes,yes,no,No present,no,no,no,no,Not DENV
+Female,32.0,Fever <38.5 C,yes,no,yes,Mild,no,no,no,no,Not DENV
+Female,22.0,Fever >38.5 C,no,no,yes,No present,no,no,no,no,DENV
+Female,6.0,Fever >38.5 C,no,no,no,No present,no,no,yes,no,DENV
+Female,13.0,Fever <38.5 C,yes,yes,no,No present,no,no,no,no,Not DENV
+Female,30.0,Fever <38.5 C,no,no,yes,Mild,no,no,no,no,Not DENV
+Female,38.0,Fever <38.5 C,yes,yes,yes,Mild,no,no,yes,no,Not DENV
+Male,54.0,Fever >38.5 C,no,no,no,Mild,no,no,no,no,DENV
+Female,55.0,Fever <38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Female,53.0,Fever >38.5 C,no,no,yes,Mild,no,no,yes,no,Not DENV
+Female,77.0,Fever >38.5 C,no,no,no,Mild,no,no,yes,no,DENV
+Female,18.0,Fever >38.5 C,no,no,yes,No present,no,no,no,no,DENV
+Female,61.0,Fever >38.5 C,yes,yes,no,Mild,no,no,yes,no,Not DENV
+Female,46.0,Fever >38.5 C,yes,no,no,Mild,no,no,yes,no,Not DENV
+Female,19.0,Fever <38.5 C,yes,yes,no,No present,yes,no,no,no,Not DENV
+Female,55.0,Fever >38.5 C,no,no,yes,Mild,no,no,yes,no,DENV
+Female,22.0,Fever >38.5 C,no,no,no,No present,no,no,yes,no,DENV
+Female,15.0,Fever <38.5 C,yes,yes,no,No present,no,no,yes,no,Not DENV
+Female,4.0,Fever <38.5 C,yes,yes,no,No present,no,no,no,no,Not DENV
+Female,15.0,Fever <38.5 C,yes,yes,no,Moderate,no,no,no,no,Not DENV
+Male,3.0,Fever >38.5 C,yes,no,no,No present,no,no,no,no,Not DENV
+Male,57.0,Fever <38.5 C,yes,yes,yes,No present,no,yes,no,no,Not DENV
+Female,0.58,Fever >38.5 C,yes,no,no,No present,no,no,no,no,DENV
+Female,53.0,Fever >38.5 C,no,no,yes,Mild,no,no,yes,no,DENV
+Female,10.0,Fever >38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Female,22.0,Fever >38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Female,7.0,Fever <38.5 C,no,no,no,No present,no,no,yes,no,DENV
+Male,49.0,Fever >38.5 C,no,no,no,Mild,no,yes,no,no,Not DENV
+Female,27.0,Fever >38.5 C,no,no,yes,No present,no,no,no,no,DENV
+Female,19.0,Fever >38.5 C,no,yes,yes,No present,no,no,no,no,Not DENV
+Female,27.0,Fever >38.5 C,no,no,yes,Mild,no,yes,yes,no,DENV
+Female,62.0,Fever >38.5 C,no,no,yes,No present,no,no,no,no,DENV
+Male,13.0,Fever >38.5 C,yes,no,yes,Mild,no,no,no,no,DENV
+Male,49.0,Fever <38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Female,67.0,Fever <38.5 C,yes,yes,no,Mild,no,no,no,no,DENV
+Male,50.0,Fever <38.5 C,no,no,yes,Mild,no,no,no,no,DENV
+Male,53.0,Fever >38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Male,22.0,Fever <38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Male,42.0,Fever >38.5 C,no,no,yes,No present,no,no,no,no,DENV
+Male,22.0,Fever >38.5 C,yes,yes,no,No present,no,no,yes,no,Not DENV
+Female,19.0,Fever <38.5 C,no,no,no,No present,no,no,yes,no,DENV
+Male,25.0,Fever <38.5 C,yes,yes,no,Mild,no,no,no,no,Not DENV
+Female,26.0,Fever <38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Female,77.0,Fever <38.5 C,no,no,yes,Mild,yes,no,no,no,Not DENV
+Female,11.0,Fever >38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Female,19.0,Fever <38.5 C,yes,yes,yes,Mild,no,no,yes,no,Not DENV
+Female,34.0,Fever >38.5 C,yes,no,yes,No present,no,no,no,no,Not DENV
+Female,10.0,Fever >38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Female,10.0,Fever >38.5 C,no,no,no,No present,no,no,yes,no,DENV
+Female,9.0,Fever >38.5 C,no,yes,yes,Mild,no,no,no,no,Not DENV
+Female,46.0,Fever >38.5 C,no,yes,yes,Mild,no,no,yes,no,DENV
+Female,45.0,Fever <38.5 C,yes,yes,no,Mild,no,yes,yes,no,Not DENV
+Female,30.0,Fever <38.5 C,no,yes,yes,Mild,no,no,no,no,Not DENV
+Female,2.0,Fever >38.5 C,yes,yes,no,No present,no,no,no,no,Not DENV
+Female,31.0,Fever >38.5 C,no,no,yes,Mild,no,no,yes,no,DENV
+Male,3.0,Fever >38.5 C,no,no,yes,No present,no,no,no,no,DENV
+Male,10.0,Fever >38.5 C,yes,no,yes,No present,no,no,no,no,Not DENV
+Male,59.0,Fever <38.5 C,no,yes,yes,Mild,no,no,no,no,Not DENV
+Female,36.0,Fever >38.5 C,yes,yes,no,No present,no,no,no,no,DENV
+Female,14.0,Fever >38.5 C,no,no,no,No present,no,no,yes,no,DENV
+Female,67.0,Fever >38.5 C,yes,no,yes,No present,no,no,no,no,Not DENV
+Male,6.0,Fever >38.5 C,no,no,no,No present,no,no,yes,yes,Not DENV
+Male,64.0,Fever >38.5 C,yes,yes,yes,Mild,no,no,no,no,Not DENV
+Male,39.0,Fever >38.5 C,yes,yes,no,No present,no,no,no,no,Not DENV
+Male,70.0,Fever <38.5 C,no,no,yes,Mild,no,no,no,no,Not DENV
+Female,31.0,Fever >38.5 C,no,no,yes,No present,no,no,no,no,DENV
+Female,46.0,Fever >38.5 C,yes,no,no,Mild,no,no,no,no,Not DENV
+Male,50.0,Fever <38.5 C,yes,yes,no,No present,no,yes,no,no,Not DENV
+Female,54.0,Fever >38.5 C,no,no,yes,No present,no,no,no,no,DENV
+Female,44.0,Fever >38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Male,38.0,Fever >38.5 C,no,no,no,No present,no,no,yes,no,DENV
+Male,35.0,Fever <38.5 C,no,no,yes,Mild,no,no,yes,no,Not DENV
+Male,29.0,Fever >38.5 C,yes,yes,yes,No present,no,no,yes,no,DENV
+Male,33.0,Fever <38.5 C,no,no,no,Mild,no,yes,yes,no,Not DENV
+Female,47.0,Fever <38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Male,19.0,Fever >38.5 C,no,no,yes,No present,no,no,no,no,DENV
+Female,29.0,Fever <38.5 C,yes,yes,no,No present,no,no,yes,no,Not DENV
+Male,42.0,Fever <38.5 C,no,no,yes,Mild,no,no,no,no,Not DENV
+Female,39.0,Fever >38.5 C,no,no,yes,Mild,no,no,yes,no,Not DENV
+Male,28.0,Fever >38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Female,2.0,Fever >38.5 C,no,no,yes,No present,no,no,no,no,DENV
+Female,54.0,Fever <38.5 C,yes,yes,yes,No present,no,no,no,no,Not DENV
+Female,11.0,Fever >38.5 C,no,no,no,No present,no,no,yes,no,DENV
+Female,15.0,Fever <38.5 C,yes,yes,no,No present,no,no,no,no,Not DENV
+Female,35.0,Fever <38.5 C,no,yes,no,No present,no,no,yes,no,Not DENV
+Male,57.0,Fever <38.5 C,yes,no,yes,No present,no,yes,no,no,Not DENV
+Female,25.0,Fever >38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Male,92.0,Fever <38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Male,10.0,Fever >38.5 C,no,no,yes,No present,no,no,no,no,DENV
+Female,21.0,Fever <38.5 C,no,no,yes,Mild,no,no,no,no,Not DENV
+Female,30.0,Fever >38.5 C,yes,yes,yes,No present,no,no,no,no,Not DENV
+Female,62.0,Fever <38.5 C,no,no,no,Mild,no,no,no,no,Not DENV
+Female,35.0,Fever <38.5 C,yes,yes,yes,No present,no,no,no,no,Not DENV
+Female,51.0,Fever >38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Female,46.0,Fever <38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Female,41.0,Fever <38.5 C,yes,yes,yes,No present,no,no,yes,no,Not DENV
+Male,57.0,Fever <38.5 C,no,no,yes,Mild,no,no,no,no,DENV
+Female,3.0,Fever >38.5 C,yes,no,no,No present,no,no,no,no,Not DENV
+Male,37.0,Fever >38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Male,29.0,Fever <38.5 C,yes,yes,yes,No present,no,no,yes,no,Not DENV
+Male,16.0,Fever >38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Male,33.0,Fever <38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Female,31.0,Fever <38.5 C,yes,yes,yes,Mild,no,no,no,no,Not DENV
+Male,46.0,Fever >38.5 C,yes,no,yes,No present,no,no,yes,no,Not DENV
+Male,6.0,Fever >38.5 C,yes,yes,no,No present,no,no,no,no,Not DENV
+Female,33.0,Fever <38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Female,2.0,Fever >38.5 C,yes,no,no,No present,no,no,no,no,Not DENV
+Female,20.0,Fever >38.5 C,no,no,no,No present,no,no,yes,no,DENV
+Female,13.0,Fever <38.5 C,yes,yes,no,No present,no,no,no,no,Not DENV
+Female,17.0,Fever <38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Male,29.0,Fever >38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Female,34.0,Fever >38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Male,14.0,Fever >38.5 C,no,no,yes,No present,no,no,no,no,DENV
+Female,41.0,Fever >38.5 C,yes,no,yes,Mild,no,no,no,no,Not DENV
+Female,41.0,Fever <38.5 C,yes,yes,no,No present,no,no,no,no,Not DENV
+Female,22.0,Fever >38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Female,12.0,Fever >38.5 C,yes,yes,no,No present,no,no,no,no,Not DENV
+Female,39.0,Fever >38.5 C,no,no,no,No present,no,no,yes,no,DENV
+Female,53.0,Fever >38.5 C,no,no,no,No present,no,no,yes,no,DENV
+Female,18.0,Fever >38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Male,1.0,Fever >38.5 C,yes,yes,no,No present,no,no,no,no,Not DENV
+Female,26.0,Fever >38.5 C,no,no,no,No present,no,yes,yes,no,Not DENV
+Male,21.0,Fever >38.5 C,no,no,no,Mild,no,no,yes,no,DENV
+Female,64.0,Fever <38.5 C,no,no,yes,Mild,no,no,no,no,Not DENV
+Male,20.0,Fever <38.5 C,yes,yes,no,No present,no,no,no,no,Not DENV
+Female,38.0,Fever >38.5 C,yes,no,yes,No present,no,no,yes,no,Not DENV
+Male,27.0,Fever <38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Male,13.0,Fever >38.5 C,yes,no,no,No present,no,no,no,no,Not DENV
+Female,23.0,Fever >38.5 C,no,no,yes,No present,no,no,yes,yes,Not DENV
+Female,21.0,Fever <38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Male,37.0,Fever >38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Female,70.0,Fever >38.5 C,no,no,yes,No present,no,no,no,no,DENV
+Male,32.0,Fever <38.5 C,yes,yes,no,No present,no,no,no,no,Not DENV
+Male,64.0,Fever <38.5 C,yes,no,no,Mild,no,no,no,no,Not DENV
+Male,34.0,Fever <38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Male,22.0,Fever >38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Female,6.0,Fever >38.5 C,no,no,no,No present,no,no,yes,no,DENV
+Female,37.0,Fever <38.5 C,no,yes,no,Mild,no,no,no,no,Not DENV
+Female,12.0,Fever <38.5 C,yes,yes,no,No present,no,no,no,no,Not DENV
+Female,1.0,Fever >38.5 C,no,yes,no,No present,no,no,no,no,Not DENV
+Female,59.0,Fever <38.5 C,yes,yes,yes,No present,no,no,no,no,Not DENV
+Female,15.0,Fever >38.5 C,yes,no,no,Mild,no,no,yes,no,Not DENV
+Female,69.0,Fever >38.5 C,yes,no,yes,No present,no,yes,yes,no,Not DENV
+Male,24.0,Fever >38.5 C,no,no,no,No present,no,no,yes,no,DENV
+Male,34.0,Fever <38.5 C,yes,yes,no,Mild,no,no,no,no,Not DENV
+Male,15.0,Fever >38.5 C,no,no,no,No present,no,no,yes,no,DENV
+Female,43.0,Fever <38.5 C,yes,no,yes,No present,no,no,no,no,Not DENV
+Female,68.0,Fever >38.5 C,no,no,yes,Mild,no,no,yes,no,DENV
+Male,26.0,Fever >38.5 C,no,no,yes,No present,no,no,no,no,DENV
+Female,34.0,Fever >38.5 C,no,yes,no,Mild,no,no,no,no,DENV
+Female,55.0,Fever <38.5 C,no,no,yes,Moderate,no,no,yes,no,DENV
+Female,54.0,Fever <38.5 C,yes,yes,yes,Mild,no,no,no,no,Not DENV
+Female,18.0,Fever <38.5 C,yes,yes,no,No present,no,no,no,no,Not DENV
+Male,15.0,Fever <38.5 C,yes,yes,no,No present,no,no,yes,no,Not DENV
+Male,26.0,Fever >38.5 C,no,yes,no,No present,no,no,no,no,Not DENV
+Female,19.0,Fever >38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Female,6.0,Fever <38.5 C,yes,yes,no,No present,no,no,no,no,Not DENV
+Female,19.0,Fever <38.5 C,no,yes,no,Mild,no,no,yes,no,Not DENV
+Female,32.0,Fever <38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Female,46.0,Fever <38.5 C,yes,yes,yes,No present,no,no,no,no,Not DENV
+Male,38.0,Fever >38.5 C,yes,no,yes,No present,no,no,no,no,Not DENV
+Female,34.0,Fever <38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Female,42.0,Fever >38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Male,5.0,Fever <38.5 C,yes,yes,no,No present,no,no,no,no,Not DENV
+Male,22.0,Fever >38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Male,20.0,Fever <38.5 C,yes,yes,no,No present,no,no,no,no,Not DENV
+Female,44.0,Fever >38.5 C,no,no,no,No present,no,no,yes,no,DENV
+Male,10.0,Fever >38.5 C,no,yes,yes,No present,no,yes,no,no,Not DENV
+Female,2.0,Fever >38.5 C,yes,no,no,No present,no,no,no,no,Not DENV
+Female,12.0,Fever >38.5 C,no,no,no,Mild,no,no,yes,no,DENV
+Male,59.0,Fever <38.5 C,no,no,yes,No present,no,no,no,no,Not DENV
+Male,10.0,Fever >38.5 C,no,no,no,Mild,no,no,yes,no,DENV
+Female,53.0,Fever >38.5 C,no,no,yes,Mild,no,no,yes,no,DENV
+Male,28.0,Fever >38.5 C,no,no,yes,No present,no,no,no,no,DENV
+Female,20.0,Fever >38.5 C,yes,yes,no,No present,no,no,yes,no,Not DENV
+Male,21.0,Fever <38.5 C,yes,yes,no,No present,no,no,no,no,Not DENV
+Male,18.0,Fever <38.5 C,yes,yes,no,No present,no,no,no,no,Not DENV
+Female,39.0,Fever <38.5 C,yes,yes,yes,No present,no,no,yes,no,Not DENV
+Male,20.0,Fever <38.5 C,yes,no,no,No present,no,no,yes,no,Not DENV
+Female,52.0,Fever <38.5 C,yes,yes,no,No present,no,no,no,no,Not DENV
+Female,56.0,Fever <38.5 C,no,no,yes,Mild,no,no,no,no,Not DENV
+Female,17.0,Fever <38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Female,30.0,Fever >38.5 C,yes,yes,yes,Mild,no,no,yes,no,Not DENV
+Male,53.0,Fever >38.5 C,no,no,no,No present,no,no,yes,no,DENV
+Male,37.0,Fever >38.5 C,yes,yes,yes,No present,no,no,yes,no,Not DENV
+Male,35.0,Fever >38.5 C,no,no,yes,No present,no,no,no,no,DENV
+Female,19.0,Fever <38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Female,61.0,Fever >38.5 C,yes,yes,yes,No present,no,no,no,no,Not DENV
+Male,30.0,Fever <38.5 C,yes,yes,no,No present,no,no,no,no,Not DENV
+Female,31.0,Fever >38.5 C,no,no,no,No present,no,no,yes,no,DENV
+Female,33.0,Fever >38.5 C,no,no,no,Mild,no,no,yes,no,Not DENV
+Female,34.0,Fever <38.5 C,yes,yes,no,No present,no,no,no,no,Not DENV
+Male,18.0,Fever >38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Female,31.0,Fever <38.5 C,yes,no,yes,No present,no,no,yes,no,Not DENV
+Male,55.0,Fever <38.5 C,yes,no,no,No present,no,no,no,no,Not DENV
+Male,68.0,Fever >38.5 C,no,yes,no,Moderate,no,no,no,no,Not DENV
+Male,19.0,Fever >38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Male,36.0,Fever <38.5 C,no,no,yes,Mild,no,no,yes,no,DENV
+Male,36.0,Fever <38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Male,13.0,Fever >38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Male,14.0,Fever >38.5 C,no,no,yes,No present,no,no,yes,no,DENV
+Female,40.0,Fever <38.5 C,yes,yes,yes,Mild,no,no,no,no,Not DENV
+Female,35.0,Fever <38.5 C,yes,yes,yes,No present,no,no,no,no,Not DENV
+Male,35.0,Fever >38.5 C,no,no,no,Moderate,no,no,no,no,Not DENV
+Male,37.0,Fever <38.5 C,yes,yes,no,No present,no,no,no,no,Not DENV
+Male,29.0,Fever <38.5 C,yes,yes,no,Mild,no,yes,no,no,Not DENV
+Male,22.0,Fever >38.5 C,no,no,yes,No present,no,no,no,no,DENV
+Female,15.0,Fever <38.5 C,yes,no,no,Mild,no,no,yes,no,Not DENV
+Female,39.0,Fever <38.5 C,no,no,yes,Mild,no,no,yes,no,Not DENV
+Female,39.0,Fever <38.5 C,no,no,yes,No present,no,no,yes,no,DENV

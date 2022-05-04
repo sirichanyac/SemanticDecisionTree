@@ -1,0 +1,2282 @@
+COVID-19, 182.8566608876887
+diagnosis, 132.98752271800498
+comorbidity, 77.83971924647435
+Diagnosis Differntial, 77.83971924647435
+process, 51.0947654932037
+biological_process, 46.4233519709689
+material entity, 45.57525474604905
+occurrent, 44.18009111341158
+independent continuant, 40.07854153414169
+continuant, 36.329243719158924
+Severe acute respiratory syndrome-related coronavirus, 32.57324999999986
+entity, 32.01083204067395
+drug, 31.741312499999857
+cellular process, 29.793572327172814
+Sarbecovirus, 27.837262499999877
+Betacoronavirus, 23.811673124999896
+protein-coding gene of Homo sapiens, 23.35499999999993
+gene of Homo sapiens, 20.887874999999937
+Orthocoronavirinae, 20.38992215624991
+gene of Eukaryota, 17.904693749999943
+Coronaviridae, 17.481433832812424
+cellular component, 16.028973863595844
+gene, 15.368989687499951
+Cornidovirineae, 15.00921875789056
+specifically dependent continuant, 12.941259031822197
+Nidovirales, 12.907835944206978
+Riboviria, 12.500145713709346
+viral process, 12.390290859375007
+Viruses, 12.170974612121693
+bodily process, 12.158698929687501
+root, 11.766098753578929
+regulation of biological process, 11.718299987022032
+quality, 11.382047148205366
+Phenotypic abnormality, 11.233732365391246
+disease of anatomical entity, 7.194614340293898
+severe acute respiratory syndrome coronavirus 2 protein, 5.7490190625
+viral protein, 5.036666203125001
+material anatomical entity, 4.028447581474138
+anatomical structure, 3.9411295076166324
+realizable entity, 3.666492889233445
+anatomical entity, 3.574180444253018
+multicellular anatomical structure, 3.316179898572893
+modulation by virus of host process, 2.7913484375000004
+signal transduction, 2.75865
+cell, 2.6303138988281245
+information content entity, 2.5709113012363582
+organ, 2.4553706640625004
+SARS coronavirus TW, 2.4449999999999994
+disposition, 2.421413341455597
+rep gene translation product (SARS-CoV-2), 2.3857124999999995
+generically dependent continuant, 2.3352746060491167
+disease by infectious agent, 2.125752556495535
+modulation by virus of host cellular process, 2.1166875000000003
+Abnormality of the immune system, 2.104872109723094
+Abnormality of the respiratory system, 2.0957911842822443
+disease, 2.093632926048532
+respiratory system disease, 2.069353125
+cardiovascular system disease, 1.9308889218749998
+Abnormality of metabolism/homeostasis, 1.8906793716648553
+rep gene proteolytic cleavage product (SARS-CoV-2), 1.8776249999999997
+metabolite, 1.8074999999999997
+Bat SARS coronavirus HKU3, 1.8074999999999997
+data item, 1.7782797600501121
+Abnormality of blood and blood-forming tissues, 1.7186700626953124
+population quality, 1.6799999999999997
+Abnormal circulating metabolite concentration, 1.6045143343115944
+Eukaryota, 1.5822234375000002
+Lymphocyte, 1.5680163515625
+pathological bodily process, 1.5524999999999998
+laboratory finding, 1.51425
+Abnormal leukocyte morphology, 1.5066490078125003
+cellular organisms, 1.4950239215005747
+viral infectious disease, 1.4919147723483621
+symptom, 1.4381371164666161
+molecular assay, 1.4249999999999998
+immaterial entity, 1.3995000000000002
+respiratory system and chest symptom, 1.3867500000000001
+regulation of cell cycle phase transition, 1.3850776692708338
+T cell, 1.3682545312500003
+haplotype of Severe acute respiratory syndrome coronavius 2 infection, 1.2974999999999999
+cardiovascular system symptom, 1.2968625
+haplotype, 1.252875
+Vertebrata, 1.2069750000000004
+lung disease, 1.2018750000000002
+lower respiratory tract disease, 1.17159375
+medical intervention, 1.1510389579513007
+nervous system symptom, 1.1368500000000004
+Abnormality of the digestive system, 1.1271364921875
+clinical measurement, 1.1233983296251648
+measurement datum, 1.1048885801813901
+Herpesviridae, 1.0847821875
+Herpesvirales, 1.0720648593750002
+hemic and immune system symptom, 1.05525
+planned process, 1.0529673266420727
+gene of Homo sapiens with other gene disposition, 1.0425000000000002
+Abnormality of immune system physiology, 1.0393225867784333
+T cell activation, 1.0340536728515626
+Abnormal lung morphology, 1.0290178478917156
+Abnormal respiratory system morphology, 1.0246651707079582
+Abnormality of the cardiovascular system, 1.0199165625000002
+immune system disease, 1.00487953125
+cell cycle checkpoint, 0.9729195312500003
+Mammalia, 0.9660000000000002
+nucleoside monophosphate metabolic process, 0.9481300781250002
+Abnormality of the genitourinary system, 0.9335846136621095
+transport of virus, 0.9322125000000001
+vascular disease, 0.9289134375000001
+regulation of chromosome segregation, 0.9246520029586229
+Abnormality of the urinary system, 0.9218642513671876
+protein, 0.9207419182434415
+directive information entity, 0.9189463427949582
+Mode of Transmission, 0.9151597234142893
+Viral Genome, 0.9150000000000001
+hemic system symptom, 0.9150000000000001
+virion part, 0.87675
+hematopoietic system disease, 0.8610037486913495
+artery disease, 0.8413687500000001
+nucleoside triphosphate metabolic process, 0.828351796875
+Abnormal immune system morphology, 0.8217769540722657
+gastrointestinal system disease, 0.8059875000000001
+Abnormal myeloid leukocyte morphology, 0.8040670312500001
+nucleoside phosphate biosynthetic process, 0.7949844270833336
+Abnormality of coagulation, 0.7921696875
+Abnormal cellular immune system morphology, 0.7903258283203126
+specimen, 0.7875000000000001
+Open Reading Frame, 0.7875000000000001
+ORF1ab proteolytic cleavage product (SARS-CoV-2), 0.7875000000000001
+immune response-activating cell surface receptor signaling pathway, 0.785375
+Abnormal granulocyte morphology, 0.7694906250000001
+, 0.76203984375
+action specification, 0.7543500000000002
+cell migration, 0.7492500000000001
+Unusual infection, 0.7448910937500002
+Biological Model, 0.742970625
+object, 0.741393823172631
+blood cell measurement, 0.73299375
+cellular response to stress, 0.732834375
+regulation of lymphocyte activation, 0.7309218750000002
+regulation of nuclear division, 0.7290836122070314
+trunk region element, 0.7256093750000002
+disease of cellular proliferation, 0.72314855859375
+Gammaherpesvirinae, 0.71386875
+Abnormality of the endocrine system, 0.71386875
+antigen processing and presentation, 0.71386875
+data processing operation, 0.7110000000000001
+sensation perception, 0.7110000000000001
+Experimental Model, 0.6976125
+chemical entity, 0.6957574390266248
+modulation by virus of host immune response, 0.6855000000000001
+Negarnaviricota, 0.6794229117187502
+Abnormality of digestive system physiology, 0.6784875
+data analysis operation, 0.66
+spatial region, 0.66
+recombinant SARSr-CoV, 0.66
+pain, 0.66
+person_attribute, 0.6514620811512335
+Abnormal circulating protein level, 0.6415236469842283
+Haploviricotina, 0.6228504843750002
+disease of metabolism, 0.6228504843750002
+organism substance, 0.6217500000000001
+ribosomal subunit, 0.62175
+Abdominal symptom, 0.62175
+arrhythmia, 0.62175
+viral entry into host cell, 0.62175
+organ part, 0.6054937500000002
+secretory granule membrane, 0.5962500000000002
+regulation of protein catabolic process, 0.59593125
+blood measurement, 0.5894535969685808
+spike glycoprotein (SARS-CoV-2), 0.5863687500000001
+urinary system disease, 0.5863687500000001
+Abnormality of head or neck, 0.5837000156250001
+humoral immune response, 0.5771250000000001
+compound organ, 0.5725296875000001
+Adenoviridae, 0.5701125
+Picornavirales, 0.5562946875000001
+Monjiviricetes, 0.5562946875000001
+Abnormal blood ion concentration, 0.5562946875000001
+acquired metabolic disease, 0.5562946875000001
+actin filament organization, 0.5562946875000001
+glycoprotein metabolic process, 0.5562946875000001
+positive regulation of cell cycle, 0.554805859375
+kidney epithelium development, 0.54174375
+clinical data item, 0.5327417030661222
+cardiovascular measurement, 0.5325000000000001
+continuant fiat boundary, 0.5325000000000001
+Medicine Chinese Traditional, 0.5325000000000001
+Immunoglobulin, 0.5325000000000001
+Interferon, 0.5325000000000001
+regulation of immune effector process, 0.5325000000000001
+chromosome segregation, 0.53218125
+alpha-beta T cell, 0.524053125
+nervous system disease, 0.524053125
+Functional respiratory abnormality, 0.5145009284476234
+alpha-beta T cell activation, 0.5136205371093752
+Abnormal circulating nitrogen compound concentration, 0.5133750000000001
+spike glycoprotein signal peptide removed form (SARS-CoV-2), 0.513375
+leukopenia, 0.513375
+kidney disease, 0.513375
+intracellular transport of virus, 0.513375
+Abnormality of the head, 0.5102353125000001
+monosaccharide metabolic process, 0.5056917968750001
+musculoskeletal system disease, 0.5052468750000001
+response to endoplasmic reticulum stress, 0.5038125
+gland, 0.49779609375000006
+in silico model, 0.49425
+In Vivo Model, 0.49425
+device, 0.49425
+Mastadenovirus, 0.49425
+regulation of mitotic nuclear division, 0.48711191286892375
+spindle organization, 0.4862812500000001
+organelle fission, 0.4861218750000001
+replicase polyprotein 1ab (SARS-CoV-2), 0.48468750000000005
+technique, 0.479940185844621
+chromosomal region, 0.47799375000000005
+Opisthokonta, 0.47799375000000005
+Mononegavirales, 0.47799375000000005
+Picornaviridae, 0.47799375000000005
+Abnormal lymphocyte morphology, 0.47799375000000005
+Abnormality of the coagulation cascade, 0.47799375000000005
+Abnormal blood cation concentration, 0.47799375000000005
+Abnormal cardiovascular system physiology, 0.47799375000000005
+primary immunodeficiency disease, 0.47799375000000005
+carbohydrate metabolism disease, 0.47799375000000005
+head and neck symptom, 0.47799375000000005
+chromosome localization, 0.47799375000000005
+RNA catabolic process, 0.47799375000000005
+actin filament bundle organization, 0.47799375000000005
+protein deglycosylation, 0.47799375000000005
+Abnormality of the urinary system physiology, 0.47453929687500007
+negative regulation of cell cycle process, 0.47150132591869226
+Abnormality of the abdominal organs, 0.47108484375000004
+non-lytic viral release, 0.46875000000000006
+viral budding, 0.46875000000000006
+cell measurement, 0.46152234375000006
+mature T cell, 0.4591875000000001
+meiotic cell cycle process, 0.4591875
+nuclear chromosome segregation, 0.44962500000000005
+Fc receptor signaling pathway, 0.4411250000000001
+mature alpha-beta T Cell, 0.4400625000000001
+central nervous system disease, 0.4400625000000001
+Abnormality of the upper urinary tract, 0.43353629296875007
+sense organ, 0.43209375000000005
+vacuolar membrane, 0.43193437500000004
+Abnormal renal physiology, 0.43193437500000004
+small molecule catabolic process, 0.42934010416666674
+regulation of cellular protein catabolic process, 0.428375
+Abnormality of the nervous system, 0.42396597341428915
+nucleotide biosynthetic process, 0.4238239583333335
+Abnormality of the face, 0.42380625
+regulation of mitotic cell cycle phase transition, 0.42350963541666675
+response to topologically incorrect protein, 0.4225312500000001
+coenzyme metabolic process, 0.4137307617187501
+regulation of cell cycle G2/M phase transition, 0.4121453125000001
+negative regulation of mitotic cell cycle, 0.4105189146050348
+ATP metabolic process, 0.4088604166666667
+temporal region, 0.40534169904521467
+Positive laboratory Test Result, 0.405
+Animal Model, 0.405
+computational model, 0.405
+anatomical system, 0.405
+ribosome, 0.405
+mobile application, 0.405
+Laurasiatheria, 0.405
+Human mastadenovirus C, 0.405
+Abnormality of the sense of smell, 0.405
+Nausea and vomiting, 0.405
+respiratory failure, 0.405
+skin and integumentary tissue symptom, 0.405
+membrane fusion involved in viral entry into host cell, 0.405
+leukocyte migration, 0.405
+antigen receptor-mediated signaling pathway, 0.405
+modulation by virus of host gene expression, 0.405
+receptor-mediated virion attachment to host cell, 0.405
+viral entry via permeabilization of host membrane, 0.405
+gland development, 0.405
+Hygiene, 0.405
+imaging technique, 0.405
+Oxygen Therapy, 0.405
+adaptive immune response, 0.39732210937500007
+immunoglobulin complex, 0.3954375000000001
+Pulmonary interstitial high-resolution computed tomography abnormality, 0.3954375000000001
+DNA integrity checkpoint, 0.3954375000000001
+spindle checkpoint, 0.3954375000000001
+nuclear division, 0.3954375000000001
+positive regulation of catabolic process, 0.3954375000000001
+assay, 0.3876441169130699
+transmission process, 0.3870744393347421
+white blood cell count, 0.385875
+subdivision of tube, 0.385875
+kinetochore, 0.385875
+small nuclear ribonucleoprotein complex, 0.385875
+chromosome centromeric region, 0.385875
+Metazoa, 0.385875
+Betaherpesvirinae, 0.385875
+Rhadinovirus, 0.385875
+Reoviridae, 0.385875
+Pneumoviridae, 0.385875
+Enterovirus, 0.385875
+Abnormal granulocyte count, 0.385875
+Abnormal natural killer cell morphology, 0.385875
+Abnormality of prothrombin, 0.385875
+Abnormal blood monovalent inorganic cation concentration, 0.385875
+Abnormal systemic blood pressure, 0.385875
+Abnormal circulating hormone level, 0.385875
+Severe infection, 0.385875
+Recurrent respiratory infections, 0.385875
+Abnormal blood gas level, 0.385875
+arteriosclerosis, 0.385875
+hepatobiliary disease, 0.385875
+intestinal disease, 0.385875
+blood coagulation disease, 0.385875
+B cell deficiency, 0.385875
+combined T cell and B cell immunodeficiency, 0.385875
+glucose metabolism disease, 0.385875
+head symptom, 0.385875
+cytokinesis, 0.385875
+membrane disassembly, 0.385875
+membrane invagination, 0.385875
+neutrophil activation, 0.385875
+protein maturation, 0.385875
+actin filament bundle assembly, 0.385875
+establishment of chromosome localization, 0.385875
+protein demannosylation, 0.385875
+mRNA catabolic process, 0.385875
+regulation of protein maturation, 0.385875
+mesonephric epithelium development, 0.385875
+protein targeting, 0.38181093750000006
+negative regulation of cell cycle phase transition, 0.3779505208333334
+Abnormality of the liver, 0.37774687500000004
+hypersensitivity reaction disease, 0.37774687500000004
+pyridine nucleotide metabolic process, 0.3771093750000001
+benign neoplasm, 0.374292421875
+hexose metabolic process, 0.36732552083333336
+positive regulation of cell activation, 0.36623203125000003
+suppression by virus of host innate immune response, 0.36250000000000004
+protein localization to endoplasmic reticulum, 0.35471718750000003
+mitotic cell cycle checkpoint, 0.3545312500000001
+nucleoside triphosphate biosynthetic process, 0.3470406250000001
+regulation of chromosome separation, 0.34464586805555564
+regulation of mitotic sister chromatid segregation, 0.34464586805555564
+person, 0.34125000000000005
+bodily fluid, 0.34125000000000005
+CD4-Positive alpha-beta T cell, 0.34125000000000005
+endocytic vesicle, 0.34125000000000005
+vacuolar lumen, 0.34125000000000005
+brain disease, 0.34125000000000005
+chromosome separation, 0.34125000000000005
+abdominal segment element, 0.34071875000000007
+throracic segment organ, 0.3364687500000001
+Abnormality of the kidney, 0.33357210937500004
+anatomical conduit, 0.3316875
+coated vesicle, 0.3316875
+cytoplasmic vesicle lumen, 0.3316875
+lytic vacuole membrane, 0.3316875
+Abnormality of urine homeostasis, 0.3316875
+Renal insufficiency, 0.3316875
+antigen processing and presentation of peptide or polysaccharide antigen via MHC class II, 0.3316875
+antigen processing and presentation of exogenous antigen, 0.3316875
+protein targeting to membrane, 0.3316875
+B cell mediated immunity, 0.3316875
+Coronavirus infectious disease, 0.32622326158667736
+nucleoside monophosphate biosynthetic process, 0.322921875
+Abnormality of the nose, 0.322125
+Abnormal nervous system physiology, 0.322125
+regulation of mitotic sister chromatid separation, 0.32193020833333336
+T cell activation involved in immune response, 0.31524498046875005
+Sm-like protein family complex, 0.31399687500000006
+Abnormal leukocyte count, 0.31399687500000006
+Recurrent infections, 0.31399687500000006
+Respiratory tract infection, 0.31399687500000006
+glycolytic process through fructose-6-phosphate, 0.31362500000000004
+purine nucleoside triphosphate metabolic process, 0.31227031250000004
+ribonucleoside triphosphate metabolic process, 0.31227031250000004
+pyridine-containing compound metabolic process, 0.3102714843750001
+oxidoreduction coenzyme metabolic process, 0.3102714843750001
+regulation of alpha-beta T cell activation, 0.30937500000000007
+circulatory organ, 0.30459375000000005
+purine nucleoside monophosphate metabolic process, 0.30459375000000005
+positive regulation of establishment of protein localization, 0.30459375000000005
+mitigation of host immune response by virus, 0.3040625
+sex, 0.29497769479484315
+age, 0.29497769479484315
+pyruvate metabolic process, 0.2934020833333334
+vesicle lumen, 0.29096718750000006
+establishment of protein localization to membrane, 0.29096718750000006
+lymphocyte mediated immunity, 0.29096718750000006
+adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains, 0.29096718750000006
+positive regulation of cell cycle phase transition, 0.2863541666666667
+regulation of metaphase/anaphase transition of cell cycle, 0.28522526041666674
+lymphocyte activation involved in immune response, 0.2839791166992188
+carbohydrate catabolic process, 0.2823255208333334
+intervention, 0.2813029248018498
+clinical finding, 0.2792697544069688
+treatment, 0.27815501201544585
+organismal assay, 0.27774884279495815
+direct, 0.27763399962557445
+average value, 0.2776138996817382
+sign, 0.2775
+blood lympphocyte count, 0.2775
+infectious disease control strategy, 0.2775
+site, 0.2775
+subdivision of digestive tract, 0.2775
+macus, 0.2775
+cell-substrate junction, 0.2775
+condensed chromosome, 0.2775
+integrin complex, 0.2775
+lipoprotein particle, 0.2775
+membrane microdomain, 0.2775
+microtubule, 0.2775
+microtubule associated complex, 0.2775
+microtubule end, 0.2775
+neuron to neuron synapse, 0.2775
+pigment granule, 0.2775
+postsynaptic specialization, 0.2775
+spindle, 0.2775
+tight junction, 0.2775
+condensed chromosome centromic region, 0.2775
+condensed chromosome kinetochore, 0.2775
+large ribosomal subunit, 0.2775
+small ribosomal subunit, 0.2775
+spliceosomal snRNP complex, 0.2775
+viral membrane, 0.2775
+viral nucleocapsid, 0.2775
+fluoroquinolone antibiotic, 0.2775
+vaccine, 0.2775
+nonstructural protein, 0.2775
+ORF1a proteolytic cleavage product (SARS-CoV-2), 0.2775
+spike protein S2 (SARS-CoV-2), 0.2775
+Chordata, 0.2775
+Sauropsida, 0.2775
+Euarchontoglires, 0.2775
+Primates, 0.2775
+Cytomegalovirus, 0.2775
+Lymphocryptovirus, 0.2775
+Human gammaherpesvirus 8, 0.2775
+Metapneumovirus, 0.2775
+Bat SARS CoV Rf1/2004, 0.2775
+Bat SARS CoV Rm1/2004, 0.2775
+SARS coronavirus Frankfurt 1, 0.2775
+Enterovirus B, 0.2775
+Sedoreovirinae, 0.2775
+genetic variation, 0.2775
+Constitutional symptom, 0.2775
+Abnormal eosinophil count, 0.2775
+Abnormal neutrophil count, 0.2775
+Abnormal natural killer cell count, 0.2775
+Abnormality of fibrinolysis, 0.2775
+Abnormal prothrombin time, 0.2775
+Abnormal erythrocyte sedimentation rate, 0.2775
+Abnormal blood potassium concentration, 0.2775
+Abnormality of circulating enzyme level, 0.2775
+abnormal heart morphology, 0.2775
+Abnormality of the lymphatic system, 0.2775
+Increased blood pressure, 0.2775
+Hepatitis, 0.2775
+Abnormality of renin-angiotensin system, 0.2775
+Abnormal calcium-phosphate regulating hormone level, 0.2775
+Abnormality of immune serum protein physiology, 0.2775
+Recurrent lower respiratory tract infections, 0.2775
+Severe viral infection, 0.2775
+Respiratory insufficiency, 0.2775
+Dyspnea, 0.2775
+Abnormal blood oxygen level, 0.2775
+Ground-glass opacification on pulmonary HRCT, 0.2775
+role, 0.2775
+homeostasis, 0.2775
+bacterial infectious disease, 0.2775
+secondary infection, 0.2775
+Cross Infection, 0.2775
+Herpesviridae infectious disease, 0.2775
+autoimmune disease of cardiovascular system, 0.2775
+heart disease, 0.2775
+coronary artery disease, 0.2775
+arteriosclerotic cardiovascular disease, 0.2775
+liver disease, 0.2775
+bowel dysfunction, 0.2775
+thrombophilia, 0.2775
+agranulocytosis, 0.2775
+agammaglobulinemia, 0.2775
+severe combined immunodeficiency, 0.2775
+interstitial lung disease, 0.2775
+rare pulmonary disease, 0.2775
+obstructive lung disease, 0.2775
+lung benign neoplasm, 0.2775
+pneumonia, 0.2775
+kidney failure, 0.2775
+diabetes mellitus, 0.2775
+nutrition metabolism and development symptom, 0.2775
+shock, 0.2775
+tachycardia, 0.2775
+cardiac fibrillation, 0.2775
+feces and droppings symptom, 0.2775
+eye symptom, 0.2775
+fatigue, 0.2775
+respiratory abnormality, 0.2775
+cough, 0.2775
+alcohol metabolic process, 0.2775
+antibiotic metabolic process, 0.2775
+carbohydrate derivative catabolic process, 0.2775
+cell adhesion, 0.2775
+cell cycle G1/S phase transition, 0.2775
+cell cycle G2/M phase transition, 0.2775
+cell recognition, 0.2775
+endocytosis, 0.2775
+epidermal cell differentiation, 0.2775
+low-density lipoprotein receptor particle metabolic process, 0.2775
+mRNA splice site selection, 0.2775
+neuron projection guidance, 0.2775
+plasma lipoprotein particle clearance, 0.2775
+protein localization to chromosome, 0.2775
+contractile actin filament bundle assembly, 0.2775
+endoplasmic reticulum unfolded protein response, 0.2775
+ERAD pathway, 0.2775
+metaphase plate congression, 0.2775
+sister chromatid segregation, 0.2775
+folic acid-containing compound metabolic process, 0.2775
+cytoskeleton-dependent cytokinesis, 0.2775
+protein alpha-1 2-demannosylation, 0.2775
+CD4-positive alpha-beta T cell differentiation involved in immune response, 0.2775
+meiotic nuclear division, 0.2775
+nuclear envelope disassembly, 0.2775
+plasma membrane invagination, 0.2775
+neutrophil activation involved in immune response, 0.2775
+protein processing, 0.2775
+nuclear-transcribed mRNA catabolic process, 0.2775
+organic acid catabolic process, 0.2775
+positive regulation of peptidyl-lysine acetylation, 0.2775
+regulation of actin filament-based process, 0.2775
+regulation of cell division, 0.2775
+regulation of cyclin-dependent protein kinase activity, 0.2775
+regulation of fibroblast proliferation, 0.2775
+regulation of inflammatory response, 0.2775
+regulation of macrophage derived foam cell differentiation, 0.2775
+regulation of neurotransmitter levels, 0.2775
+regulation of proteolysis involved in cellular protein catabolic process, 0.2775
+regulation of protein processing, 0.2775
+killing by virus of host cell, 0.2775
+lysis of host organelle involved in viral entry into host cell, 0.2775
+permeabilization of host organelle membrane involved in viral entry into host cell, 0.2775
+viral genome packaging, 0.2775
+viral RNA genome replication, 0.2775
+virion attachment to host cell, 0.2775
+modulation by virus of host cytokine production, 0.2775
+induction of host immune response by virus, 0.2775
+modulation by virus of host apoptotic process, 0.2775
+modulation by virus of host autophagy, 0.2775
+modulation by virus of host protein phosphorylation, 0.2775
+microtubule-dependent intracellular transport of viral material, 0.2775
+gland morphogenesis, 0.2775
+inflammatory response, 0.2775
+inner ear development, 0.2775
+inner ear morphogenesis, 0.2775
+kidney development, 0.2775
+production of molecular mediator involved in inflammatory response, 0.2775
+production of molecular mediator of immune response, 0.2775
+regeneration, 0.2775
+renal filtration, 0.2775
+respiratory burst, 0.2775
+response to reactive oxygen species, 0.2775
+sensory organ morphogenesis, 0.2775
+complement activation, 0.2775
+mesonephric tubule development, 0.2775
+Interview, 0.2775
+Drug Development, 0.2775
+patient screening, 0.2775
+positive regulation of cell cycle process, 0.27170052083333335
+protein complex involved in cell adhesion, 0.26793750000000005
+replicase polyprotein 1a (SARS-CoV-2), 0.26793750000000005
+Abnormal eosinophil morphology, 0.26793750000000005
+Abnormality of neutrophils, 0.26793750000000005
+Abnormality of the vasculature, 0.26793750000000005
+Abnormal liver morphology, 0.26793750000000005
+Increased inflammatory response, 0.26793750000000005
+Pulmonary opacity, 0.26793750000000005
+autoimmune hypersensitivity disease, 0.26793750000000005
+connective tissue disease, 0.26793750000000005
+respiratory system benign neoplasm, 0.26793750000000005
+pteridine-containing compound metabolic process, 0.26793750000000005
+negative regulation of chromosome segregation, 0.2667094295428242
+organ system benign neoplasm, 0.26387343750000003
+ribonucleoside monophosphate metabolic process, 0.25917187500000005
+positive regulation of leukocyte activation, 0.25439062500000004
+ectoderm-derived structure, 0.24562500000000004
+mesoderm-derived structure, 0.24562500000000004
+positive regulation of lymphocyte activation, 0.24562500000000004
+mitochondrial protein complex, 0.24084375000000002
+outer membrane, 0.24084375000000002
+microtubule cytoskeleton organization involved in mitosis, 0.24084375000000002
+establishment of protein localization to endoplasmic reticulum, 0.24084375000000002
+regulation of G2/M transition of mitotic cell cycle, 0.23340625000000004
+purine nucleoside triphosphate biosynthetic process, 0.23181250000000003
+ribonucleoside triphosphate biosynthetic process, 0.23181250000000003
+negative regulation of mitotic cell cycle phase transition, 0.23181250000000003
+digestive system element, 0.22729687500000004
+endocrine gland, 0.22729687500000004
+lateral structure, 0.22437500000000005
+abdomen element, 0.22437500000000005
+endoderm-derived structure, 0.21407665571901363
+structure with developmental contribution from neural crest, 0.21375000000000002
+vessel, 0.21375000000000002
+secretion of exocrine gland, 0.21375000000000002
+regulatory T cell, 0.21375000000000002
+cell cortex, 0.21375000000000002
+inner mitochondrial membrane protein complex, 0.21375000000000002
+intrinsic component of endoplasmic reticulum membrane, 0.21375000000000002
+organelle outer membrane, 0.21375000000000002
+primary lysosome, 0.21375000000000002
+proton-transporting ATP synthase complex, 0.21375000000000002
+clathrin-coated vesicle, 0.21375000000000002
+secretory granule lumen, 0.21375000000000002
+immunoglobulin complex circulating, 0.21375000000000002
+lysosomal membrane, 0.21375000000000002
+steroid, 0.21375000000000002
+Abnormal blood urea nitrogen concentration, 0.21375000000000002
+Azotemia, 0.21375000000000002
+Abnormal urine cytology, 0.21375000000000002
+Acute kidney injury, 0.21375000000000002
+endocytosis involved in viral entry into host cell, 0.21375000000000002
+endoplasmic reticulum to cytosol transport, 0.21375000000000002
+metaphase/anaphase transition of cell cycle, 0.21375000000000002
+protein exit from endoplasmic reticulum, 0.21375000000000002
+antigen processing and presentation of peptide antigen via MHC class II, 0.21375000000000002
+antigen processing and presentation of exogenous peptide antigen, 0.21375000000000002
+cellular response to topologically incorrect protein, 0.21375000000000002
+pyridine nucleotide biosynthetic process, 0.21375000000000002
+nicotinamide nucleotide metabolic process, 0.21375000000000002
+cotranslational protein targeting to membrane, 0.21375000000000002
+mitotic spindle organization, 0.21375000000000002
+deoxyribonucleoside monophosphate metabolic process, 0.21375000000000002
+protein targeting to ER, 0.21375000000000002
+spindle assembly, 0.21375000000000002
+negative regulation of immune system process, 0.21375000000000002
+regulation of humoral immune response, 0.21375000000000002
+regulation of B cell activation, 0.21375000000000002
+disruption of host cell envelope during viral entry, 0.21375000000000002
+evasion by virus of host natural killer cell activity, 0.21375000000000002
+modulation by virus of host protein ubiquitination, 0.21375000000000002
+modulation by virus of syncytium formation via plasma membrane fusion, 0.21375000000000002
+modulation by virus of host catalytic activity, 0.21375000000000002
+renal tubule development, 0.21375000000000002
+response to organophosphorus, 0.21375000000000002
+response to osmotic stress, 0.21375000000000002
+response to purine-containing compound, 0.21375000000000002
+immunoglobulin mediated immune response, 0.21375000000000002
+response to unfolded protein, 0.21375000000000002
+alpha-beta T cell differentiation involved in immune response, 0.20896875000000004
+CD4-positive alpha-beta T cell activation, 0.20896875000000004
+negative regulation of chromosome organization, 0.20888390002893523
+negative regulation of sister chromatid segregation, 0.20782552951388894
+negative regulation of mitotic nuclear division, 0.20782552951388894
+purine-containing compound biosynthetic process, 0.2045416666666667
+hexose catabolic process, 0.2045416666666667
+ribonucleotide biosynthetic process, 0.2045416666666667
+positive regulation of mitotic cell cycle, 0.2045416666666667
+glucose metabolic process, 0.2045416666666667
+negative regulation of chromosome separation, 0.2040901041666667
+negative regulation of mitotic sister chromatid segregation, 0.2040901041666667
+cofactor biosynthetic process, 0.19542187500000002
+pyridine-containing compound biosynthetic process, 0.19542187500000002
+alpha-beta T cell activation involved in immune response, 0.19440585937500005
+T cell differentiation involved in immune response, 0.19440585937500005
+negative regulation of nuclear division, 0.1941629250217014
+cavitated compound organ, 0.19250000000000003
+NADH regeneration, 0.19250000000000003
+glycolytic process through glucose-6-phosphate, 0.19250000000000003
+glucose catabolic process to pyruvate, 0.19250000000000003
+mitotic DNA integrity checkpoint, 0.19250000000000003
+mitotic G2/M transition checkpoint, 0.19250000000000003
+mitotic spindle checkpoint, 0.19250000000000003
+DNA replication checkpoint, 0.19250000000000003
+spindle assembly checkpoint, 0.19250000000000003
+purine ribonucleoside triphosphate biosynthetic process, 0.19250000000000003
+purine ribonucleotide biosynthetic process, 0.19250000000000003
+immune response-regulating cell surface receptor signaling pathway involved in phagocytosis, 0.19250000000000003
+Fc-gamma receptor signaling pathway, 0.19250000000000003
+Fc receptor mediated stimulatory signaling pathway, 0.19250000000000003
+negative regulation of mitotic metaphase/anaphase transition, 0.19250000000000003
+positive regulation of cellular catabolic process, 0.19250000000000003
+positive regulation of protein catabolic process, 0.19250000000000003
+positive regulation of mitotic cell cycle phase transition, 0.19250000000000003
+positive regulation of cell cycle G2/M phase transition, 0.19250000000000003
+negative regulation of mitotic sister chromatid separation, 0.19090625000000003
+negative regulation of metaphase/anaphase transition of cell cycle, 0.19090625000000003
+negative regulation of cell cycle G2/M phase transition, 0.19090625000000003
+regulation of mitotic metaphase/anaphase transition, 0.19090625000000003
+organism subdivision, 0.181875
+respiration organ, 0.181875
+primary circulatory organ, 0.181875
+digestive system gland, 0.181875
+exocrine gland, 0.181875
+olfactory organ, 0.181875
+thoracic cavity element, 0.181875
+purine nucleoside monophosphate biosynthetic process, 0.181875
+purine ribonucleoside monophosphate metabolic process, 0.181875
+positive regulation of cell adhesion, 0.181875
+positive regulation of cellular protein localization, 0.181875
+positive regulation of intracellular transport, 0.181875
+regulation of intracellular protein transport, 0.181875
+positive regulation of protein transport, 0.181875
+prevention and control intervention, 0.15280096500525137
+Risk Factor, 0.15111806390002394
+Abnormal pulmonary thoracic imaging finding, 0.1510958348375311
+Interstitial pulmonary abnormality, 0.15092052484179375
+Model, 0.15090483978919778
+general symptom, 0.15087654997868688
+processed material, 0.15082474479139213
+therapeutic procedure, 0.1507706023711127
+neurological and physiological symptom, 0.1506749434835889
+leukocyte disease, 0.15059999846041117
+organ system subdivision, 0.15049061367031422
+one-dimensional temporal region, 0.15040199887672315
+digestive system symptom, 0.15032432349211416
+blood chemistry measurement, 0.15031944682857828
+plan specification, 0.15029275622936245
+clinical assay, 0.15029275622936245
+Abnormal inflammatory response, 0.15028530594877398
+Abnormal C-reactive protein level, 0.1501753099957374
+Abnormal serum ferritin, 0.1501753099957374
+syndrome, 0.1501753099957374
+health care process, 0.15016395795130058
+reproduction number, 0.1501339996255744
+COVID clinical aspect, 0.15000000000000002
+COVID model, 0.15000000000000002
+COVID prevention and control, 0.15000000000000002
+COVID risk factor, 0.15000000000000002
+COVID signs and symptoms, 0.15000000000000002
+COVID transmission process, 0.15000000000000002
+COVID Virology, 0.15000000000000002
+occurent, 0.15000000000000002
+patient, 0.15000000000000002
+specifically depedent continuant, 0.15000000000000002
+Data Capture, 0.15000000000000002
+travel history item, 0.15000000000000002
+basic reproduction number, 0.15000000000000002
+physical examination finding, 0.15000000000000002
+abnormal resiratory finding, 0.15000000000000002
+Antibody Titer, 0.15000000000000002
+bilateral involvement, 0.15000000000000002
+Negative Test Result, 0.15000000000000002
+patchy consolidation, 0.15000000000000002
+peripheral distribution, 0.15000000000000002
+posterior distribution, 0.15000000000000002
+RNAaemia, 0.15000000000000002
+positive COVID-19 test, 0.15000000000000002
+presumptive positive COVID-19 test, 0.15000000000000002
+asymptomatic, 0.15000000000000002
+drive-thru testing, 0.15000000000000002
+quick test, 0.15000000000000002
+Symptomatic, 0.15000000000000002
+common compute tomography pattern, 0.15000000000000002
+higher sequential organ failure assessment score, 0.15000000000000002
+Respiratory Rate, 0.15000000000000002
+oxygen saturation, 0.15000000000000002
+Erythrocyte Count, 0.15000000000000002
+platelet count, 0.15000000000000002
+CD-3-positive T-lymphocyte count, 0.15000000000000002
+D-dimer measurement, 0.15000000000000002
+prothrombin time, 0.15000000000000002
+heart rate, 0.15000000000000002
+mean arterial blood pressure, 0.15000000000000002
+pulse, 0.15000000000000002
+computational phylogenetic analysis, 0.15000000000000002
+enrichment for domain families within the interacting proteins, 0.15000000000000002
+gene ontology enrichment analysis, 0.15000000000000002
+graph-based analysis operation, 0.15000000000000002
+contact tracing, 0.15000000000000002
+In Vitro Model, 0.15000000000000002
+SAR-CoV-1 model, 0.15000000000000002
+SAR-CoV-2 model, 0.15000000000000002
+BEL based model, 0.15000000000000002
+Molecular Docking Simulation, 0.15000000000000002
+one-dimensional continuant fiat boundary, 0.15000000000000002
+two-dimensional continuant fiat boundary, 0.15000000000000002
+zero-dimensional continuant fiat boundary, 0.15000000000000002
+Wuhan, 0.15000000000000002
+one-dimensional spatial region, 0.15000000000000002
+two-dimensional spatial region, 0.15000000000000002
+three-dimensional spatial region, 0.15000000000000002
+zero-dimensional spatial region, 0.15000000000000002
+disorder, 0.15000000000000002
+fiat object part, 0.15000000000000002
+host, 0.15000000000000002
+object aggregate, 0.15000000000000002
+brain renin-angiotensin system, 0.15000000000000002
+respiratory system, 0.15000000000000002
+brain, 0.15000000000000002
+nose, 0.15000000000000002
+alveolar system, 0.15000000000000002
+liver, 0.15000000000000002
+lung, 0.15000000000000002
+kidney, 0.15000000000000002
+blood vessel, 0.15000000000000002
+heart, 0.15000000000000002
+eye, 0.15000000000000002
+organ component layer, 0.15000000000000002
+intestine, 0.15000000000000002
+renin-angiotensin system, 0.15000000000000002
+mucus, 0.15000000000000002
+saliva, 0.15000000000000002
+phlegm, 0.15000000000000002
+Alveolar Cell Type II, 0.15000000000000002
+Antibody-Producing Cell, 0.15000000000000002
+Eosinophils, 0.15000000000000002
+macrophage, 0.15000000000000002
+multinucleated giant cell, 0.15000000000000002
+natural killer cell, 0.15000000000000002
+neutrophil, 0.15000000000000002
+Plasma Cell, 0.15000000000000002
+pheumocyte, 0.15000000000000002
+B cell, 0.15000000000000002
+CD16 positive CD56 positive lymphocyte, 0.15000000000000002
+CD4-Positive T-Lymphocytes, 0.15000000000000002
+CD8-Positive T-Lymphocytes, 0.15000000000000002
+T follicular helper cell, 0.15000000000000002
+CD4-positive helper T cell, 0.15000000000000002
+CD4-positive CD25-positive alpha-beta regulatory T cell, 0.15000000000000002
+mature alpha-beta T cell, 0.15000000000000002
+apical dendrite, 0.15000000000000002
+apical junction complex, 0.15000000000000002
+apical part of cell, 0.15000000000000002
+apical plasma membrane, 0.15000000000000002
+azurophil granule, 0.15000000000000002
+basal part of cell, 0.15000000000000002
+basal plasma membrance, 0.15000000000000002
+basolateral plasma membrane, 0.15000000000000002
+blood microparicle, 0.15000000000000002
+cell cortex region, 0.15000000000000002
+cell leading adge, 0.15000000000000002
+cell trailing edge, 0.15000000000000002
+cell-substrate adherens junction, 0.15000000000000002
+clathrin-coated pit, 0.15000000000000002
+clathrin-coated vesicle membrane, 0.15000000000000002
+collagen-containing extracellular matrix, 0.15000000000000002
+condensed chromosome outer kinetochore, 0.15000000000000002
+condense nuclear chromosome, 0.15000000000000002
+cornified envelope, 0.15000000000000002
+cytoplasmic ubiquitin ligase complex, 0.15000000000000002
+cytosolic part, 0.15000000000000002
+desmosome, 0.15000000000000002
+distal axon, 0.15000000000000002
+early endosome, 0.15000000000000002
+endocytic vesicle membrane, 0.15000000000000002
+endolysosome, 0.15000000000000002
+endoplasmic reticulum lumen, 0.15000000000000002
+endoplasmic reticulum quality control compartment, 0.15000000000000002
+endoplasmic reticulum-Golgi intermediate compartment, 0.15000000000000002
+endoplasmic reticulum-Golgi intermediate compartment membrance, 0.15000000000000002
+external side of plasma membrane, 0.15000000000000002
+endosome membrane, 0.15000000000000002
+ficolin-1-rich granule, 0.15000000000000002
+ficolin-1-rich granule lumen, 0.15000000000000002
+host cellular component, 0.15000000000000002
+immunological synapse, 0.15000000000000002
+integral component of endoplasmic reticulum membrane, 0.15000000000000002
+lamellipodium, 0.15000000000000002
+late endosome, 0.15000000000000002
+midbody, 0.15000000000000002
+mitochondrial inner membrane, 0.15000000000000002
+mitochondrial matrix, 0.15000000000000002
+mitochondrial outer membrane, 0.15000000000000002
+nuclear envelop, 0.15000000000000002
+nuclear matrix, 0.15000000000000002
+nuclear membrane, 0.15000000000000002
+nuclear periphery, 0.15000000000000002
+polysome, 0.15000000000000002
+pronucleus, 0.15000000000000002
+serine/threonine protein kinase complex, 0.15000000000000002
+specific granule, 0.15000000000000002
+spindle midzone, 0.15000000000000002
+spindle pole, 0.15000000000000002
+tertiary granule, 0.15000000000000002
+tertiary granule lumen, 0.15000000000000002
+uropod, 0.15000000000000002
+focal adhesion, 0.15000000000000002
+condensed nuclear chromosome centromic region, 0.15000000000000002
+clathrin-coated endocytic vesicle, 0.15000000000000002
+condensed nuclear chromosome, 0.15000000000000002
+azurophil granule lumen, 0.15000000000000002
+phagocytic vesicle, 0.15000000000000002
+IgM immunoglobulin complex circulating, 0.15000000000000002
+mitochondrial proton-transprting ATP synthase complex, 0.15000000000000002
+integrin alpha-beta1 complex, 0.15000000000000002
+condensed nuclear chromosome kinetochore, 0.15000000000000002
+plasma lipoprotein particle, 0.15000000000000002
+membrane raft, 0.15000000000000002
+spindle microtubule, 0.15000000000000002
+kinesin complex, 0.15000000000000002
+microtubule plus-end, 0.15000000000000002
+asymmetric synapse, 0.15000000000000002
+melanosome, 0.15000000000000002
+postsynaptic density, 0.15000000000000002
+cytosolic large ribosomal subunit, 0.15000000000000002
+cytosolic small ribosomal subunit, 0.15000000000000002
+cytosolic ribosome, 0.15000000000000002
+polysomal ribosome, 0.15000000000000002
+azurophil granule membrane, 0.15000000000000002
+ficolin-1rich granule membrane, 0.15000000000000002
+specific granule membrane, 0.15000000000000002
+tertiary granule membrane, 0.15000000000000002
+U1 snRNP, 0.15000000000000002
+mitotic spindle, 0.15000000000000002
+bicellular tight junction, 0.15000000000000002
+lysosomal lumen, 0.15000000000000002
+bipartite viral genome, 0.15000000000000002
+non-segmented viral genome, 0.15000000000000002
+positive sense viral genome, 0.15000000000000002
+RNA viral genome, 0.15000000000000002
+SARS-CoV genome, 0.15000000000000002
+ssRNA viral denome, 0.15000000000000002
+viral capsid, 0.15000000000000002
+virion nucleoid, 0.15000000000000002
+helical viral capsid, 0.15000000000000002
+viral envelope, 0.15000000000000002
+IGHE, 0.15000000000000002
+IGHE1, 0.15000000000000002
+IGHE2, 0.15000000000000002
+IGHE4, 0.15000000000000002
+IGLC2, 0.15000000000000002
+TRAC, 0.15000000000000002
+TRBC1, 0.15000000000000002
+A2M, 0.15000000000000002
+ACE2, 0.15000000000000002
+AGTR1, 0.15000000000000002
+ALB, 0.15000000000000002
+ALPL, 0.15000000000000002
+AMICA1, 0.15000000000000002
+ANPEP, 0.15000000000000002
+APOBEC3A, 0.15000000000000002
+AREG, 0.15000000000000002
+ARG1, 0.15000000000000002
+BDH1, 0.15000000000000002
+BIRC5, 0.15000000000000002
+C1QBP, 0.15000000000000002
+C3, 0.15000000000000002
+C4B, 0.15000000000000002
+C5, 0.15000000000000002
+CALCA, 0.15000000000000002
+CASP1, 0.15000000000000002
+CCL13, 0.15000000000000002
+CCL2, 0.15000000000000002
+CCL3, 0.15000000000000002
+CCL3L1, 0.15000000000000002
+CCL4CCL5, 0.15000000000000002
+CCL8, 0.15000000000000002
+CCNB1, 0.15000000000000002
+CCNB2, 0.15000000000000002
+CD14, 0.15000000000000002
+CD2, 0.15000000000000002
+CD247, 0.15000000000000002
+CD3E, 0.15000000000000002
+CD3G, 0.15000000000000002
+CD4, 0.15000000000000002
+CD8A, 0.15000000000000002
+CD8B, 0.15000000000000002
+CKM, 0.15000000000000002
+CMTM2, 0.15000000000000002
+CRP, 0.15000000000000002
+CSF2, 0.15000000000000002
+CSF3, 0.15000000000000002
+CTLA4, 0.15000000000000002
+CTSB, 0.15000000000000002
+CTSD, 0.15000000000000002
+CTSL, 0.15000000000000002
+CTSZ, 0.15000000000000002
+CXCL1, 0.15000000000000002
+CXCL10, 0.15000000000000002
+CXCL11, 0.15000000000000002
+CKCL16, 0.15000000000000002
+CXCL2, 0.15000000000000002
+CXCL6, 0.15000000000000002
+CXCL9, 0.15000000000000002
+CXCR2, 0.15000000000000002
+CXCR6, 0.15000000000000002
+DDIT4, 0.15000000000000002
+DDX1, 0.15000000000000002
+DPP4, 0.15000000000000002
+ESR1, 0.15000000000000002
+FABP4, 0.15000000000000002
+FABP5, 0.15000000000000002
+FASLG, 0.15000000000000002
+FCN1, 0.15000000000000002
+FGA, 0.15000000000000002
+FGB, 0.15000000000000002
+FGF2, 0.15000000000000002
+FGG, 0.15000000000000002
+FTH1, 0.15000000000000002
+FURIN, 0.15000000000000002
+FYN, 0.15000000000000002
+G3BP2, 0.15000000000000002
+GBP1, 0.15000000000000002
+GDF11, 0.15000000000000002
+GOT1, 0.15000000000000002
+GOT2, 0.15000000000000002
+GPR183, 0.15000000000000002
+GPT, 0.15000000000000002
+GRN, 0.15000000000000002
+GTSE1, 0.15000000000000002
+GZMA, 0.15000000000000002
+GZMB, 0.15000000000000002
+GZMK, 0.15000000000000002
+HAMP, 0.15000000000000002
+HAS2, 0.15000000000000002
+HAVCR2, 0.15000000000000002
+HLA-DRB1, 0.15000000000000002
+HLA-DRB4, 0.15000000000000002
+HLA-DRB5, 0.15000000000000002
+HNRNPA1, 0.15000000000000002
+HOPX, 0.15000000000000002
+HSPA5, 0.15000000000000002
+IFITM3, 0.15000000000000002
+IFNA1, 0.15000000000000002
+IFNAR1, 0.15000000000000002
+IFNB1, 0.15000000000000002
+IFNG, 0.15000000000000002
+IGFBP3, 0.15000000000000002
+IGLL1, 0.15000000000000002
+IL10, 0.15000000000000002
+IL18, 0.15000000000000002
+IL1R1, 0.15000000000000002
+IL1Rn, 0.15000000000000002
+IL2, 0.15000000000000002
+IL2RA, 0.15000000000000002
+IL2RB, 0.15000000000000002
+IL33, 0.15000000000000002
+IL37, 0.15000000000000002
+IL6R, 0.15000000000000002
+IL7, 0.15000000000000002
+IL8, 0.15000000000000002
+IL9, 0.15000000000000002
+IMPA1, 0.15000000000000002
+INHBA, 0.15000000000000002
+IRF1, 0.15000000000000002
+IRF3, 0.15000000000000002
+ISG15, 0.15000000000000002
+ISG20, 0.15000000000000002
+ITGA1, 0.15000000000000002
+ITGAE, 0.15000000000000002
+JUN, 0.15000000000000002
+KLRC1, 0.15000000000000002
+KLRD1, 0.15000000000000002
+KLRF1, 0.15000000000000002
+LBP, 0.15000000000000002
+LCK, 0.15000000000000002
+LDHA, 0.15000000000000002
+LDHB, 0.15000000000000002
+LDHC, 0.15000000000000002
+LY6E, 0.15000000000000002
+MACROD1, 0.15000000000000002
+MAS1, 0.15000000000000002
+MMP25, 0.15000000000000002
+MRC1, 0.15000000000000002
+MX1, 0.15000000000000002
+NKRF, 0.15000000000000002
+NOG, 0.15000000000000002
+NPM1, 0.15000000000000002
+NPPB, 0.15000000000000002
+NRG1, 0.15000000000000002
+NTRK1, 0.15000000000000002
+PDCD1, 0.15000000000000002
+PDGFB, 0.15000000000000002
+PHB, 0.15000000000000002
+PHB2, 0.15000000000000002
+PLG, 0.15000000000000002
+PRF1, 0.15000000000000002
+PRG3, 0.15000000000000002
+PRSS1, 0.15000000000000002
+RAE1, 0.15000000000000002
+RPL19, 0.15000000000000002
+RRAS, 0.15000000000000002
+RRM2, 0.15000000000000002
+S100A8, 0.15000000000000002
+S100A9, 0.15000000000000002
+SAA1, 0.15000000000000002
+SCGB3A1, 0.15000000000000002
+SELL, 0.15000000000000002
+SGTA, 0.15000000000000002
+SMAD3, 0.15000000000000002
+SPP1, 0.15000000000000002
+STAT1, 0.15000000000000002
+STEAP3, 0.15000000000000002
+TFRC, 0.15000000000000002
+TGFB1, 0.15000000000000002
+TGFB2, 0.15000000000000002
+TIGIT, 0.15000000000000002
+TIMP1, 0.15000000000000002
+TLR3, 0.15000000000000002
+TMPRSS2, 0.15000000000000002
+TNF, 0.15000000000000002
+TNFSF10, 0.15000000000000002
+TNNI3, 0.15000000000000002
+TNNT1, 0.15000000000000002
+TNNT2, 0.15000000000000002
+TP53I3, 0.15000000000000002
+TPO, 0.15000000000000002
+TREM2, 0.15000000000000002
+VCAN, 0.15000000000000002
+VEGFA, 0.15000000000000002
+XCL1, 0.15000000000000002
+XCL2, 0.15000000000000002
+XPO1, 0.15000000000000002
+ZAP70, 0.15000000000000002
+ZNF683, 0.15000000000000002
+A1a haplotype, 0.15000000000000002
+A2a haplotype, 0.15000000000000002
+A2a1 haplotype, 0.15000000000000002
+A2a2 haplotype, 0.15000000000000002
+A2a2a haplotype, 0.15000000000000002
+A2a3 haplotype, 0.15000000000000002
+A2a3a haplotype, 0.15000000000000002
+B1a haplotype, 0.15000000000000002
+B1a1 haplotype, 0.15000000000000002
+adenosine, 0.15000000000000002
+creatinine, 0.15000000000000002
+Cyclophilins, 0.15000000000000002
+glycyrrhizinic acid, 0.15000000000000002
+Isoniazid pyruvate, 0.15000000000000002
+nicotinamide, 0.15000000000000002
+nitrofurantoin, 0.15000000000000002
+porphyrins, 0.15000000000000002
+procainamide, 0.15000000000000002
+proelastase, 0.15000000000000002
+prostaglandin I2, 0.15000000000000002
+thyroid stimulating hormone, 0.15000000000000002
+vitamin C, 0.15000000000000002
+caffeine, 0.15000000000000002
+Chinese Herbs, 0.15000000000000002
+disinfectant, 0.15000000000000002
+hydrogen peroxide, 0.15000000000000002
+hydrogen(.), 0.15000000000000002
+nitric oxide, 0.15000000000000002
+oxygen atom, 0.15000000000000002
+(S)-verapamil, 0.15000000000000002
+1-phenyl-1-cyclopentanecarboxylic acid 2-[2-(diethylamino)ethoxy]ethyl ester, 0.15000000000000002
+3 3' 5'-triiodothyronine, 0.15000000000000002
+4-Benzyl-2-methyl-1 2 4-thiadiazolidine-3 5-dione, 0.15000000000000002
+4-methylumbelliferone, 0.15000000000000002
+5-aza-2'-deoxycytidine, 0.15000000000000002
+6-methylprednisolone, 0.15000000000000002
+6alpha-methylprednisolone, 0.15000000000000002
+abacavir, 0.15000000000000002
+acetylcysteine, 0.15000000000000002
+adalimumab, 0.15000000000000002
+Ademetionine, 0.15000000000000002
+adrenergic antagonist, 0.15000000000000002
+aloxistatin, 0.15000000000000002
+alpha-ketoamide inhibitor, 0.15000000000000002
+amitriptyline, 0.15000000000000002
+ampicillin, 0.15000000000000002
+analgesic, 0.15000000000000002
+andrographolide, 0.15000000000000002
+angiotensin II, 0.15000000000000002
+Angiotensin II Acetate, 0.15000000000000002
+Angiotensin II Receptor Antagonist, 0.15000000000000002
+angiotensin receptor antagonist, 0.15000000000000002
+Antibiotic, 0.15000000000000002
+antifungal agent, 0.15000000000000002
+antimicrobial agent, 0.15000000000000002
+antiviral agent, 0.15000000000000002
+apicidin, 0.15000000000000002
+Apilimod, 0.15000000000000002
+aprepitant, 0.15000000000000002
+atazanavir, 0.15000000000000002
+atorvastatin, 0.15000000000000002
+azithromycin, 0.15000000000000002
+azvudine, 0.15000000000000002
+bafilomycin A1, 0.15000000000000002
+Baloxavir marboxil, 0.15000000000000002
+baricitinib, 0.15000000000000002
+Beclabuvir, 0.15000000000000002
+benzylpenicillin, 0.15000000000000002
+bepotastine, 0.15000000000000002
+bevacizumab, 0.15000000000000002
+bis(N-pantothenylamidoethyl) disulfide, 0.15000000000000002
+bleomycin, 0.15000000000000002
+boceprevir, 0.15000000000000002
+bortezomib, 0.15000000000000002
+bromhexine hydrochloride, 0.15000000000000002
+calcium channel blocker, 0.15000000000000002
+camostat, 0.15000000000000002
+camostat methanesulfonate, 0.15000000000000002
+camphor, 0.15000000000000002
+Camrelizumab, 0.15000000000000002
+captopril, 0.15000000000000002
+carfilzomib, 0.15000000000000002
+Carmofur, 0.15000000000000002
+carriomycin, 0.15000000000000002
+carvedilol, 0.15000000000000002
+caspofungin, 0.15000000000000002
+ceftolozane, 0.15000000000000002
+cephalosporin, 0.15000000000000002
+cepharanthine, 0.15000000000000002
+chalcone, 0.15000000000000002
+chloramphenicol, 0.15000000000000002
+chloroquine, 0.15000000000000002
+Chloroquine Phosphate, 0.15000000000000002
+chlorothiazide, 0.15000000000000002
+cinacalcet, 0.15000000000000002
+cinanserin, 0.15000000000000002
+cinchocaine, 0.15000000000000002
+cobicistat, 0.15000000000000002
+colchicine, 0.15000000000000002
+colistin, 0.15000000000000002
+corticosteroid, 0.15000000000000002
+cyclosporin A, 0.15000000000000002
+Cytarabine/Homoharringtonine/Interferon Alfa, 0.15000000000000002
+dabrafenib, 0.15000000000000002
+daclatasvir, 0.15000000000000002
+Dactinomycin, 0.15000000000000002
+dalbavancin, 0.15000000000000002
+danoprevir, 0.15000000000000002
+darunavir, 0.15000000000000002
+daunorubicin, 0.15000000000000002
+desferrioxamine B, 0.15000000000000002
+desoxyrhaponticin, 0.15000000000000002
+dexamethasone, 0.15000000000000002
+Diammonium Glycyrrhizinate, 0.15000000000000002
+dihydroartemisinin, 0.15000000000000002
+dipyridamole, 0.15000000000000002
+disulfiram, 0.15000000000000002
+diuretic, 0.15000000000000002
+dolutegravir, 0.15000000000000002
+Ebastine, 0.15000000000000002
+ebselen, 0.15000000000000002
+eculizumab, 0.15000000000000002
+efavirenz, 0.15000000000000002
+elvitegravir, 0.15000000000000002
+emetine, 0.15000000000000002
+emodin, 0.15000000000000002
+emtricitabine, 0.15000000000000002
+Enoxaparin, 0.15000000000000002
+entacapone, 0.15000000000000002
+enzaplatovir, 0.15000000000000002
+eplerenone, 0.15000000000000002
+equilin, 0.15000000000000002
+eriodictyol, 0.15000000000000002
+erlotinib, 0.15000000000000002
+ethoheptazine, 0.15000000000000002
+favipiravir, 0.15000000000000002
+Fedratinib, 0.15000000000000002
+fenofibrate, 0.15000000000000002
+ferroquine, 0.15000000000000002
+fingolimod, 0.15000000000000002
+formoterol, 0.15000000000000002
+fosamprenavir, 0.15000000000000002
+ganciclovir, 0.15000000000000002
+gemeprost, 0.15000000000000002
+glucocorticoid, 0.15000000000000002
+grazoprevir, 0.15000000000000002
+haloperidol, 0.15000000000000002
+hesperidin, 0.15000000000000002
+HIV protease inhibitor, 0.15000000000000002
+hydroxychloroquine, 0.15000000000000002
+hypericin, 0.15000000000000002
+ibuprofen, 0.15000000000000002
+icatibant, 0.15000000000000002
+Ile(5)-angiotensin II (1-7), 0.15000000000000002
+imatinib, 0.15000000000000002
+immunomodulator, 0.15000000000000002
+indinavir, 0.15000000000000002
+indomethacin, 0.15000000000000002
+Interferon Alfa-2b, 0.15000000000000002
+irbesartan, 0.15000000000000002
+ivermectin, 0.15000000000000002
+Jakotinib hydrochloride, 0.15000000000000002
+labetalol, 0.15000000000000002
+ledipasvir, 0.15000000000000002
+leflunomide, 0.15000000000000002
+Leronlimab, 0.15000000000000002
+levamisole, 0.15000000000000002
+linezolid, 0.15000000000000002
+lisinopril, 0.15000000000000002
+lopinavir, 0.15000000000000002
+Lopinavir/Ritonavir, 0.15000000000000002
+losartan, 0.15000000000000002
+Maribavir, 0.15000000000000002
+melatonin, 0.15000000000000002
+Meperidine, 0.15000000000000002
+meplazumab, 0.15000000000000002
+mercaptopurine, 0.15000000000000002
+Merimepodib, 0.15000000000000002
+mesalamine, 0.15000000000000002
+metformin, 0.15000000000000002
+methicillin, 0.15000000000000002
+Methylprednisolone, 0.15000000000000002
+midostaurin, 0.15000000000000002
+montelukast, 0.15000000000000002
+mycophenolic acid, 0.15000000000000002
+nafamostat, 0.15000000000000002
+Naphazoline, 0.15000000000000002
+nelfinavir, 0.15000000000000002
+neuraminidase inhibitor drug, 0.15000000000000002
+nitazoxanide, 0.15000000000000002
+Nucleic Acid Synthesis Inhibitor, 0.15000000000000002
+olmesartan, 0.15000000000000002
+omacetaxine mepesuccinate, 0.15000000000000002
+omeprazole, 0.15000000000000002
+oseltamivir, 0.15000000000000002
+oxymetholone, 0.15000000000000002
+pantethine, 0.15000000000000002
+paroxetine, 0.15000000000000002
+PD1 Inhibitor, 0.15000000000000002
+peginterferon alfa-2a, 0.15000000000000002
+penicillamine, 0.15000000000000002
+pentamidine, 0.15000000000000002
+perphenazine, 0.15000000000000002
+pevonedistat, 0.15000000000000002
+piperaquine, 0.15000000000000002
+pirfenidone, 0.15000000000000002
+ponatinib, 0.15000000000000002
+pralmorelin, 0.15000000000000002
+praziquantel, 0.15000000000000002
+prednisolone, 0.15000000000000002
+preprocalcitonin, 0.15000000000000002
+Presatovir, 0.15000000000000002
+pseudoephedrine, 0.15000000000000002
+raltegravir, 0.15000000000000002
+Ranitidine bismuth citrate, 0.15000000000000002
+Recombinant Granulocyte Colony-Stimulating Factor, 0.15000000000000002
+Recombinant Human Angiotensin Converting Enzyme 2 APN01, 0.15000000000000002
+remdesivir, 0.15000000000000002
+ribavirin, 0.15000000000000002
+rilpivirine, 0.15000000000000002
+ritonavir, 0.15000000000000002
+Rupintrivir, 0.15000000000000002
+ruxolitinib, 0.15000000000000002
+sanglifehrin A, 0.15000000000000002
+Sapanisertib, 0.15000000000000002
+saquinavir, 0.15000000000000002
+sarilumab, 0.15000000000000002
+Shikonin, 0.15000000000000002
+Silmitasertib, 0.15000000000000002
+simeprevir, 0.15000000000000002
+sirolimus, 0.15000000000000002
+sodium hypochlorite, 0.15000000000000002
+sorafenib, 0.15000000000000002
+Suramin sodium, 0.15000000000000002
+Tacrolimus, 0.15000000000000002
+tamoxifen, 0.15000000000000002
+tamsulosin, 0.15000000000000002
+TDZD-8, 0.15000000000000002
+teicoplanin, 0.15000000000000002
+telaprevir, 0.15000000000000002
+telmisartan, 0.15000000000000002
+Tenofovir, 0.15000000000000002
+tenofovir alafenamide, 0.15000000000000002
+tenofovir(1-), 0.15000000000000002
+terbinafine, 0.15000000000000002
+ternatin 4, 0.15000000000000002
+tetryzoline, 0.15000000000000002
+thalidomide, 0.15000000000000002
+thiazolidinediones, 0.15000000000000002
+Thioredoxin-1 Inhibitor PX-12, 0.15000000000000002
+thymopentin, 0.15000000000000002
+Thymosin, 0.15000000000000002
+ticagrelor, 0.15000000000000002
+ticlopidine, 0.15000000000000002
+Tideglusib, 0.15000000000000002
+tigecycline, 0.15000000000000002
+tipranavir, 0.15000000000000002
+tocilizumab, 0.15000000000000002
+tolazamide, 0.15000000000000002
+Tomivosertib, 0.15000000000000002
+toremifene, 0.15000000000000002
+tranilast, 0.15000000000000002
+trans-piceid, 0.15000000000000002
+triazavirin, 0.15000000000000002
+umifenovir, 0.15000000000000002
+valinomycin, 0.15000000000000002
+valproic acid, 0.15000000000000002
+valrubicin, 0.15000000000000002
+Vapreotide, 0.15000000000000002
+vasodilator agent, 0.15000000000000002
+velpatasvir, 0.15000000000000002
+Verdinexor, 0.15000000000000002
+zafirlukast, 0.15000000000000002
+zotatifin, 0.15000000000000002
+moxifloxacin, 0.15000000000000002
+lianhuaqingwen, 0.15000000000000002
+ShuFengJieDu, 0.15000000000000002
+tryptanthrin, 0.15000000000000002
+C-19 COVID symptom tracker, 0.15000000000000002
+self-assessment application, 0.15000000000000002
+Polyinosinic-polycytidylic Acid/Inactivated Rabies Virus Vaccine YS-ON-001, 0.15000000000000002
+Cathepsin, 0.15000000000000002
+Cytoplasmic Domain, 0.15000000000000002
+fibrin fragment D, 0.15000000000000002
+gamma-glutamyltransferase, 0.15000000000000002
+Integrin, 0.15000000000000002
+Monoclonal Antibody, 0.15000000000000002
+Transmembrane Domain, 0.15000000000000002
+Immunoglobulin E, 0.15000000000000002
+Immunoglobulin G, 0.15000000000000002
+Immunoglobulin M, 0.15000000000000002
+interferon alpha, 0.15000000000000002
+interferon beta, 0.15000000000000002
+type I interferon, 0.15000000000000002
+envelope small membrane protein (SARS-CoV-2), 0.15000000000000002
+fusion peptide (SARS-CoV-2), 0.15000000000000002
+heptad repeat 1 (SARS-CoV-2), 0.15000000000000002
+heptad repeat 2 (SARS-CoV-2), 0.15000000000000002
+membrane protein (SARS-CoV-2), 0.15000000000000002
+N-terminal domain (SARS-CoV-2), 0.15000000000000002
+nucleoprotein (SARS-CoV-2), 0.15000000000000002
+ORF10 protein (SARS-CoV-2), 0.15000000000000002
+ORF6 protein (SARS-CoV-2), 0.15000000000000002
+ORF8 protein (SARS-CoV-2), 0.15000000000000002
+protein 3a (SARS-CoV-2), 0.15000000000000002
+protein 7a (SARS-CoV-2), 0.15000000000000002
+protein 7b (SARS-CoV-2), 0.15000000000000002
+protein 9b (SARS-CoV-2), 0.15000000000000002
+receptor-binding domain (SARS-CoV-2), 0.15000000000000002
+signal peptide (SARS-CoV-2), 0.15000000000000002
+uncharacterized protein 14 (SARS-CoV-2), 0.15000000000000002
+nsp7 and nsp8 primase complex, 0.15000000000000002
+ORF3b, 0.15000000000000002
+ORF7, 0.15000000000000002
+ORF8a, 0.15000000000000002
+ORF8b, 0.15000000000000002
+ORF9c, 0.15000000000000002
+3C-like proteinase (SARS-CoV-2), 0.15000000000000002
+host translation inhibitor nsp1 (SARS-CoV-2), 0.15000000000000002
+non-structural protein 10 (SARS-CoV-2), 0.15000000000000002
+non-structural protein 2 (SARS-CoV-2), 0.15000000000000002
+non-structural protein 3 (SARS-CoV-2), 0.15000000000000002
+non-structural protein 4 (SARS-CoV-2), 0.15000000000000002
+non-structural protein 6 (SARS-CoV-2), 0.15000000000000002
+non-structural protein 7 (SARS-CoV-2), 0.15000000000000002
+non-structural protein 8 (SARS-CoV-2), 0.15000000000000002
+non-structural protein 9 (SARS-CoV-2), 0.15000000000000002
+non-structural protein 11 (SARS-CoV-2), 0.15000000000000002
+2'-O-methyltransferase (SARS-CoV-2), 0.15000000000000002
+bifunctional exonuclease/methyltransferase (SARS-CoV-2), 0.15000000000000002
+helicase (SARS-CoV-2), 0.15000000000000002
+RNA-directed RNA polymerase (SARS-CoV-2), 0.15000000000000002
+uridylate-specific endoribonuclease (SARS-CoV-2), 0.15000000000000002
+spike protein S1 (SARS-CoV-2), 0.15000000000000002
+spike protein S2' (SARS-CoV-2), 0.15000000000000002
+super-spreader, 0.15000000000000002
+Manis tricuspis, 0.15000000000000002
+Cricetulus griseus, 0.15000000000000002
+Chiroptera, 0.15000000000000002
+Rhinolophus, 0.15000000000000002
+Homo sapiens, 0.15000000000000002
+Serpentes, 0.15000000000000002
+Human adenovirus 2, 0.15000000000000002
+Human adenovirus 5, 0.15000000000000002
+Human betaherpesvirus 5, 0.15000000000000002
+Human gammaherpesvirus 4, 0.15000000000000002
+Human herpesvirus 8 strain rKSHV.219, 0.15000000000000002
+ssRNA viruses, 0.15000000000000002
+Human metapneumovirus, 0.15000000000000002
+Bat coronavirus Cp/Yunnan2011, 0.15000000000000002
+Bat coronavirus Rp/Shaanxi2011, 0.15000000000000002
+Bat SARS coronavirus Rp1, 0.15000000000000002
+Bat SARS coronavirus Rp2, 0.15000000000000002
+Bat SARS CoV Rp3/2004, 0.15000000000000002
+Bat SARS-like coronavirus, 0.15000000000000002
+Bat SARS-like coronavirus Rs3367, 0.15000000000000002
+Bat SARS-like coronavirus RsSHC014, 0.15000000000000002
+Bat SARS-like coronavirus WIV1, 0.15000000000000002
+Bat SARS-like coronavirus YNLF_31C, 0.15000000000000002
+Bat SARS-like coronavirus YNLF_34C, 0.15000000000000002
+BtRf-BetaCoV/HeB2013, 0.15000000000000002
+BtRf-BetaCoV/JL2012, 0.15000000000000002
+BtRf-BetaCoV/SX2013, 0.15000000000000002
+BtRs-BetaCoV/GX2013, 0.15000000000000002
+BtRs-BetaCoV/HuB2013, 0.15000000000000002
+BtRs-BetaCoV/YN2013, 0.15000000000000002
+Civet SARS CoV 007/2004, 0.15000000000000002
+Civet SARS CoV SZ16/2003, 0.15000000000000002
+Civet SARS CoV SZ3/2003, 0.15000000000000002
+Rhinolophus affinis coronavirus, 0.15000000000000002
+SARS bat coronavirus, 0.15000000000000002
+SARS coronavirus A001, 0.15000000000000002
+SARS coronavirus A013, 0.15000000000000002
+SARS coronavirus A021, 0.15000000000000002
+SARS coronavirus A022, 0.15000000000000002
+SARS coronavirus A030, 0.15000000000000002
+SARS coronavirus A031, 0.15000000000000002
+SARS coronavirus AS, 0.15000000000000002
+SARS coronavirus B012, 0.15000000000000002
+SARS coronavirus B024, 0.15000000000000002
+SARS coronavirus B029, 0.15000000000000002
+SARS coronavirus B033, 0.15000000000000002
+SARS coronavirus B039, 0.15000000000000002
+SARS coronavirus B040, 0.15000000000000002
+SARS coronavirus BJ01, 0.15000000000000002
+SARS coronavirus BJ02, 0.15000000000000002
+SARS coronavirus BJ03, 0.15000000000000002
+SARS coronavirus BJ04, 0.15000000000000002
+SARS coronavirus BJ162, 0.15000000000000002
+SARS coronavirus BJ182-12, 0.15000000000000002
+SARS coronavirus BJ182-4, 0.15000000000000002
+SARS coronavirus BJ182-8, 0.15000000000000002
+SARS coronavirus BJ182a, 0.15000000000000002
+SARS coronavirus BJ182b, 0.15000000000000002
+SARS coronavirus BJ202, 0.15000000000000002
+SARS coronavirus BJ2232, 0.15000000000000002
+SARS coronavirus BJ302, 0.15000000000000002
+SARS coronavirus C013, 0.15000000000000002
+SARS coronavirus C014, 0.15000000000000002
+SARS coronavirus C017, 0.15000000000000002
+SARS coronavirus C018, 0.15000000000000002
+SARS coronavirus C019, 0.15000000000000002
+SARS coronavirus C025, 0.15000000000000002
+SARS coronavirus C028, 0.15000000000000002
+SARS coronavirus C029, 0.15000000000000002
+SARS Coronavirus CDC#200301157, 0.15000000000000002
+SARS coronavirus civet010, 0.15000000000000002
+SARS coronavirus civet014, 0.15000000000000002
+SARS coronavirus civet019, 0.15000000000000002
+SARS coronavirus civet020, 0.15000000000000002
+SARS coronavirus CS21, 0.15000000000000002
+SARS coronavirus CS24, 0.15000000000000002
+SARS coronavirus CUHK-AG01, 0.15000000000000002
+SARS coronavirus CUHK-AG02, 0.15000000000000002
+SARS coronavirus CUHK-AG03, 0.15000000000000002
+SARS coronavirus CUHK-L2, 0.15000000000000002
+SARS coronavirus CUHK-Su10, 0.15000000000000002
+SARS coronavirus CUHK-W1, 0.15000000000000002
+SARS coronavirus cw037, 0.15000000000000002
+SARS coronavirus cw049, 0.15000000000000002
+SARS coronavirus ES191, 0.15000000000000002
+SARS coronavirus ES260, 0.15000000000000002
+SARS coronavirus FRA, 0.15000000000000002
+SARS coronavirus GD01, 0.15000000000000002
+SARS coronavirus GD03T0013, 0.15000000000000002
+SARS coronavirus GD322, 0.15000000000000002
+SARS coronavirus GD69, 0.15000000000000002
+SARS coronavirus GDH-BJH01, 0.15000000000000002
+SARS coronavirus GZ-A, 0.15000000000000002
+SARS coronavirus GZ-B, 0.15000000000000002
+SARS coronavirus GZ-C, 0.15000000000000002
+SARS coronavirus GZ-D, 0.15000000000000002
+SARS coronavirus GZ02, 0.15000000000000002
+SARS coronavirus GZ0401, 0.15000000000000002
+SARS coronavirus GZ0402, 0.15000000000000002
+SARS coronavirus GZ0403, 0.15000000000000002
+SARS coronavirus GZ43, 0.15000000000000002
+SARS coronavirus GZ50, 0.15000000000000002
+SARS coronavirus GZ60, 0.15000000000000002
+SARS coronavirus HB, 0.15000000000000002
+SARS coronavirus HC/SZ/61/03, 0.15000000000000002
+SARS coronavirus HGZ8L1-A, 0.15000000000000002
+SARS coronavirus HGZ8L1-B, 0.15000000000000002
+SARS coronavirus HGZ8L2, 0.15000000000000002
+SARS coronavirus HHS-2004, 0.15000000000000002
+SARS coronavirus HKU-36871, 0.15000000000000002
+SARS coronavirus HKU-39849, 0.15000000000000002
+SARS coronavirus HKU-65806, 0.15000000000000002
+SARS coronavirus HKU-66078, 0.15000000000000002
+SARS coronavirus Hong Kong/03/2003, 0.15000000000000002
+SARS coronavirus HPZ-2003, 0.15000000000000002
+SARS coronavirus HSR 1, 0.15000000000000002
+SARS coronavirus HSZ-A, 0.15000000000000002
+SARS coronavirus HSZ-Bb, 0.15000000000000002
+SARS coronavirus HSZ-Bc, 0.15000000000000002
+SARS coronavirus HSZ-Cb, 0.15000000000000002
+SARS coronavirus HSZ-Cc, 0.15000000000000002
+SARS coronavirus HSZ2-A, 0.15000000000000002
+SARS coronavirus HZS2-Bb, 0.15000000000000002
+SARS coronavirus HZS2-C, 0.15000000000000002
+SARS coronavirus HZS2-D, 0.15000000000000002
+SARS coronavirus HZS2-E, 0.15000000000000002
+SARS coronavirus HZS2-Fb, 0.15000000000000002
+SARS coronavirus HZS2-Fc, 0.15000000000000002
+SARS coronavirus JMD, 0.15000000000000002
+SARS coronavirus LC1, 0.15000000000000002
+SARS coronavirus LC2, 0.15000000000000002
+SARS coronavirus LC3, 0.15000000000000002
+SARS coronavirus LC4, 0.15000000000000002
+SARS coronavirus LC5, 0.15000000000000002
+SARS coronavirus LLJ-2004, 0.15000000000000002
+SARS coronavirus NS-1, 0.15000000000000002
+SARS coronavirus P2, 0.15000000000000002
+SARS coronavirus PC4-115, 0.15000000000000002
+SARS coronavirus PC4-127, 0.15000000000000002
+SARS coronavirus PC4-13, 0.15000000000000002
+SARS coronavirus PC4-136, 0.15000000000000002
+SARS coronavirus PC4-137, 0.15000000000000002
+SARS coronavirus PC4-145, 0.15000000000000002
+SARS coronavirus PC4-199, 0.15000000000000002
+SARS coronavirus PC4-205, 0.15000000000000002
+SARS coronavirus PC4-227, 0.15000000000000002
+SARS coronavirus PC4-241, 0.15000000000000002
+SARS coronavirus PUMC01, 0.15000000000000002
+SARS coronavirus PUMC02, 0.15000000000000002
+SARS coronavirus PUMC03, 0.15000000000000002
+SARS coronavirus Rs_672/2006, 0.15000000000000002
+SARS coronavirus sf098, 0.15000000000000002
+SARS coronavirus sf099, 0.15000000000000002
+SARS coronavirus ShanghaiQXC1, 0.15000000000000002
+SARS coronavirus ShanghaiQXC2, 0.15000000000000002
+SARS coronavirus Shanhgai LY, 0.15000000000000002
+SARS coronavirus Sin0409, 0.15000000000000002
+SARS coronavirus Sin2500, 0.15000000000000002
+SARS coronavirus Sin2677, 0.15000000000000002
+SARS coronavirus Sin2679, 0.15000000000000002
+SARS coronavirus Sin2748, 0.15000000000000002
+SARS coronavirus Sin2774, 0.15000000000000002
+SARS coronavirus Sin3408, 0.15000000000000002
+SARS coronavirus Sin3408L, 0.15000000000000002
+SARS coronavirus Sin3725V, 0.15000000000000002
+SARS coronavirus Sin3765V, 0.15000000000000002
+SARS coronavirus Sin842, 0.15000000000000002
+SARS coronavirus Sin845, 0.15000000000000002
+SARS coronavirus Sin846, 0.15000000000000002
+SARS coronavirus Sin847, 0.15000000000000002
+SARS coronavirus Sin848, 0.15000000000000002
+SARS coronavirus Sin849, 0.15000000000000002
+SARS coronavirus Sin850, 0.15000000000000002
+SARS coronavirus Sin851, 0.15000000000000002
+SARS coronavirus Sin852, 0.15000000000000002
+SARS coronavirus Sin_WNV, 0.15000000000000002
+SARS coronavirus Sino1-11, 0.15000000000000002
+SARS coronavirus Sino3-11, 0.15000000000000002
+SARS coronavirus SinP1, 0.15000000000000002
+SARS coronavirus SinP2, 0.15000000000000002
+SARS coronavirus SinP3, 0.15000000000000002
+SARS coronavirus SinP4, 0.15000000000000002
+SARS coronavirus SinP5, 0.15000000000000002
+SARS coronavirus SoD, 0.15000000000000002
+SARS coronavirus SZ1, 0.15000000000000002
+SARS coronavirus SZ13, 0.15000000000000002
+SARS coronavirus Taiwan, 0.15000000000000002
+SARS coronavirus Taiwan JC-2003, 0.15000000000000002
+SARS coronavirus Taiwan TC1, 0.15000000000000002
+SARS coronavirus Taiwan TC2, 0.15000000000000002
+SARS coronavirus Taiwan TC3, 0.15000000000000002
+SARS coronavirus TJ01, 0.15000000000000002
+SARS coronavirus TJF, 0.15000000000000002
+SARS coronavirus Tor2, 0.15000000000000002
+SARS coronavirus TW1, 0.15000000000000002
+SARS coronavirus TW10, 0.15000000000000002
+SARS coronavirus TW11, 0.15000000000000002
+SARS coronavirus TW2, 0.15000000000000002
+SARS coronavirus TW3, 0.15000000000000002
+SARS coronavirus TW4, 0.15000000000000002
+SARS coronavirus TW5, 0.15000000000000002
+SARS coronavirus TW6, 0.15000000000000002
+SARS coronavirus TW7, 0.15000000000000002
+SARS coronavirus TW8, 0.15000000000000002
+SARS coronavirus TW9, 0.15000000000000002
+SARS coronavirus TWC, 0.15000000000000002
+SARS coronavirus TWC2, 0.15000000000000002
+SARS coronavirus TWC3, 0.15000000000000002
+SARS coronavirus TWH, 0.15000000000000002
+SARS coronavirus TWJ, 0.15000000000000002
+SARS coronavirus TWK, 0.15000000000000002
+SARS coronavirus TWS, 0.15000000000000002
+SARS coronavirus TWY, 0.15000000000000002
+SARS coronavirus Urbani, 0.15000000000000002
+SARS coronavirus Vietnam, 0.15000000000000002
+SARS coronavirus WF188, 0.15000000000000002
+SARS coronavirus WH20, 0.15000000000000002
+SARS coronavirus WHU, 0.15000000000000002
+SARS coronavirus xw002, 0.15000000000000002
+SARS coronavirus ZJ01, 0.15000000000000002
+SARS coronavirus ZJ02, 0.15000000000000002
+SARS coronavirus ZJ0301, 0.15000000000000002
+SARS coronavirus ZMY 1, 0.15000000000000002
+SARS coronavirus ZS-A, 0.15000000000000002
+SARS coronavirus ZS-B, 0.15000000000000002
+SARS coronavirus ZS-C, 0.15000000000000002
+SARS-related bat coronavirus RsSHC014, 0.15000000000000002
+SARS-related betacoronavirus Rp3/2004, 0.15000000000000002
+severe acute respiratory syndrome coronavirus 2, 0.15000000000000002
+Bat SARS coronavirus HKU3-1, 0.15000000000000002
+Bat SARS coronavirus HKU3-10, 0.15000000000000002
+Bat SARS coronavirus HKU3-11, 0.15000000000000002
+Bat SARS coronavirus HKU3-12, 0.15000000000000002
+Bat SARS coronavirus HKU3-13, 0.15000000000000002
+Bat SARS coronavirus HKU3-2, 0.15000000000000002
+Bat SARS coronavirus HKU3-3, 0.15000000000000002
+Bat SARS coronavirus HKU3-4, 0.15000000000000002
+Bat SARS coronavirus HKU3-5, 0.15000000000000002
+Bat SARS coronavirus HKU3-6, 0.15000000000000002
+Bat SARS coronavirus HKU3-7, 0.15000000000000002
+Bat SARS coronavirus HKU3-8, 0.15000000000000002
+Bat SARS coronavirus HKU3-9, 0.15000000000000002
+Bat CoV 273/2005, 0.15000000000000002
+Bat CoV 279/2005, 0.15000000000000002
+SARS coronavirus ExoN1, 0.15000000000000002
+SARS coronavirus MA15, 0.15000000000000002
+SARS coronavirus MA15 ExoN1, 0.15000000000000002
+SARS coronavirus wtic-MB, 0.15000000000000002
+SARS coronavirus Frankfurt1-v01, 0.15000000000000002
+SARS coronavirus TW-GD1, 0.15000000000000002
+SARS coronavirus TW-GD2, 0.15000000000000002
+SARS coronavirus TW-GD3, 0.15000000000000002
+SARS coronavirus TW-GD4, 0.15000000000000002
+SARS coronavirus TW-GD5, 0.15000000000000002
+SARS coronavirus TW-HP1, 0.15000000000000002
+SARS coronavirus TW-HP2, 0.15000000000000002
+SARS coronavirus TW-HP3, 0.15000000000000002
+SARS coronavirus TW-HP4, 0.15000000000000002
+SARS coronavirus TW-JC2, 0.15000000000000002
+SARS coronavirus TW-KC1, 0.15000000000000002
+SARS coronavirus TW-KC3, 0.15000000000000002
+SARS coronavirus TW-PH1, 0.15000000000000002
+SARS coronavirus TW-PH2, 0.15000000000000002
+SARS coronavirus TW-YM1, 0.15000000000000002
+SARS coronavirus TW-YM2, 0.15000000000000002
+SARS coronavirus TW-YM3, 0.15000000000000002
+SARS coronavirus TW-YM4, 0.15000000000000002
+Coxsackievirus A9, 0.15000000000000002
+Rotavirus, 0.15000000000000002
+convalescent plasma, 0.15000000000000002
+nasal swab specimen, 0.15000000000000002
+Oropharyngeal Swab Specimen, 0.15000000000000002
+Recovered Plasma, 0.15000000000000002
+rectal swab, 0.15000000000000002
+medical aspect, 0.15000000000000002
+relational quality, 0.15000000000000002
+virulence, 0.15000000000000002
+mutation, 0.15000000000000002
+Endophenotypes, 0.15000000000000002
+lumen stenosis, 0.15000000000000002
+vascular congestion, 0.15000000000000002
+Decreased eosinophil count, 0.15000000000000002
+Neutrophilia, 0.15000000000000002
+Reduced natural killer cell count, 0.15000000000000002
+Hyperfibrinolysis, 0.15000000000000002
+Prolonged prothrombin time, 0.15000000000000002
+Anosmia, 0.15000000000000002
+nose nerve ending cell damage, 0.15000000000000002
+Hypokalemia, 0.15000000000000002
+Increased blood urea nitrogen, 0.15000000000000002
+Alanine Aminotransferase Increased, 0.15000000000000002
+Aspartate Aminotransferase Increased, 0.15000000000000002
+Elevated C-reactive protein level, 0.15000000000000002
+Increased serum ferritin, 0.15000000000000002
+Abnormal circulating creatine kinase concentration, 0.15000000000000002
+Elevated erythrocyte sedimentation rate, 0.15000000000000002
+Hematuria, 0.15000000000000002
+Abnormality of the lymph nodes, 0.15000000000000002
+Elevated systolic blood pressure, 0.15000000000000002
+cardiac fibrosis, 0.15000000000000002
+Acute hepatitis, 0.15000000000000002
+Poor appetite, 0.15000000000000002
+Vomiting, 0.15000000000000002
+Nausea, 0.15000000000000002
+Hyperactive renin-angiotensin system, 0.15000000000000002
+Increased circulating procalcitonin level, 0.15000000000000002
+Immunocompromised, 0.15000000000000002
+cytokine dysregulation, 0.15000000000000002
+Immune dysregulation, 0.15000000000000002
+Abnormality of immune serum protein physiolog, 0.15000000000000002
+Sepsis, 0.15000000000000002
+brain inflammation, 0.15000000000000002
+choroid inflammation, 0.15000000000000002
+heart inflammation, 0.15000000000000002
+abnormal circulating chemokine level, 0.15000000000000002
+abnormal circulating cytokine level, 0.15000000000000002
+Abnormality of serum cytokine level, 0.15000000000000002
+Recurrent pneumonia, 0.15000000000000002
+Severe parainfluenza infection, 0.15000000000000002
+acute brain injury, 0.15000000000000002
+alveolitis, 0.15000000000000002
+alveolar damage, 0.15000000000000002
+air bronchogram, 0.15000000000000002
+alveolar exudate, 0.15000000000000002
+degeneration of the alveolar epithelia, 0.15000000000000002
+Aspiration, 0.15000000000000002
+Decreased pulmonary function, 0.15000000000000002
+Breathing dysregulation, 0.15000000000000002
+Neonatal respiratory distress, 0.15000000000000002
+Respiratory distress, 0.15000000000000002
+Hypoxemia, 0.15000000000000002
+Pulmonary infiltrates, 0.15000000000000002
+Chronic lung disease, 0.15000000000000002
+Interlobular septal thickening on pulmonary HRCT, 0.15000000000000002
+Centrilobular ground-glass opacification on pulmonary HRCT, 0.15000000000000002
+Parenchymal consolidation, 0.15000000000000002
+Chest tightness, 0.15000000000000002
+epidemic, 0.15000000000000002
+endemic, 0.15000000000000002
+infection in population, 0.15000000000000002
+Older Population, 0.15000000000000002
+Epidemiological Factors, 0.15000000000000002
+Mortality, 0.15000000000000002
+Pandemics, 0.15000000000000002
+morbidity, 0.15000000000000002
+COVID-19 suppression, 0.15000000000000002
+apex, 0.15000000000000002
+clusters of COVID-19, 0.15000000000000002
+outbreak, 0.15000000000000002
+function, 0.15000000000000002
+bacterial sepsis, 0.15000000000000002
+respiratory syncytial virus infectious disease, 0.15000000000000002
+hepatitis B, 0.15000000000000002
+focal epithelial hyperplasia, 0.15000000000000002
+influenza, 0.15000000000000002
+measles, 0.15000000000000002
+viral respiratory tract infection, 0.15000000000000002
+Adenovirus Infection, 0.15000000000000002
+severe acute respiratory syndrome, 0.15000000000000002
+Epstein-Barr virus infection, 0.15000000000000002
+secondary bacterial infection, 0.15000000000000002
+Pneumonia Ventilator-Associated, 0.15000000000000002
+Arrhythmias Cardiac, 0.15000000000000002
+Heart Injuries, 0.15000000000000002
+Vascular Remodeling, 0.15000000000000002
+fulminant myocarditis, 0.15000000000000002
+acute cardiac injury, 0.15000000000000002
+antiphospholipid syndrome, 0.15000000000000002
+cardiomyopathy, 0.15000000000000002
+cerebrovascular disease, 0.15000000000000002
+hypertension, 0.15000000000000002
+atherosclerosis, 0.15000000000000002
+myocardial infarction, 0.15000000000000002
+Drug-Induced Liver Injury, 0.15000000000000002
+constipation, 0.15000000000000002
+hematologic disease, 0.15000000000000002
+T-Lymphocytopenia Idiopathic CD4-Positive, 0.15000000000000002
+disseminated intravascular coagulation, 0.15000000000000002
+lymphopenia, 0.15000000000000002
+neutropenia, 0.15000000000000002
+autoimmune disease, 0.15000000000000002
+common variable immunodeficiency, 0.15000000000000002
+CD45 deficiency, 0.15000000000000002
+vertebral hypoplasia with lumbar kyphosis, 0.15000000000000002
+pulmonary fibrosis, 0.15000000000000002
+Hypoxic Ischemic Encephalopathy, 0.15000000000000002
+upper respiratory tract disease, 0.15000000000000002
+Lung Infection CTCAE, 0.15000000000000002
+Chronic Respiratory Disease, 0.15000000000000002
+Lung Injury, 0.15000000000000002
+adult respiratory distress syndrome, 0.15000000000000002
+pulmonary edema, 0.15000000000000002
+chronic obstructive pulmonary disease, 0.15000000000000002
+pulmonary coin lesion, 0.15000000000000002
+viral pneumonia, 0.15000000000000002
+diffuse alveolar hemorrhage (disease), 0.15000000000000002
+proteinuria, 0.15000000000000002
+chronic kidney disease, 0.15000000000000002
+cancer, 0.15000000000000002
+hyperplasia, 0.15000000000000002
+type 2 diabetes mellitus, 0.15000000000000002
+Cytokine Release Syndrome, 0.15000000000000002
+abnormal homeostasis, 0.15000000000000002
+High Risk, 0.15000000000000002
+touching eyes, 0.15000000000000002
+touching nose, 0.15000000000000002
+touching mouth, 0.15000000000000002
+lack of personnel, 0.15000000000000002
+virus contact, 0.15000000000000002
+touching contaminated surfaces, 0.15000000000000002
+participant under investigation role, 0.15000000000000002
+clinical sign, 0.15000000000000002
+early symptom, 0.15000000000000002
+emergency Warning Sign, 0.15000000000000002
+mild symptom, 0.15000000000000002
+multiple organ failure, 0.15000000000000002
+severe symptom, 0.15000000000000002
+hemorrhage, 0.15000000000000002
+myocarditis, 0.15000000000000002
+heart failure, 0.15000000000000002
+ventricular tachycardia, 0.15000000000000002
+ventricular fibrillation, 0.15000000000000002
+septic shock, 0.15000000000000002
+diarrhea, 0.15000000000000002
+Atrophy, 0.15000000000000002
+inflammation, 0.15000000000000002
+low blood pressure, 0.15000000000000002
+end-organ dysfunction, 0.15000000000000002
+chills, 0.15000000000000002
+conjunctivitis, 0.15000000000000002
+immune system symptom, 0.15000000000000002
+Low Blood Oxygen Saturation, 0.15000000000000002
+thrombocytopenia, 0.15000000000000002
+vasculitis, 0.15000000000000002
+hyperemia, 0.15000000000000002
+leukocytosis, 0.15000000000000002
+oxygen uptake diminishment, 0.15000000000000002
+seizure, 0.15000000000000002
+disturbances of sensation of smell and taste, 0.15000000000000002
+stroke, 0.15000000000000002
+Myalgia, 0.15000000000000002
+headache, 0.15000000000000002
+chest pain, 0.15000000000000002
+muscle pain, 0.15000000000000002
+fever, 0.15000000000000002
+malaise, 0.15000000000000002
+lethargy, 0.15000000000000002
+weight loss, 0.15000000000000002
+Some Shortness of Breath, 0.15000000000000002
+Sore Throat, 0.15000000000000002
+Expectorate, 0.15000000000000002
+sputum, 0.15000000000000002
+hemoptysis, 0.15000000000000002
+thickened alveolar septum, 0.15000000000000002
+tachypnea, 0.15000000000000002
+dry cough, 0.15000000000000002
+pleural effusion, 0.15000000000000002
+edema, 0.15000000000000002
+process boundary, 0.15000000000000002
+spatiotemporal region, 0.15000000000000002
+history, 0.15000000000000002
+process profile, 0.15000000000000002
+aging, 0.15000000000000002
+actin cytoskeleton reorganization, 0.15000000000000002
+adherens junction assembly, 0.15000000000000002
+aldosterone secretion, 0.15000000000000002
+anaphase-promoting complex-dependent catabolic process, 0.15000000000000002
+apoptotic process, 0.15000000000000002
+attachment of spindle microtubules to kinetochore, 0.15000000000000002
+autophagy, 0.15000000000000002
+axonogenesis, 0.15000000000000002
+B cell activation, 0.15000000000000002
+cell growth, 0.15000000000000002
+cell-cell signaling, 0.15000000000000002
+cell-substrate junction assembly, 0.15000000000000002
+cellular aldehyde metabolic process, 0.15000000000000002
+cellular carbohydrate metabolic process, 0.15000000000000002
+cellular response to zinc ion, 0.15000000000000002
+chromosome condensation, 0.15000000000000002
+clathrin-dependent endocytosis of virus by host cell, 0.15000000000000002
+cofactor catabolic process, 0.15000000000000002
+cornification, 0.15000000000000002
+cytoplasmic budding, 0.15000000000000002
+cytoplasmic translation, 0.15000000000000002
+dicarboxylic acid metabolic process, 0.15000000000000002
+DNA replication, 0.15000000000000002
+DNA replication initiation, 0.15000000000000002
+drug catabolic process, 0.15000000000000002
+epithelial cell proliferation, 0.15000000000000002
+fibroblast proliferation, 0.15000000000000002
+fructose 6-phosphate metabolic process, 0.15000000000000002
+glucose 6-phosphate metabolic process, 0.15000000000000002
+hemorrhagic necrosis, 0.15000000000000002
+histone phosphorylation, 0.15000000000000002
+import into nucleus, 0.15000000000000002
+macrophage activation, 0.15000000000000002
+macrophage proliferation, 0.15000000000000002
+meiotic cell cycle, 0.15000000000000002
+mesenchymal cell proliferation, 0.15000000000000002
+mRNA cis splicing via spliceosome, 0.15000000000000002
+muscle cell proliferation, 0.15000000000000002
+NADP metabolic process, 0.15000000000000002
+nucleobase-containing small molecule biosynthetic process, 0.15000000000000002
+nucleobase-containing small molecule interconversion, 0.15000000000000002
+O-glycan processing, 0.15000000000000002
+one-carbon metabolic process, 0.15000000000000002
+oocyte maturation, 0.15000000000000002
+organophosphate catabolic process, 0.15000000000000002
+phagocytosis, 0.15000000000000002
+protein activation cascade, 0.15000000000000002
+protein localization to cell surface, 0.15000000000000002
+response to fatty acid, 0.15000000000000002
+ribosomal large subunit assembly, 0.15000000000000002
+ribosomal large subunit biogenesis, 0.15000000000000002
+ribosomal small subunit assembly, 0.15000000000000002
+ribosomal small subunit biogenesis, 0.15000000000000002
+ribosome assembly, 0.15000000000000002
+ribosome biogenesis, 0.15000000000000002
+RNA transport, 0.15000000000000002
+signaling receptor binding, 0.15000000000000002
+spliceosomal complex assembly, 0.15000000000000002
+synapse pruning, 0.15000000000000002
+syncytium formation, 0.15000000000000002
+translational initiation, 0.15000000000000002
+UDP-N-acetylglucosamine metabolic process, 0.15000000000000002
+vascular smooth muscle cell development, 0.15000000000000002
+viral release from host cell by cytolysis, 0.15000000000000002
+stress fiber assembly, 0.15000000000000002
+inositol trisphosphate metabolic process, 0.15000000000000002
+antibiotic catabolic process, 0.15000000000000002
+antigen processing and presentation of exogenous peptide antigen via MHC class II, 0.15000000000000002
+oxidative phosphorylation, 0.15000000000000002
+ATP biosynthetic process, 0.15000000000000002
+canonical glycolysis, 0.15000000000000002
+glycosyl compound catabolic process, 0.15000000000000002
+cell-substrate adhesion, 0.15000000000000002
+mitotic DNA replication checkpoint, 0.15000000000000002
+mitotic spindle assembly checkpoint, 0.15000000000000002
+G1/S transition of mitotic cell cycle, 0.15000000000000002
+G2/M transition of mitotic cell cycle, 0.15000000000000002
+endothelial cell migration, 0.15000000000000002
+vascular associated smooth muscle cell migration, 0.15000000000000002
+neutrophil chemotaxis, 0.15000000000000002
+neutrophil extravasation, 0.15000000000000002
+phagocytosis recognition, 0.15000000000000002
+cellular hyperosmotic response, 0.15000000000000002
+IRE1-mediated unfolded protein response, 0.15000000000000002
+ubiquitin-dependent ERAD pathway, 0.15000000000000002
+cellular response to unfolded protein, 0.15000000000000002
+mitotic metaphase plate congression, 0.15000000000000002
+meiotic chromosome segregation, 0.15000000000000002
+mitotic sister chromatid segregation, 0.15000000000000002
+mitotic sister chromatid separation, 0.15000000000000002
+meiotic chromosome separation, 0.15000000000000002
+nicotinamide nucleotide biosynthetic process, 0.15000000000000002
+tetrahydrofolate metabolic process, 0.15000000000000002
+mitotic cytokinesis, 0.15000000000000002
+receptor-mediated endocytosis, 0.15000000000000002
+retrograde protein transport ER to cytosol, 0.15000000000000002
+keratinocyte differentiation, 0.15000000000000002
+SRP-dependent cotranslational protein targeting to membrane, 0.15000000000000002
+endoplasmic reticulum mannose trimming, 0.15000000000000002
+low-density lipoprotein particle receptor catabolic process, 0.15000000000000002
+T-helper cell differentiation, 0.15000000000000002
+meiotic spindle organization, 0.15000000000000002
+female meiotic nuclear division, 0.15000000000000002
+mitotic nuclear envelope disassembly, 0.15000000000000002
+fusion of virus membrane with host endosome membrane, 0.15000000000000002
+fusion of virus membrane with host outer membrane, 0.15000000000000002
+phagocytosis engulfment, 0.15000000000000002
+metaphase/anaphase transition of mitotic cell cycle, 0.15000000000000002
+mitotic spindle assembly, 0.15000000000000002
+mRNA 5'-splice site recognition, 0.15000000000000002
+axon guidance, 0.15000000000000002
+neutrophil degranulation, 0.15000000000000002
+deoxyribonucleoside monophosphate biosynthetic process, 0.15000000000000002
+purine ribonucleoside monophosphate biosynthetic process, 0.15000000000000002
+purine ribonucleoside triphosphate metabolic process, 0.15000000000000002
+mitotic nuclear division, 0.15000000000000002
+low-density lipoprotein particle clearance, 0.15000000000000002
+protein localization to kinetochore, 0.15000000000000002
+plasminogen activation, 0.15000000000000002
+uclear-transcribed mRNA catabolic process nonsense-mediated decay, 0.15000000000000002
+calcium-mediated signaling, 0.15000000000000002
+chemokine-mediated signaling pathway, 0.15000000000000002
+extrinsic apoptotic signaling pathway, 0.15000000000000002
+inhibitory C-type lectin receptor signaling pathway, 0.15000000000000002
+integrin-mediated signaling pathway, 0.15000000000000002
+MAPK cascade, 0.15000000000000002
+NIK/NF-kappaB signaling, 0.15000000000000002
+phosphatidylinositol 3-kinase signaling, 0.15000000000000002
+receptor signaling pathway via JAK-STAT, 0.15000000000000002
+signal transduction by p53 class mediator, 0.15000000000000002
+type I interferon signaling pathway, 0.15000000000000002
+Fc-epsilon receptor signaling pathway, 0.15000000000000002
+Fc-gamma receptor signaling pathway involved in phagocytosis, 0.15000000000000002
+stimulatory C-type lectin receptor signaling pathway, 0.15000000000000002
+T cell receptor signaling pathway, 0.15000000000000002
+B cell receptor signaling pathway, 0.15000000000000002
+carboxylic acid catabolic process, 0.15000000000000002
+gamma-delta T cell activation, 0.15000000000000002
+negative regulation of protein binding, 0.15000000000000002
+negative regulation of release of cytochrome c from mitochondria, 0.15000000000000002
+positive regulation of monocyte chemotaxis, 0.15000000000000002
+positive regulation of neuron death, 0.15000000000000002
+positive regulation of phosphatidylinositol 3-kinase signaling, 0.15000000000000002
+regulation of epithelial cell proliferation, 0.15000000000000002
+regulation of mesenchymal cell proliferation, 0.15000000000000002
+regulation of neutrophil activation, 0.15000000000000002
+regulation of protein activation cascade, 0.15000000000000002
+regulation of protein folding, 0.15000000000000002
+regulation of protein stability, 0.15000000000000002
+regulation of response to endoplasmic reticulum stress, 0.15000000000000002
+regulation of transcription involved in G1/S transition of mitotic cell cycle, 0.15000000000000002
+regulation of ubiquitin protein ligase activity, 0.15000000000000002
+negative regulation of immune effector process, 0.15000000000000002
+positive regulation of cellular protein catabolic process, 0.15000000000000002
+positive regulation of alpha-beta T cell activation, 0.15000000000000002
+positive regulation of B cell activation, 0.15000000000000002
+positive regulation of intracellular protein transport, 0.15000000000000002
+positive regulation of histone acetylation, 0.15000000000000002
+regulation of actin cytoskeleton organization, 0.15000000000000002
+positive regulation of G2/M transition of mitotic cell cycle, 0.15000000000000002
+regulation of cytokinesis, 0.15000000000000002
+regulation of attachment of spindle microtubules to kinetochore, 0.15000000000000002
+regulation of sister chromatid segregation, 0.15000000000000002
+regulation of cyclin-dependent protein serine/threonine kinase activity, 0.15000000000000002
+positive regulation of fibroblast proliferation, 0.15000000000000002
+regulation of complement activation, 0.15000000000000002
+regulation of myeloid leukocyte mediated immunity, 0.15000000000000002
+regulation of leukocyte degranulation, 0.15000000000000002
+regulation of acute inflammatory response, 0.15000000000000002
+regulation of CD4-positive alpha-beta T cell activation, 0.15000000000000002
+positive regulation of macrophage derived foam cell differentiation, 0.15000000000000002
+neurotransmitter metabolic process, 0.15000000000000002
+regulation of proteasomal protein catabolic process, 0.15000000000000002
+regulation of plasminogen activation, 0.15000000000000002
+local transmission, 0.15000000000000002
+transmission of virus, 0.15000000000000002
+contact, 0.15000000000000002
+droplet spread, 0.15000000000000002
+Nosocomial Infection, 0.15000000000000002
+post natal transmission, 0.15000000000000002
+transmission to healthcare workers, 0.15000000000000002
+person-to-person transmission, 0.15000000000000002
+transmission from asymptomatic people, 0.15000000000000002
+viral transmission by vector, 0.15000000000000002
+zoonotic viral transmission, 0.15000000000000002
+activation by virus of host NF-kappaB transcription factor activity, 0.15000000000000002
+cap snatching, 0.15000000000000002
+cytoplasmic capsid assembly, 0.15000000000000002
+disruption by virus of host envelope lipopolysaccharide during virus entry, 0.15000000000000002
+fusion of virus membrane with host plasma membrane, 0.15000000000000002
+modification by virus of host polysomes, 0.15000000000000002
+modulation by virus of host NIK/NF-kappaB signaling, 0.15000000000000002
+modulation by virus of host ubiquitin-protein ligase activity, 0.15000000000000002
+modulation of host virulence by virus, 0.15000000000000002
+nuclear capsid assembly, 0.15000000000000002
+positive regulation of apoptotic process by virus, 0.15000000000000002
+positive regulation of syncytium formation by virus, 0.15000000000000002
+receptor-mediated endocytosis of virus by host cell, 0.15000000000000002
+release from viral latency, 0.15000000000000002
+ribosomal skipping, 0.15000000000000002
+RNA-templated viral transcription, 0.15000000000000002
+suppression by virus of host natural killer cell activation, 0.15000000000000002
+uncoating of virus, 0.15000000000000002
+viral gene expression, 0.15000000000000002
+viral genome replication, 0.15000000000000002
+viral latency, 0.15000000000000002
+viral life cycle, 0.15000000000000002
+viral mRNA cap methylation, 0.15000000000000002
+viral protein processing, 0.15000000000000002
+viral release from host cell, 0.15000000000000002
+viral replication complex formation and maintenance, 0.15000000000000002
+viral RNA editing, 0.15000000000000002
+viral transcription, 0.15000000000000002
+viral translation, 0.15000000000000002
+viral translational frameshifting, 0.15000000000000002
+Viral Tropism, 0.15000000000000002
+virion assembly, 0.15000000000000002
+virion maturation, 0.15000000000000002
+virus excretion, 0.15000000000000002
+virus maturation, 0.15000000000000002
+virus receptor activity, 0.15000000000000002
+killing by virus of host cell during superinfection exclusion, 0.15000000000000002
+endosome lysis involved in viral entry into host cell, 0.15000000000000002
+suppression by virus of host MAVS activity, 0.15000000000000002
+suppression by virus of host IRF3 activity, 0.15000000000000002
+suppression by virus of host MDA-5 activity, 0.15000000000000002
+suppression by virus of host IRF7 activity, 0.15000000000000002
+suppression by virus of host gene expression, 0.15000000000000002
+positive regulation by virus of host cytokine production, 0.15000000000000002
+induction of innate immune response in host by virus, 0.15000000000000002
+cleavage by virus of host mRNA, 0.15000000000000002
+induction by virus of catabolism of host mRNA, 0.15000000000000002
+suppression by virus of host mRNA processing, 0.15000000000000002
+suppression by virus of host translation, 0.15000000000000002
+modulation by virus of host protein serine/threonine phosphatase activity, 0.15000000000000002
+induction by virus of host cell-cell fusion, 0.15000000000000002
+modulation by virus of host chromatin organization, 0.15000000000000002
+modulation by virus of host G0/G1 transition checkpoint, 0.15000000000000002
+suppression by virus of host exit from mitosis, 0.15000000000000002
+suppression by virus of host mRNA export from nucleus, 0.15000000000000002
+suppression by virus of host type I interferon production, 0.15000000000000002
+induction by virus of host apoptotic process, 0.15000000000000002
+induction by virus of host autophagy, 0.15000000000000002
+induction by virus of host protein phosphorylation, 0.15000000000000002
+viral exocytosis, 0.15000000000000002
+viral budding from plasma membrane, 0.15000000000000002
+viral extrusion, 0.15000000000000002
+endosome membrane permeabilization involved in viral entry into host cell, 0.15000000000000002
+entry receptor-mediated virion attachment to host cell, 0.15000000000000002
+adhesion receptor-mediated virion attachment to host cell, 0.15000000000000002
+transport of virus in host cell to cell, 0.15000000000000002
+transport of virus in host tissue to tissue, 0.15000000000000002
+actin-dependent intracellular transport of virus, 0.15000000000000002
+microtubule-dependent intracellular transport of viral material towards cell periphery, 0.15000000000000002
+viral budding from Golgi membrane, 0.15000000000000002
+viral budding from endoplasmic reticulum membrane, 0.15000000000000002
+viral genome ejection through host cell envelope, 0.15000000000000002
+viral entry via permeabilization of endosomal membrane, 0.15000000000000002
+viral entry via permeabilization of inner membrane, 0.15000000000000002
+viral RNA genome packaging, 0.15000000000000002
+positive stranded viral RNA replication, 0.15000000000000002
+lipopolysaccharide-mediated virion attachment to host cell, 0.15000000000000002
+aorta development, 0.15000000000000002
+blood coagulation, 0.15000000000000002
+cardiac chamber morphogenesis, 0.15000000000000002
+cranial nerve development, 0.15000000000000002
+defense response to bacterium, 0.15000000000000002
+diencephalon development, 0.15000000000000002
+digestive tract development, 0.15000000000000002
+ear development, 0.15000000000000002
+epidermis development, 0.15000000000000002
+epidermis morphogenesis, 0.15000000000000002
+female gamete generation, 0.15000000000000002
+hair follicle morphogenesis, 0.15000000000000002
+heart trabecula morphogenesis, 0.15000000000000002
+hepaticobiliary system development, 0.15000000000000002
+inhalation of droplets, 0.15000000000000002
+keratinization, 0.15000000000000002
+kidney morphogenesis, 0.15000000000000002
+lung epithelium development, 0.15000000000000002
+maintenance of location, 0.15000000000000002
+nephron development, 0.15000000000000002
+neutrophil mediated immunity, 0.15000000000000002
+pathogenesis, 0.15000000000000002
+pharyngeal system development, 0.15000000000000002
+post-embryonic animal organ development, 0.15000000000000002
+Pulmonary Ventilation, 0.15000000000000002
+renal system development, 0.15000000000000002
+reproductive structure development, 0.15000000000000002
+reproductive system development, 0.15000000000000002
+respiratory system development, 0.15000000000000002
+response to antibiotic, 0.15000000000000002
+response to thyroid hormone, 0.15000000000000002
+skin development, 0.15000000000000002
+urogenital system development, 0.15000000000000002
+vasoconstriction, 0.15000000000000002
+vasodilation, 0.15000000000000002
+humoral immune response mediated by circulating immunoglobulin, 0.15000000000000002
+liver development, 0.15000000000000002
+salivary gland development, 0.15000000000000002
+salivary gland morphogenesis, 0.15000000000000002
+antimicrobial humoral response, 0.15000000000000002
+complement activation classical pathway, 0.15000000000000002
+acute inflammatory response, 0.15000000000000002
+otic vesicle development, 0.15000000000000002
+otic vesicle morphogenesis, 0.15000000000000002
+mesonephros development, 0.15000000000000002
+nephron tubule development, 0.15000000000000002
+ureteric bud development, 0.15000000000000002
+Oxidative Stress, 0.15000000000000002
+Hypoxia, 0.15000000000000002
+Occlusion, 0.15000000000000002
+adverse event, 0.15000000000000002
+inflammatory cell  infiltration, 0.15000000000000002
+enzyme level signalling struggling liver, 0.15000000000000002
+interstitial edema, 0.15000000000000002
+exhaustion of CD8+ T cell, 0.15000000000000002
+coughing by symptomatic patient, 0.15000000000000002
+interstitial fibrosis, 0.15000000000000002
+sneezing by symptomatic patient, 0.15000000000000002
+cytokine production involved in inflammatory response, 0.15000000000000002
+immunoglobulin production, 0.15000000000000002
+animal organ regeneration, 0.15000000000000002
+glomerular filtration, 0.15000000000000002
+respiratory burst involved in defense response, 0.15000000000000002
+response to cAMP, 0.15000000000000002
+response to hydrogen peroxide, 0.15000000000000002
+ear morphogenesis, 0.15000000000000002
+clinical trial, 0.15000000000000002
+material processing, 0.15000000000000002
+Supportive Care, 0.15000000000000002
+nonpharmaceutical Intervention, 0.15000000000000002
+Drug Repositioning, 0.15000000000000002
+fluid management, 0.15000000000000002
+Immunoglobulins Intravenous, 0.15000000000000002
+mechanical ventilation, 0.15000000000000002
+Medical Examination, 0.15000000000000002
+Noninvasive Ventilation, 0.15000000000000002
+virus elimination, 0.15000000000000002
+Animal Testing, 0.15000000000000002
+frequently washing hands with soap and water for 20 seconds, 0.15000000000000002
+cough etiquette, 0.15000000000000002
+flatten the curve, 0.15000000000000002
+Isolation, 0.15000000000000002
+Mask, 0.15000000000000002
+N95 respirator, 0.15000000000000002
+not touching face, 0.15000000000000002
+Personal Protective Equipment, 0.15000000000000002
+Quarantine, 0.15000000000000002
+Self Care, 0.15000000000000002
+self-observation, 0.15000000000000002
+shelter-in-place order, 0.15000000000000002
+sneeze etiquette, 0.15000000000000002
+social distancing, 0.15000000000000002
+travel restriction, 0.15000000000000002
+Hand Hygiene, 0.15000000000000002
+Hand Sanitizers, 0.15000000000000002
+online-interview, 0.15000000000000002
+magnetic bead extraction, 0.15000000000000002
+Western Blotting, 0.15000000000000002
+Surface Plasmon Resonance, 0.15000000000000002
+Co-Immunoprecipitation, 0.15000000000000002
+genotyping assay, 0.15000000000000002
+enzyme-linked immunosorbent assay, 0.15000000000000002
+reverse transcription polymerase chain reaction assay, 0.15000000000000002
+analysis of SARS-CoV-2 host interacting proteins, 0.15000000000000002
+gold immunochromatographic assay, 0.15000000000000002
+chemiluminescence-linked immunosorbent assay, 0.15000000000000002
+openEHR-Suspected Covid-19 assessment.v0, 0.15000000000000002
+computed tomography, 0.15000000000000002
+Chest Radiography, 0.15000000000000002
+Fluid Therapy, 0.15000000000000002
+Renal Replacement Therapy, 0.15000000000000002
+low-flow nasal cannula oxygenation, 0.15000000000000002
+high-flow nasal cannula oxygenation, 0.15000000000000002
+zero-dimensional temporal region, 0.15000000000000002
+incubation period, 0.15000000000000002
+communicability period, 0.15000000000000002
+transmission period, 0.15000000000000002
+Health_Professional, 0.15000000000000002
+vital sign, 0.15000000000000002

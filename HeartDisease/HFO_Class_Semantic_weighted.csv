@@ -1,0 +1,1656 @@
+Diagnostic_test_results, 67.83258588998959
+Treatment, 55.42177108908269
+Causes_risk_factors, 46.61293651389
+Signs_symptoms, 27.14790356326413
+Antihypertensive Agents, 5.307996651041669
+Cardiac Arrhythmia, 3.757814062095133
+Myocardial disease, 3.2590299036458337
+Vasodilator Agents, 3.0452954557291667
+Diuretics, 2.568850656982423
+Conduction disorder of the heart, 2.358351438201124
+Neuromuscular Diseases, 1.9997270136295575
+myopathy, 1.8526025527994796
+vasoactive agent, 1.7934677561848962
+Anti-Arrhythmia Agents, 1.7580583333333335
+Connective tissue disease, 1.7520450260416673
+Antineoplastic Agents, 1.4193421875000003
+Anticoagulants, 1.2009984375
+Pain, 1.1885273437500001
+Heart valve disease, 1.1874781250000002
+hypertension, 1.1325468750000003
+Electrocardiography, 1.0963687500000003
+Echocardiography, 1.087125
+Dyspnea, 1.0839375000000002
+Blood Tests, 1.075225
+Myocardial Ischemia, 0.9471353125000002
+Swelling, 0.9209659375000002
+Abnormal electrocardiogram, 0.9150000000000001
+Abnormal cardiac conduction, 0.9032793646647137
+Infectious Diseases, 0.8237110458984378
+Cardiac Catheterization Procedures, 0.8204375000000002
+Edema, 0.7915375
+angiogram, 0.7618937500000001
+Electrolytes abnormal, 0.7237500000000001
+Angiotensin-Converting Enzyme Inhibitors, 0.7024999999999999
+X-Ray Computed Tomography, 0.6950625000000001
+Anti-Inflammatory Agents, 0.6821531250000001
+Adrenergic beta-Antagonists, 0.6663395833333334
+Kidney Function Tests, 0.66
+heart valve replacement, 0.66
+Ventricular Function, 0.6479937500000001
+Supraventricular arrhythmia, 0.638325
+Thyroid Diseases, 0.6272484375000001
+Magnetic Resonance Imaging, 0.6217500000000001
+Repair of heart valve, 0.6217500000000001
+Fluid overload, 0.6139034375000001
+Amyloidosis, 0.6111250000000001
+Renal Insufficiency, 0.6054671875000001
+Phosphodiesterase Inhibitors, 0.5898750000000001
+Primary cardiomyopathy, 0.5585312500000001
+Hypoxemia, 0.5525325078125001
+Vital signs, 0.5504562500000001
+Added heart sounds, 0.5500312500000002
+Shock, 0.5406560488281251
+Operative Surgical Procedures, 0.5364046875000001
+Digoxin, 0.5325000000000001
+Implantation of ventricular assist device, 0.5325000000000001
+Disorder of pericardium, 0.5229375
+Myocarditis, 0.5229375
+Revascularization - action, 0.5186875
+Congenital heart disease, 0.5133750000000001
+Pulmonary Edema, 0.5133750000000001
+Cardiac implant device, 0.5133750000000001
+Lipid Metabolism Disorders, 0.5093109375
+Cardiomegaly, 0.50735859375
+Viral infection, 0.5005781835937502
+Chronic myocardial ischemia, 0.48511250000000006
+Biopsy of heart, 0.483625
+Ventricular Septal Defects, 0.46875000000000006
+Liver Function Tests, 0.46875000000000006
+Cardiovascular monitoring, 0.46875000000000006
+Angina Pectoris, 0.46875000000000006
+Renal vascular disorder, 0.4591875000000001
+Heart Block, 0.45804182617187505
+Sleep disturbances, 0.44962500000000005
+Atrial arrhythmia, 0.44431250000000005
+Calcium Channel Blockers, 0.44107187500000006
+collagen vascular disease, 0.44024179687500004
+Antilipemic agent, 0.4400625000000001
+Potassium Sparing Diuretics, 0.43903478027343756
+Ventricular arrhythmia, 0.42773750000000005
+Tachycardia, 0.42048018229166667
+Cardiac ventriculography, 0.41987500000000005
+rheumatism, 0.41169375
+vasopressor, 0.41084375
+Kidney Failure, 0.41084375
+Arteriosclerosis, 0.40934296875000015
+Collagen Diseases, 0.40792187500000004
+Stroke Volume, 0.405
+Oxygen saturation measurement, 0.405
+Brain natriuretic peptide measurement, 0.405
+Antiplatelet Agents, 0.405
+Apnea_ Sleep, 0.405
+New York Heart Classification finding, 0.405
+Magnetic Resonance Imaging (MRI) of Heart, 0.405
+hydralazine, 0.39703125000000006
+Iron Overload, 0.3954375000000001
+Substance Abuse, 0.3954375000000001
+Thiazide Diuretics, 0.3905234375
+Opiates, 0.3858750000000001
+Depressive disorder, 0.3858750000000001
+Hypertrophy, 0.3858750000000001
+person_attribute, 0.3858750000000001
+Loop Diuretics, 0.38375000000000004
+Myocardial Revascularization, 0.38375000000000004
+Abnormal renal function, 0.38375000000000004
+Chest Pain, 0.377109375
+Digitalis, 0.37631250000000005
+Angiotensin II receptor antagonist, 0.37312500000000004
+sexually transmitted infectious disease, 0.37029609375000005
+Isosorbide Dinitrate, 0.362234375
+Bundle-Branch Block, 0.3470937500000001
+Muscular Dystrophy, 0.3470937500000001
+Blood glucose measurement, 0.34125000000000005
+mTOR Inhibitor, 0.34125000000000005
+Diabetes Mellitus, 0.34125000000000005
+Elevated blood pressure, 0.34125000000000005
+Hydroxymethylglutaryl-CoA Reductase Inhibitors, 0.34125000000000005
+Angiotensin Receptor Antagonists, 0.340453125
+Daunorubicin, 0.3316875
+Hypotension, 0.3316875
+Trypanosomiasis, 0.3316875
+Nitroglycerin, 0.3316875
+Breath Holding, 0.3316875
+Left Ventricular Function, 0.32212500000000005
+Sleep Disorders, 0.32212500000000005
+Inotropic agent, 0.32000000000000006
+Cardiac Arrest, 0.32000000000000006
+Cardiomyopathy_ Dilated, 0.32000000000000006
+Edema of lower extremity, 0.30937500000000007
+Edema of extremity, 0.30725
+Thyroid dysfunction, 0.30459375000000005
+Respiratory Infections, 0.30459375000000005
+Steroids, 0.30459375000000005
+Organ Transplantation, 0.30459375000000005
+HIV Infections, 0.30459375000000005
+Monoclonal Antibodies, 0.29981250000000004
+Left ventricular failure, 0.29545625000000003
+Isosorbide, 0.2951330729166667
+Shock_ Cardiogenic, 0.2937516015625
+Anthracyclines, 0.29096718750000006
+Oral hypoglycemic, 0.2775
+Aquaretic, 0.2775
+Defibrillation, 0.2775
+Morphine, 0.2775
+Ablation of atrioventricular node, 0.2775
+Acute myocarditis, 0.2775
+Confusion, 0.2775
+Left ventricular pressure, 0.2775
+heart rate, 0.2775
+Apex beat displaced, 0.2775
+Doxorubicin, 0.2775
+trastuzumab, 0.2775
+Low density lipoprotein cholesterol measurement, 0.2775
+Cyanosis, 0.2775
+Proteinuria, 0.2775
+Syncope, 0.2775
+Pulmonary Artery Wedge Pressure, 0.2775
+Pleural effusion disorder, 0.2775
+Anemia, 0.2775
+echocardiography: chamber volume of left ventricle, 0.2775
+Pulmonary function tests, 0.2775
+Pulmonary artery pressure, 0.2775
+Glucohemoglobin measurement, 0.2775
+Perfusion Imaging, 0.2775
+Urinalysis, 0.2775
+Body Weight, 0.2775
+Troponin measurement, 0.2775
+Uric acid measurement (procedure), 0.2775
+Monitoring of cardiac output/cardiac index, 0.2775
+Acidosis_ Respiratory, 0.2775
+Self-Management, 0.2775
+Non-Invasive Ventilation, 0.2775
+Family Planning, 0.2775
+Positive End-Expiratory Pressure, 0.2775
+Arginine vasopressin antagonist, 0.2775
+Radionuclide Ventriculography, 0.2775
+Intubation, 0.2775
+Atrioseptoplasty, 0.2775
+Anticoagulant prophylaxis, 0.2775
+Cardiac support procedure, 0.2775
+Angioplasty, 0.2775
+Resection of left ventricle of heart, 0.2775
+Pericardiocentesis, 0.2775
+metoprolol succinate, 0.2775
+Antidepressive Agents, 0.2775
+Cardiac Resynchronization Therapy, 0.2775
+nutritional supplements, 0.2775
+Cardiovascular stress testing, 0.2775
+Cyclooxygenase 2 Inhibitors, 0.2775
+Echocardiography_ Doppler, 0.2775
+Abdominal Pain, 0.2775
+Insulin Resistance, 0.2775
+Anomalous origin of coronary artery, 0.2775
+Chronic Obstructive Airway Disease, 0.2775
+acute myocardial infarction, 0.2775
+Antidepressants_ Tricyclic, 0.2775
+Acromegaly, 0.2775
+Blacks, 0.2775
+Sarcoidosis, 0.2775
+Carbamazepine, 0.2775
+Thiamine Deficiency, 0.2775
+Pulmonary Embolism, 0.2775
+Tachycardia_ Ventricular, 0.2775
+Thiazolidinediones, 0.2775
+Family history, 0.2775
+Abdomen distended, 0.2775
+Holter Electrocardiography, 0.2775
+Positron-Emission Tomography, 0.2775
+Heart_ Artificial, 0.2775
+Restrictive cardiomyopathy, 0.2775
+Bisoprolol, 0.2775
+Coughing, 0.2775
+sex, 0.2775
+Transposition of Great Vessels, 0.2775
+Mental Depression, 0.2775
+Mitral valvuloplasty, 0.2775
+Cachexia, 0.2775
+Rales, 0.2775
+Fatigue, 0.2775
+CT angiography, 0.2775
+Obesity, 0.2775
+Acute pulmonary edema, 0.2775
+Valvuloplasty of aortic valve, 0.2775
+Coronary heart disease, 0.27510937500000004
+Blood Cell Count, 0.2743125
+mitral valvular disease, 0.2743125
+Myocardial Infarction, 0.27112500000000006
+Hemoglobin measurement, 0.26793750000000005
+Exercise stress test, 0.26793750000000005
+Electrocardiography_ Ambulatory, 0.26793750000000005
+Anti-Inflammatory Agents_ Non-Steroidal, 0.26793750000000005
+spironolactone, 0.25917187500000005
+Rheumatic Fever, 0.2590833333333334
+Atrioventricular Block, 0.25625000000000003
+Dyspnea_ Paroxysmal, 0.25625000000000003
+Mineralocorticoid Receptor Antagonists, 0.2504958984375001
+Aldosterone Antagonists, 0.2504958984375001
+Dihydropyridine Calcium Channel Blocker, 0.249875
+Peripheral edema, 0.24562500000000004
+Tumor Necrosis Factor (TNF) Inhibitors, 0.24562500000000004
+Anti-tumor necrosis factor alpha drug, 0.24562500000000004
+tachyarrhythmia, 0.24485468750000006
+Antithrombins, 0.24084375000000002
+Polyunsaturated Fatty Acids, 0.24084375000000002
+FISH OIL, 0.24084375000000002
+chronic kidney diseases, 0.24084375000000002
+Left Ventricular Hypertrophy, 0.24084375000000002
+Dyslipidemias, 0.24084375000000002
+Atherosclerosis, 0.23925000000000002
+Rheumatic Heart Disease, 0.23500000000000004
+Pulse Rate, 0.22862500000000002
+Cardiac rhythm type, 0.22862500000000002
+Metoprolol, 0.22862500000000002
+Radionuclide Angiography, 0.22862500000000002
+isosorbide-hydralazine combination, 0.22437500000000005
+Supraventricular tachycardia, 0.22437500000000005
+Intraventricular conduction defect, 0.22375742187500003
+Amiodarone, 0.21375000000000002
+pneumonia, 0.21375000000000002
+Carbonic Anhydrase Inhibitors, 0.21375000000000002
+Pericardial effusion, 0.21375000000000002
+Acquired Immunodeficiency Syndrome, 0.21375000000000002
+Adrenal Cortex Hormones, 0.21375000000000002
+hyperthyroidism, 0.21375000000000002
+eplerenone, 0.21375000000000002
+Chagas Disease, 0.21375000000000002
+Omega-3 Fatty Acids, 0.21375000000000002
+Mitral Regurgitation, 0.21375000000000002
+Ventricular Function_ Right, 0.21375000000000002
+Gallop rhythm, 0.21375000000000002
+Transdermal nitroglycerin, 0.21375000000000002
+Kidney Failure_ Chronic, 0.21375000000000002
+Pulmonary Hypertension, 0.21375000000000002
+brugada syndrome, 0.21375000000000002
+Hyperlipidemia, 0.21375000000000002
+heparin, 0.21375000000000002
+Hemochromatosis, 0.21375000000000002
+Epinephrine, 0.21375000000000002
+Q wave - finding, 0.21375000000000002
+Glucose measurement_ fasting, 0.21375000000000002
+Heart valve stenosis, 0.21375000000000002
+Blood pressure determination, 0.21375000000000002
+Cardiac ejection fraction, 0.21375000000000002
+Bilirubin Measurement, 0.21375000000000002
+Ventricular Dysfunction_ Left, 0.21375000000000002
+Selective factor Xa inhibitor, 0.21375000000000002
+Renal Replacement Therapy, 0.21375000000000002
+Cardiac pacing, 0.21375000000000002
+Sirolimus, 0.21375000000000002
+Natriuretic Peptides, 0.21375000000000002
+Vitamins, 0.21375000000000002
+Ultrafiltration, 0.21375000000000002
+terminal patient care, 0.21375000000000002
+Heart Transplantation, 0.21375000000000002
+Palliative Care, 0.21375000000000002
+Cardiac ablation, 0.21375000000000002
+peripheral vascular disease, 0.21375000000000002
+Endocarditis, 0.21375000000000002
+Adrenergic beta-Agonists, 0.21375000000000002
+Muscular Dystrophy_ Duchenne, 0.21375000000000002
+Storage disease, 0.21375000000000002
+Androgens, 0.21375000000000002
+Hypertension induced by pregnancy, 0.21375000000000002
+Alcohol abuse, 0.21375000000000002
+Anticoagulants_ Oral, 0.21375000000000002
+Renin inhibitor, 0.21375000000000002
+Atrial Fibrillation, 0.21375000000000002
+Renal Artery Stenosis, 0.21375000000000002
+Familial cardiomyopathy, 0.21375000000000002
+Systolic Murmurs, 0.21375000000000002
+Heart murmur, 0.21375000000000002
+Hypertrophic Cardiomyopathy, 0.21375000000000002
+Cardiac CT, 0.21375000000000002
+Hypertensive cardiovascular disease, 0.21375000000000002
+Respiration intermittent, 0.21375000000000002
+Coronary angiography, 0.21375000000000002
+Swelling of limb, 0.21375000000000002
+S3 - Third heart sound, 0.21375000000000002
+Valvular regurgitation, 0.21056250000000004
+Pulmonary vascular disorder, 0.19542187500000002
+Cor pulmonale, 0.19542187500000002
+Myocardial biopsy, 0.19250000000000003
+Complete Blood Count, 0.19250000000000003
+Systemic amyloidosis, 0.19250000000000003
+Arginine, 0.19250000000000003
+Endothelin receptor antagonist, 0.19250000000000003
+nitroprusside, 0.19250000000000003
+Phosphodiesterase 5 inhibitor, 0.19250000000000003
+Bradycardia, 0.19250000000000003
+Nocturnal dyspnea, 0.19250000000000003
+Thiazides, 0.18864843750000004
+Chlorothiazide, 0.181875
+Lupus Erythematosus, 0.181875
+Left Bundle-Branch Block, 0.181875
+Hydralazine Hydrochloride, 0.181875
+Rheumatic disease of heart valve, 0.15000000000000002
+Rheumatoid Arthritis, 0.15000000000000002
+Acute rheumatic heart disease, 0.15000000000000002
+Sulfonylurea Compounds, 0.15000000000000002
+dronedarone, 0.15000000000000002
+Acetazolamide, 0.15000000000000002
+Metolazone, 0.15000000000000002
+1_3-dipropyl-8-(3-noradamantyl)xanthine, 0.15000000000000002
+indapamide, 0.15000000000000002
+chlorthalidone, 0.15000000000000002
+Ularitide, 0.15000000000000002
+Bendroflumethiazide, 0.15000000000000002
+Furosemide, 0.15000000000000002
+torsemide, 0.15000000000000002
+Ethacrynic Acid, 0.15000000000000002
+Bumetanide, 0.15000000000000002
+Amiloride, 0.15000000000000002
+hydrochlorothiazide, 0.15000000000000002
+triamterene, 0.15000000000000002
+Direct current cardioversion, 0.15000000000000002
+Calcification of pericardium, 0.15000000000000002
+Hemopericardium, 0.15000000000000002
+Pedal edema, 0.15000000000000002
+Ankle edema (finding), 0.15000000000000002
+HIV cardiomyopathy, 0.15000000000000002
+Open ablation of atrioventricular node, 0.15000000000000002
+Endomyocardial biopsy (procedure), 0.15000000000000002
+Acute myopericarditis, 0.15000000000000002
+Dermatomyositis, 0.15000000000000002
+Lupus Erythematosus_ Systemic, 0.15000000000000002
+Mixed Connective Tissue Disease, 0.15000000000000002
+Right bundle branch block, 0.15000000000000002
+Disorientation, 0.15000000000000002
+Glucocorticoids, 0.15000000000000002
+Left ventricular end-diastolic pressure level, 0.15000000000000002
+Thyrotoxicosis, 0.15000000000000002
+hypothyroidism, 0.15000000000000002
+coenzyme Q10, 0.15000000000000002
+Enoximone, 0.15000000000000002
+Levosimendan, 0.15000000000000002
+Postmyocardial infarction syndrome, 0.15000000000000002
+Myocarditis due to hypersensitivity state, 0.15000000000000002
+Giant cell myocarditis, 0.15000000000000002
+lipid profile test, 0.15000000000000002
+Hematocrit procedure, 0.15000000000000002
+Radioallergosorbent Test, 0.15000000000000002
+Digitek, 0.15000000000000002
+Lanoxin, 0.15000000000000002
+Lanoxicaps, 0.15000000000000002
+Respiratory rate, 0.15000000000000002
+Coronary Artery Bypass Surgery, 0.15000000000000002
+Chronic Chagas' disease, 0.15000000000000002
+Random blood glucose measurement, 0.15000000000000002
+Fasting blood glucose, 0.15000000000000002
+Eicosapentaenoic Acid, 0.15000000000000002
+MaximumHeartRate, 0.15000000000000002
+Apex beat displaced - LVH, 0.15000000000000002
+Coronary Arteriosclerosis, 0.15000000000000002
+peripheral arterial disease, 0.15000000000000002
+Fluorouracil, 0.15000000000000002
+Mitoxantrone, 0.15000000000000002
+Interferons, 0.15000000000000002
+Cyclophosphamide, 0.15000000000000002
+imatinib, 0.15000000000000002
+Mitomycin, 0.15000000000000002
+Cytotoxic agent, 0.15000000000000002
+Ventricular Remodeling, 0.15000000000000002
+Ventricular End-Systolic Volume, 0.15000000000000002
+Ventricular End-Diastolic Volume, 0.15000000000000002
+Protodiastolic gallop with abnormally audible third heart sound, 0.15000000000000002
+Nitroglycerin Transdermal Patch, 0.15000000000000002
+Azotemia, 0.15000000000000002
+acute renal insufficiency, 0.15000000000000002
+Kidney Failure_ Acute, 0.15000000000000002
+Reactive systemic amyloidosis, 0.15000000000000002
+Hemodialysis-associated amyloidosis, 0.15000000000000002
+Senile cardiac amyloidosis, 0.15000000000000002
+Primary amyloidosis, 0.15000000000000002
+Verapamil, 0.15000000000000002
+Felodipine, 0.15000000000000002
+Amlodipine, 0.15000000000000002
+Diltiazem, 0.15000000000000002
+Nifedipine, 0.15000000000000002
+Wolff-Parkinson-White Syndrome, 0.15000000000000002
+Hypertriglyceridemia, 0.15000000000000002
+Serum LDL cholesterol measurement, 0.15000000000000002
+Heparin_ Low-Molecular-Weight, 0.15000000000000002
+Ventricular Septal Rupture, 0.15000000000000002
+Common ventricle, 0.15000000000000002
+Tetralogy of Fallot, 0.15000000000000002
+First degree AV block, 0.15000000000000002
+Second degree atrioventricular block, 0.15000000000000002
+Complete atrioventricular block, 0.15000000000000002
+Hereditary hemochromatosis, 0.15000000000000002
+Isosorbide Mononitrate, 0.15000000000000002
+Norepinephrine, 0.15000000000000002
+Phenylephrine, 0.15000000000000002
+Argipressin, 0.15000000000000002
+ECG: Q wave abnormal, 0.15000000000000002
+Blue lips, 0.15000000000000002
+Microalbuminuria, 0.15000000000000002
+Hypotension_ Orthostatic, 0.15000000000000002
+Inspra, 0.15000000000000002
+Volume status, 0.15000000000000002
+abnormal myocardial texture, 0.15000000000000002
+Left atrial pressure, 0.15000000000000002
+echocardiography: enlarged left atrium, 0.15000000000000002
+pet metabolic/perfusion mismatch, 0.15000000000000002
+intravascular volume, 0.15000000000000002
+Hyperuricemia, 0.15000000000000002
+Angiotensin II, 0.15000000000000002
+Diastolic dysfunction, 0.15000000000000002
+Ventricular segment, 0.15000000000000002
+pet metabolic deficits, 0.15000000000000002
+DIGOXIN LEVEL ELEVATED, 0.15000000000000002
+maximum velocities, 0.15000000000000002
+end-diastolic regurgitant jet velocity, 0.15000000000000002
+technetium tc 99, 0.15000000000000002
+peak gradient, 0.15000000000000002
+Potassium electrolyte, 0.15000000000000002
+Hemoglobin low, 0.15000000000000002
+noninvasive imaging, 0.15000000000000002
+Ventricular enlargement, 0.15000000000000002
+Oxygen Consumption, 0.15000000000000002
+e/ea, 0.15000000000000002
+Measurement of urine output, 0.15000000000000002
+Ventricular Heart Rate, 0.15000000000000002
+cardiac electrophysiology, 0.15000000000000002
+Sodium electrolyte, 0.15000000000000002
+e/e' ratio, 0.15000000000000002
+alpha-Atrial Natriuretic Peptide, 0.15000000000000002
+Left ventricular wall thickness, 0.15000000000000002
+Decreased albumin, 0.15000000000000002
+Echocardiography_ Stress_ Dobutamine, 0.15000000000000002
+Systolic Pressure, 0.15000000000000002
+Radionuclide imaging of myocardial perfusion with ejection fraction, 0.15000000000000002
+3-Iodobenzylguanidine, 0.15000000000000002
+6-minute walk test, 0.15000000000000002
+Pulmonary Vascular Resistance, 0.15000000000000002
+docosahexaenoic acid, 0.15000000000000002
+Presence of Q wave, 0.15000000000000002
+ECG: atrial flutter, 0.15000000000000002
+proximal left anterior descending stenosis, 0.15000000000000002
+nuclear imaging, 0.15000000000000002
+Hypomagnesemia, 0.15000000000000002
+C-reactive protein, 0.15000000000000002
+echocardiography: systolic deceleration time of mitral valve, 0.15000000000000002
+Maximum oxygen uptake, 0.15000000000000002
+Ejection fraction normal, 0.15000000000000002
+Genetic screening method, 0.15000000000000002
+Left ventricular wall motion, 0.15000000000000002
+modified simpson's rule, 0.15000000000000002
+Hemodynamic resistance:Resistance:Point in time:Systemic vasculature:Quantitative, 0.15000000000000002
+Doppler continuous wave, 0.15000000000000002
+mitral inflow during valsalva manoeuvre, 0.15000000000000002
+flow redistribution, 0.15000000000000002
+Left ventricular wall motion abnormality, 0.15000000000000002
+repolarization changes, 0.15000000000000002
+echocardiography: diastolic regurgitant velocity, 0.15000000000000002
+Enzyme-Linked Immunosorbent Assay, 0.15000000000000002
+Pulse rhythm, 0.15000000000000002
+T wave alternans, 0.15000000000000002
+mechanical dyssynchrony, 0.15000000000000002
+change in diameter on inspiration, 0.15000000000000002
+Selenium, 0.15000000000000002
+Velocity-time integral, 0.15000000000000002
+Myocardial perfusion, 0.15000000000000002
+measurement of the rate during moderate exercise, 0.15000000000000002
+Electrocardiogram: P-R interval, 0.15000000000000002
+Dietary sodium intake, 0.15000000000000002
+Vital capacity, 0.15000000000000002
+mean gradient, 0.15000000000000002
+mass, 0.15000000000000002
+Serum sodium measurement, 0.15000000000000002
+qrs width, 0.15000000000000002
+x-ray of chest: mass of heart, 0.15000000000000002
+Contrast neuroradiography, 0.15000000000000002
+pulse-wave and tissue doppler, 0.15000000000000002
+HYPONATREMIA EUVOLEMIC, 0.15000000000000002
+mitral inflow pattern, 0.15000000000000002
+echocardiography: internal diameter of inferior vena cava, 0.15000000000000002
+the ratio of early to late diastolic filling (e/a, 0.15000000000000002
+Platelet Count measurement, 0.15000000000000002
+preserved ef, 0.15000000000000002
+Epidermal Growth Factor Receptor, 0.15000000000000002
+mitral inflow e/a ratio, 0.15000000000000002
+inspiratory collapse of at least 50%, 0.15000000000000002
+left main coronary artery stenosis, 0.15000000000000002
+Right ventricular systolic pressure increased, 0.15000000000000002
+Creatine kinase MB measurement, 0.15000000000000002
+Gradient.mean, 0.15000000000000002
+Serum total cholesterol measurement, 0.15000000000000002
+regional myocardial thinning, 0.15000000000000002
+biomarkers of myocardial injury or fibrosis, 0.15000000000000002
+cardiac chamber size and function, 0.15000000000000002
+edpvr, 0.15000000000000002
+proximal left anterior descending coronary artery stenosis, 0.15000000000000002
+Pulmonary Venous Wedge Pressure, 0.15000000000000002
+QRS duration:Time:Point in time:Heart:Quantitative:EKG, 0.15000000000000002
+Entire inferior vena cava, 0.15000000000000002
+rv size, 0.15000000000000002
+velocity of early diastolic filling (evel, 0.15000000000000002
+Urine volume finding, 0.15000000000000002
+Left Atrium Dimension, 0.15000000000000002
+heart rate variability, 0.15000000000000002
+end-diastolic pressure (edp), 0.15000000000000002
+E wave.max/A wave.max:VelRto:Pt:Mitral valve:Qn:US.doppler, 0.15000000000000002
+(a pulm-a mitral) duration, 0.15000000000000002
+chamber sizes, 0.15000000000000002
+Infarction, 0.15000000000000002
+teichholz, 0.15000000000000002
+Ventricular filling pressure increased, 0.15000000000000002
+Pulmonary venous congestion, 0.15000000000000002
+Increased pulmonary arterial wedge pressure, 0.15000000000000002
+echocardiography: thickness of ventricular septum, 0.15000000000000002
+tapse, 0.15000000000000002
+decreased fractional shortening at midwall, 0.15000000000000002
+pet baseline perfusion deficits, 0.15000000000000002
+systolic tissue doppler velocities, 0.15000000000000002
+respiratory gaseous exchange, 0.15000000000000002
+transmural extent of scar, 0.15000000000000002
+Doppler echocardiography: abnormal diastolic relaxation, 0.15000000000000002
+Anterior Q wave, 0.15000000000000002
+Left ventricular diastolic dysfunction, 0.15000000000000002
+Left ventricular ejection fraction, 0.15000000000000002
+Prolonged QRS duration, 0.15000000000000002
+Ambulatory continuous electrocardiography [ECG], 0.15000000000000002
+Low QRS voltages, 0.15000000000000002
+Electrolytes measurement_ serum, 0.15000000000000002
+Electrocardiogram poor R-wave progression, 0.15000000000000002
+tissue doppler imaging, 0.15000000000000002
+Iodine 123 meta-iodobenzylguanidine study, 0.15000000000000002
+Ferritin, 0.15000000000000002
+Coronary artery calcification, 0.15000000000000002
+stress test resting diastolic BP, 0.15000000000000002
+cardiac valve area, 0.15000000000000002
+Myocardial perfusion stress imaging using technetium 99m metaiodobenzylguanidine tetrofosmin, 0.15000000000000002
+Orthostatic blood pressure, 0.15000000000000002
+valve function, 0.15000000000000002
+Right atrial pressure, 0.15000000000000002
+T' wave amplitude.lead V1:Elpot:Pt:Heart:Qn:EKG, 0.15000000000000002
+Hyperglycemia, 0.15000000000000002
+Doppler Ultrasound Imaging, 0.15000000000000002
+Body Surface Area, 0.15000000000000002
+Cardiac blood pool imaging, 0.15000000000000002
+Tissue velocity, 0.15000000000000002
+x-ray of chest: pulmonary veins Kerley's B lines (linear + pleura), 0.15000000000000002
+Fluid intake, 0.15000000000000002
+Hypokinesia, 0.15000000000000002
+Valvular disease, 0.15000000000000002
+strain rate, 0.15000000000000002
+apical biplane method of discs, 0.15000000000000002
+99mtc-dpd scan, 0.15000000000000002
+Polysomnography, 0.15000000000000002
+doppler systolic and diastolic indices, 0.15000000000000002
+Ventricular volume, 0.15000000000000002
+tissue doppler e' wave velocity, 0.15000000000000002
+echocardiography: left atrial volume, 0.15000000000000002
+Right ventricular dilatation, 0.15000000000000002
+Decreased cardiac ejection fraction, 0.15000000000000002
+velocity of filling with atrial contraction (avel, 0.15000000000000002
+electrocardiogram: intraventricular conduction delay (IVCD), 0.15000000000000002
+Plasma creatinine level, 0.15000000000000002
+Activity level, 0.15000000000000002
+Troponin increased, 0.15000000000000002
+Myocardial imaging for infarct_ planar technique, 0.15000000000000002
+Ammonia N-13, 0.15000000000000002
+A wave, 0.15000000000000002
+left ventricular volumes, 0.15000000000000002
+overnight sleep study, 0.15000000000000002
+Galectin 3, 0.15000000000000002
+ventricular systolic and diastolic function, 0.15000000000000002
+prominent upper lobe vasculature, 0.15000000000000002
+av plane systolic excursion, 0.15000000000000002
+Finding of liver enzyme levels, 0.15000000000000002
+deformation imaging, 0.15000000000000002
+midregional fragment of proadrenomedullin, 0.15000000000000002
+Body mass index procedure, 0.15000000000000002
+Intravascular US scan, 0.15000000000000002
+Electrocardiogram: left ventricle hypertrophy (finding), 0.15000000000000002
+pseudoinfarct pattern, 0.15000000000000002
+Cardiac index, 0.15000000000000002
+Hematocrit level, 0.15000000000000002
+Serum magnesium measurement, 0.15000000000000002
+lv diastolic stiffness, 0.15000000000000002
+Left atrial hypertrophy, 0.15000000000000002
+Thyroid function tests abnormal, 0.15000000000000002
+Hemosiderin-laden macrophage, 0.15000000000000002
+elevations in bilirubin, 0.15000000000000002
+lv diastolic function, 0.15000000000000002
+MCHC - low, 0.15000000000000002
+orthostatic testing, 0.15000000000000002
+noninvasive evaluation of lv function, 0.15000000000000002
+Serum digoxin measurement, 0.15000000000000002
+myocardial mass, 0.15000000000000002
+Peripheral oxygen saturation, 0.15000000000000002
+mitral regurgitant blood flow, 0.15000000000000002
+Pulmonary artery diastolic pressure, 0.15000000000000002
+Sustained ventricular tachycardia, 0.15000000000000002
+sparkling pattern, 0.15000000000000002
+intracardiac filling pressures, 0.15000000000000002
+Potassium:SCnc:Pt:Ser/Plas:Qn, 0.15000000000000002
+Total Peripheral Resistance, 0.15000000000000002
+Electrocardiogram P wave biphasic, 0.15000000000000002
+viable lv myocardium, 0.15000000000000002
+peripheral eosinophilia, 0.15000000000000002
+ST segment elevation (finding), 0.15000000000000002
+Bicarbonate measurement, 0.15000000000000002
+viability, 0.15000000000000002
+delayed enhancement from t1-weighted images, 0.15000000000000002
+ST segment depression (finding), 0.15000000000000002
+LDL Cholesterol Lipoproteins, 0.15000000000000002
+N-terminal pro-B-type natriuretic peptide, 0.15000000000000002
+abnormalities of lv diastolic filling, 0.15000000000000002
+regional cardiac wall motion dysfunction, 0.15000000000000002
+Plasma pro-brain natriuretic peptide level, 0.15000000000000002
+Right ventricular systolic dysfunction, 0.15000000000000002
+thallium activity score, 0.15000000000000002
+HEART SIZE, 0.15000000000000002
+Elevated serum creatine kinase, 0.15000000000000002
+Monitor fluid intake and output, 0.15000000000000002
+High Density Lipoprotein Cholesterol, 0.15000000000000002
+pulmonary venous inflow velocities, 0.15000000000000002
+Dilation of left ventricular chamber, 0.15000000000000002
+Left ventricular end-diastolic cavity size, 0.15000000000000002
+Ejection fraction (finding), 0.15000000000000002
+atrial size and dimensions, 0.15000000000000002
+biatrial enlargement, 0.15000000000000002
+Peak velocity of tricuspid regurgitation, 0.15000000000000002
+Dilation of left atrial chamber, 0.15000000000000002
+PULMONARY EDEMA INTERSTITIAL, 0.15000000000000002
+Heart sounds abnormal, 0.15000000000000002
+Contraction alkalosis, 0.15000000000000002
+visual assessment of ef, 0.15000000000000002
+sphericity index, 0.15000000000000002
+Metabolic acidosis, 0.15000000000000002
+Cardiac troponin T measurement, 0.15000000000000002
+Left ventricular end-systolic cavity size, 0.15000000000000002
+Low Cardiac Output, 0.15000000000000002
+Pleural fluid examination, 0.15000000000000002
+midregional pro-atrial natriuretic peptide_ human, 0.15000000000000002
+docosapentaenoic acid, 0.15000000000000002
+Endothelin measurement, 0.15000000000000002
+Continuous Sphygmomanometers, 0.15000000000000002
+alveolar fluid, 0.15000000000000002
+Measurement of gas exchange, 0.15000000000000002
+increased p wave amplitude in lead ii, 0.15000000000000002
+Fractional shortening.minor axis:LenFr:Pt:Heart.ventricle.left:Qn:US, 0.15000000000000002
+Idioventricular rhythm, 0.15000000000000002
+Nonsustained ventricular tachycardia, 0.15000000000000002
+Cystatin C increased, 0.15000000000000002
+Muscle strain, 0.15000000000000002
+Cardiac end-diastolic volume, 0.15000000000000002
+Carnitine, 0.15000000000000002
+Leukocytes, 0.15000000000000002
+Nonspecific Intraventricular Conduction Delay, 0.15000000000000002
+doppler assessment, 0.15000000000000002
+early diastolic myocardial velocities (e'), 0.15000000000000002
+Isovolumic relaxation Time, 0.15000000000000002
+peak mitral inflow e wave velocity, 0.15000000000000002
+e', 0.15000000000000002
+Electrolytes measurement, 0.15000000000000002
+Pulmonary arterial systolic pressure, 0.15000000000000002
+Effective regurgitant orifice, 0.15000000000000002
+INTERSTITIAL MARKING INCREASED, 0.15000000000000002
+end-diastolic pressure-volume relationship, 0.15000000000000002
+Sodium intake, 0.15000000000000002
+Digoxin measurement, 0.15000000000000002
+US scan of thoracic aorta, 0.15000000000000002
+Ventricular dyssynchrony, 0.15000000000000002
+Abnormal, 0.15000000000000002
+Chest X-ray, 0.15000000000000002
+adiponectin, 0.15000000000000002
+Fasting lipid profile, 0.15000000000000002
+echocardiography: fractional shortening of left ventricle, 0.15000000000000002
+Prothrombin time increased, 0.15000000000000002
+daily sodium intake, 0.15000000000000002
+Myocardial fibrosis, 0.15000000000000002
+Myocardial perfusion stress imaging using Thallium 201, 0.15000000000000002
+eye-balling, 0.15000000000000002
+Sinus Tachycardia, 0.15000000000000002
+st2, 0.15000000000000002
+Plasma Uric Acid Test, 0.15000000000000002
+P wave duration (observable entity), 0.15000000000000002
+Left ventricular ejection fraction decreased, 0.15000000000000002
+lv end-systolic volume index, 0.15000000000000002
+end-systolic diameter, 0.15000000000000002
+serum hemoglobin, 0.15000000000000002
+lv sphericity index, 0.15000000000000002
+elevated plasma natriuretic peptide concentration, 0.15000000000000002
+Aspartate Transaminase, 0.15000000000000002
+Right atrial enlargement, 0.15000000000000002
+e/a ratio, 0.15000000000000002
+prominence of the right ventricle, 0.15000000000000002
+magnetic resonance imaging of heart for morphology, 0.15000000000000002
+Differential white blood cell count procedure, 0.15000000000000002
+International Normalized Ratio, 0.15000000000000002
+valvular gradients, 0.15000000000000002
+Blood Circulation Time, 0.15000000000000002
+Perfusion, 0.15000000000000002
+ST-Depression_Peak, 0.15000000000000002
+increased salivary endothelin levels, 0.15000000000000002
+Pulsed wave ultrasonic Doppler, 0.15000000000000002
+Serum potassium measurement, 0.15000000000000002
+systolic lv function, 0.15000000000000002
+increased peak doppler peak e, 0.15000000000000002
+PERIHILAR PULMONARY INFILTRATE, 0.15000000000000002
+WATER_ O-15_, 0.15000000000000002
+Intracardiac pressure, 0.15000000000000002
+stv5 depression, 0.15000000000000002
+Measurement of cardiac output, 0.15000000000000002
+early (e) and atrial (a) waveforms, 0.15000000000000002
+Low ventricular voltage by EKG, 0.15000000000000002
+Oxygen saturation test result, 0.15000000000000002
+Pulse oximeter, 0.15000000000000002
+Systolic dysfunction, 0.15000000000000002
+Transaminase raised, 0.15000000000000002
+Pharmacologic and exercise stress test, 0.15000000000000002
+"butterfly" pattern of alveolar opacities, 0.15000000000000002
+Rubidium, 0.15000000000000002
+qrs non-dipolar voltage, 0.15000000000000002
+Continuous wave ultrasonic Doppler, 0.15000000000000002
+valvular structure and function, 0.15000000000000002
+Proximal Left Anterior Descending Coronary Artery Stenosis, 0.15000000000000002
+Serum creatinine level, 0.15000000000000002
+Deceleration time, 0.15000000000000002
+left ventricular outflow tract reconstruction, 0.15000000000000002
+Right ventricular cavity size, 0.15000000000000002
+Nuclear Stress Test, 0.15000000000000002
+Fatty acids.omega 3:SCnc:Pt:Ser/Plas:Qn, 0.15000000000000002
+soluble st2, 0.15000000000000002
+left ventricular filling pressure, 0.15000000000000002
+Cardiovascular stress test using treadmill, 0.15000000000000002
+sodium excretion, 0.15000000000000002
+engorged hilar pulmonary arteries, 0.15000000000000002
+Cardiovascular stress test using bicycle ergometer, 0.15000000000000002
+Glomerular filtration rate decreased, 0.15000000000000002
+mitral valve inflow pattern, 0.15000000000000002
+Right ventricular systolic pressure level, 0.15000000000000002
+Left atrium cavity size, 0.15000000000000002
+Left ventricular isovolumic relaxation, 0.15000000000000002
+serum Calcium measurement, 0.15000000000000002
+hrv, 0.15000000000000002
+memorial symptom assessment scale, 0.15000000000000002
+Hydrogen Carbonate, 0.15000000000000002
+CHEST XRAY PULMONARY VASCULAR REDISTRIBUTION, 0.15000000000000002
+atrial heart rate and rhythm, 0.15000000000000002
+Intracardiac mass, 0.15000000000000002
+creatinine concentration (serum or plasma), 0.15000000000000002
+Dilated left ventricle, 0.15000000000000002
+Aldosterone measurement_ serum, 0.15000000000000002
+Left ventricular mass, 0.15000000000000002
+QRS complex duration (observable entity), 0.15000000000000002
+Urine albumin measurement, 0.15000000000000002
+diffuse hypokinesis, 0.15000000000000002
+Intracardiac thrombus, 0.15000000000000002
+cardiac evaluation of right heart pressure, 0.15000000000000002
+Left ventricular size, 0.15000000000000002
+Serum cystatin C measurement, 0.15000000000000002
+Gradient.systole.max:Pres:Pt:Tricuspid valve.regurgitant jet:Qn:US.doppler, 0.15000000000000002
+Wedge Pressure, 0.15000000000000002
+C-reactive protein measurement, 0.15000000000000002
+ECG: atrial fibrillation, 0.15000000000000002
+Triglycerides, 0.15000000000000002
+Alveolar edema, 0.15000000000000002
+lv wall motion score index, 0.15000000000000002
+Left ventricular end-diastolic dimension, 0.15000000000000002
+Left ventricular systolic dysfunction, 0.15000000000000002
+Arterial Lines, 0.15000000000000002
+Chlorides, 0.15000000000000002
+Serum creatinine raised, 0.15000000000000002
+Renin measurement, 0.15000000000000002
+interventricular conduction delay, 0.15000000000000002
+Valsalva Maneuver, 0.15000000000000002
+Valvular function features, 0.15000000000000002
+Cardiac biomarkers, 0.15000000000000002
+electrocardiogram: axis QRST angle, 0.15000000000000002
+Neutrophilia, 0.15000000000000002
+Thiamine, 0.15000000000000002
+lv regional function, 0.15000000000000002
+echocardiography: valvular mitral stenosis, 0.15000000000000002
+lv outflow tract velocity time integral, 0.15000000000000002
+lv end-systolic diameter, 0.15000000000000002
+Measurement of central venous pressure, 0.15000000000000002
+Fluoroscopy_Vessels_Test, 0.15000000000000002
+Serum albumin measurement, 0.15000000000000002
+left atrial volume index, 0.15000000000000002
+peribronchial cuffing, 0.15000000000000002
+Left ventricular end-systolic dimension, 0.15000000000000002
+Color doppler ultrasound, 0.15000000000000002
+myosin light chain kinase i, 0.15000000000000002
+Serum fasting glucose measurement, 0.15000000000000002
+serum BUN/creatinine ratio, 0.15000000000000002
+Cardiopulmonary Exercise Test, 0.15000000000000002
+pulmonary vein flows, 0.15000000000000002
+fasting lipid panel, 0.15000000000000002
+Thyrotropin, 0.15000000000000002
+mitral annular velocity, 0.15000000000000002
+Increased central venous pressure, 0.15000000000000002
+Glycosylated hemoglobin A, 0.15000000000000002
+serum biomarkers, 0.15000000000000002
+Oral Glucose Tolerance Test, 0.15000000000000002
+pulmonary venous inflow pattern, 0.15000000000000002
+Left ventricular dilatation, 0.15000000000000002
+Magnetic resonance imaging of heart for assessment of myocardial viability, 0.15000000000000002
+thyroid-stimulating hormone measurement, 0.15000000000000002
+Pulse Pressure, 0.15000000000000002
+Norepinephrine measurement, 0.15000000000000002
+noninvasive cardiac imaging, 0.15000000000000002
+Increased albumin, 0.15000000000000002
+Pulmonary Capillary Wedge Pressure, 0.15000000000000002
+Mixed venous oxygen saturation measurement, 0.15000000000000002
+Arterial oxygen saturation measurement, 0.15000000000000002
+UCN3 protein_ human, 0.15000000000000002
+Private home-based care, 0.15000000000000002
+esmolol, 0.15000000000000002
+Venous blood sampling, 0.15000000000000002
+Intra-aortic balloon pump device, 0.15000000000000002
+UCN2 protein_ human, 0.15000000000000002
+Taurine, 0.15000000000000002
+valvuloplasty, 0.15000000000000002
+Antiplatelet therapy  EXCEPT Aspirin, 0.15000000000000002
+multidisciplinary care conference, 0.15000000000000002
+Testosterone patch, 0.15000000000000002
+Diuresis, 0.15000000000000002
+Reperfusion Therapy, 0.15000000000000002
+Fontan Procedure, 0.15000000000000002
+gene therapy, 0.15000000000000002
+Sitting position, 0.15000000000000002
+Resistance Training, 0.15000000000000002
+Exercise_ Aerobic, 0.15000000000000002
+Provider orders for life-sustaining treatment, 0.15000000000000002
+Placement of stent, 0.15000000000000002
+Nitrates, 0.15000000000000002
+percutaneous edge-to-edge repair, 0.15000000000000002
+Social support, 0.15000000000000002
+neurohumoral antagonists, 0.15000000000000002
+Relaxin, 0.15000000000000002
+dialysis, 0.15000000000000002
+Cardiac rehabilitation, 0.15000000000000002
+Aneurysmectomy, 0.15000000000000002
+Heart failure education, 0.15000000000000002
+Testosterone Transdermal Patch, 0.15000000000000002
+Nicotinic Acids, 0.15000000000000002
+Home exercise program, 0.15000000000000002
+Transmyocardial revascularization by laser technique, 0.15000000000000002
+Alcohol Abstinence, 0.15000000000000002
+Dexrazoxane, 0.15000000000000002
+Inhaled bronchodilator therapy, 0.15000000000000002
+Multisite ventricular pacing, 0.15000000000000002
+growth hormone treatment, 0.15000000000000002
+Nonrebreather oxygen mask, 0.15000000000000002
+Dietary sodium - average, 0.15000000000000002
+carvedilol-cr, 0.15000000000000002
+remote telemonitoring programs, 0.15000000000000002
+myoplasty, 0.15000000000000002
+Aldactone, 0.15000000000000002
+Chelation Therapy, 0.15000000000000002
+specialized hf clinics, 0.15000000000000002
+cardiac myosin activators, 0.15000000000000002
+replacement; valve, 0.15000000000000002
+Catheter Ablation_ Electric, 0.15000000000000002
+Vasopressin Antagonist, 0.15000000000000002
+Anterior, 0.15000000000000002
+avp antagonists, 0.15000000000000002
+Dual pressure spontaneous ventilation support, 0.15000000000000002
+Ring annuloplasty (procedure), 0.15000000000000002
+chimeric natriuretic peptide, 0.15000000000000002
+CoQ10, 0.15000000000000002
+atrial fibrillation surgery, 0.15000000000000002
+Dobutamine, 0.15000000000000002
+Catheters_ Cardiac_ Laser Percutaneous Myocardial Revascularization, 0.15000000000000002
+Mechanical ventilation, 0.15000000000000002
+Electrophysiology ablation, 0.15000000000000002
+Natural immunosuppression, 0.15000000000000002
+patient monitoring: daily weights, 0.15000000000000002
+sequential nephron blockade, 0.15000000000000002
+Hospitalization, 0.15000000000000002
+Echocardiography_ Three-Dimensional_, 0.15000000000000002
+Diabetic - good control, 0.15000000000000002
+surgical ventricular reconstruction, 0.15000000000000002
+Pneumococcal vaccination, 0.15000000000000002
+hydralazine-nitrate combination, 0.15000000000000002
+coronary revascularisation, 0.15000000000000002
+Post-discharge follow-up, 0.15000000000000002
+mycophenolate mofetil, 0.15000000000000002
+follow-up, 0.15000000000000002
+Psychosocial assessment (procedure), 0.15000000000000002
+Implantation of CRT-D, 0.15000000000000002
+Right ventricular assist device, 0.15000000000000002
+bridge to recovery, 0.15000000000000002
+Limits sodium intake, 0.15000000000000002
+Testosterone, 0.15000000000000002
+Intracoronary brachytherapy using fluoroscopic guidance, 0.15000000000000002
+Isotonic exercise, 0.15000000000000002
+cd-np, 0.15000000000000002
+pulmonary vasodilators, 0.15000000000000002
+Lytic, 0.15000000000000002
+Fluid restriction, 0.15000000000000002
+right ventricular pacing, 0.15000000000000002
+Percutaneous Coronary Intervention, 0.15000000000000002
+Bypass Surgery, 0.15000000000000002
+pulmonary arterial vasodilator therapy, 0.15000000000000002
+vaptans, 0.15000000000000002
+Potassium supplement, 0.15000000000000002
+bridge to decision, 0.15000000000000002
+bridge to candidacy, 0.15000000000000002
+Surgical ventricular restoration procedure, 0.15000000000000002
+bridge-to-recovery_ btr, 0.15000000000000002
+Disease Management, 0.15000000000000002
+Rotational Atherectomy, 0.15000000000000002
+Ventriculomyotomy for idiopathic hypertrophic subaortic stenosis, 0.15000000000000002
+coordination of care services, 0.15000000000000002
+PACEMAKER DDD, 0.15000000000000002
+controlling the ventricular rate, 0.15000000000000002
+Dopamine, 0.15000000000000002
+Magnetic Resonance Angiography, 0.15000000000000002
+Sheng-Mai San, 0.15000000000000002
+bridge to transplantation, 0.15000000000000002
+Ventricular muscle ablation for arrhythmia, 0.15000000000000002
+Pulmonary Artery Catheterization, 0.15000000000000002
+creatine analogs, 0.15000000000000002
+structured telephone support, 0.15000000000000002
+Mustard procedure for transposition repair, 0.15000000000000002
+Telephone follow-up, 0.15000000000000002
+ferric carboxymaltose, 0.15000000000000002
+Discharge Planning, 0.15000000000000002
+Maze procedure for atrial arrhythmia, 0.15000000000000002
+adaptive servo-ventilation, 0.15000000000000002
+satavaptan, 0.15000000000000002
+discharge education, 0.15000000000000002
+Biventricular defibrillator, 0.15000000000000002
+Erythropoietin, 0.15000000000000002
+Urinary Catheterization, 0.15000000000000002
+Atrial inversion operation using atrial wall, 0.15000000000000002
+Trimetazidine, 0.15000000000000002
+ventricular reconstruction, 0.15000000000000002
+Do-Not-Resuscitate Orders, 0.15000000000000002
+Implantation of artificial heart, 0.15000000000000002
+Cyclosporine, 0.15000000000000002
+Artificial Ventricle, 0.15000000000000002
+muscle transfer, 0.15000000000000002
+wearable defibrillator vest, 0.15000000000000002
+Neuromuscular Electrical Stimulation, 0.15000000000000002
+Increased protein diet, 0.15000000000000002
+Administer oxygen at high flow rate (10-15 L/min), 0.15000000000000002
+Maintaining Intravenous Access, 0.15000000000000002
+peep, 0.15000000000000002
+Intra-Aortic Balloon Pumping, 0.15000000000000002
+insulin, 0.15000000000000002
+Heart failure follow-up, 0.15000000000000002
+Midazolam, 0.15000000000000002
+repair of heart valve, 0.15000000000000002
+Iron sucrose, 0.15000000000000002
+supplemental oxygen therapy, 0.15000000000000002
+Magnesium supplement, 0.15000000000000002
+destination therapy, 0.15000000000000002
+Cardiopulmonary Bypass, 0.15000000000000002
+regular physical activity, 0.15000000000000002
+disease-modifying neurohumoral antagonists, 0.15000000000000002
+percutaneous partial pumps, 0.15000000000000002
+Azathioprine, 0.15000000000000002
+Glucagon-Like Peptide 1, 0.15000000000000002
+Extracorporeal Membrane Oxygenation, 0.15000000000000002
+Patient education (procedure), 0.15000000000000002
+Cardiac Resynchronization Therapy Pacemaker (CRT-P) Systems, 0.15000000000000002
+Care plan, 0.15000000000000002
+Cessation of smoking, 0.15000000000000002
+nurse-based case management, 0.15000000000000002
+continuous intravenous infusion of a positive inotropic agent, 0.15000000000000002
+intravenous inotropic support, 0.15000000000000002
+Clenbuterol, 0.15000000000000002
+Atrial Ablation, 0.15000000000000002
+holistic management, 0.15000000000000002
+Hawthorn preparation, 0.15000000000000002
+Admission to intensive care unit, 0.15000000000000002
+Tai Chi, 0.15000000000000002
+PACEMAKER VVI PLACEMENT, 0.15000000000000002
+telephonic case management, 0.15000000000000002
+vasopressin v2 receptor antagonists, 0.15000000000000002
+guideline-directed medical therapy, 0.15000000000000002
+Etomidate, 0.15000000000000002
+Biventricular Pacemakers, 0.15000000000000002
+Dor procedure, 0.15000000000000002
+passive ventricular constraint, 0.15000000000000002
+ghrelin, 0.15000000000000002
+Therapeutic immunosuppression, 0.15000000000000002
+aldosterone, 0.15000000000000002
+Influenza vaccination, 0.15000000000000002
+Implantation of permanent intravenous cardiac pacemaker, 0.15000000000000002
+Pericardiectomy, 0.15000000000000002
+Family counseling, 0.15000000000000002
+assisted ventilation, 0.15000000000000002
+Lipid-lowering therapy, 0.15000000000000002
+Coreg, 0.15000000000000002
+maintenance of sinus rhythm, 0.15000000000000002
+Metformin, 0.15000000000000002
+intracoronary autologous bone-marrow cell transfer, 0.15000000000000002
+Repair of tricuspid valve, 0.15000000000000002
+Caloric supplementation, 0.15000000000000002
+omecamtiv mecarbil, 0.15000000000000002
+Bile-acid Binding Resin [EPC], 0.15000000000000002
+Implantation of cardiac support device (CSD), 0.15000000000000002
+Left ventricular aneurysm, 0.15000000000000002
+Deferoxamine, 0.15000000000000002
+Referral to cardiac surgery service, 0.15000000000000002
+Adrenergic beta-2 Receptor Agonists, 0.15000000000000002
+Invasive mechanical ventilation, 0.15000000000000002
+Fibrates, 0.15000000000000002
+lixivaptan, 0.15000000000000002
+infusion of autologous bone marrow-derived cells (bmcs), 0.15000000000000002
+Pneumococcal vaccine, 0.15000000000000002
+Low sodium diet, 0.15000000000000002
+managed in an intensive or coronary care unit, 0.15000000000000002
+managed at tertiary heart failure centres, 0.15000000000000002
+Demeclocycline, 0.15000000000000002
+Somatotropin-Releasing Hormone, 0.15000000000000002
+Implantation of rechargeable cardiac contractility modulation [CCM]_ total system, 0.15000000000000002
+catheterization with infusion of dobutamine, 0.15000000000000002
+Intermittent pneumatic compression device, 0.15000000000000002
+left atrial appendage closure, 0.15000000000000002
+Thoracic impedance, 0.15000000000000002
+Thoracentesis, 0.15000000000000002
+Ligation of patent ductus arteriosus, 0.15000000000000002
+Exercise education, 0.15000000000000002
+improved access to care, 0.15000000000000002
+Weight reduction regimen, 0.15000000000000002
+Left ventricular assist device, 0.15000000000000002
+Directional atherectomy, 0.15000000000000002
+High dose, 0.15000000000000002
+implantable monitors, 0.15000000000000002
+Disease management program (regime/therapy), 0.15000000000000002
+Positive inotropic drug, 0.15000000000000002
+Cell Therapy, 0.15000000000000002
+DIRECT RENIN INHIBITOR, 0.15000000000000002
+rosuvastatin, 0.15000000000000002
+transitional care planning, 0.15000000000000002
+Family education, 0.15000000000000002
+aortic valve surgery, 0.15000000000000002
+Insertion of dual chamber pacemaker, 0.15000000000000002
+Adenosine A1 Receptor Antagonists, 0.15000000000000002
+progenitor cell-based myocardial repair, 0.15000000000000002
+Controls alcohol intake, 0.15000000000000002
+Patient Care Team, 0.15000000000000002
+written discharge instructions, 0.15000000000000002
+Prosthetic valve, 0.15000000000000002
+control hypertension, 0.15000000000000002
+Pulmonary artery pressure monitoring, 0.15000000000000002
+Prophylactic diuretic therapy, 0.15000000000000002
+continuous inotropic infusions, 0.15000000000000002
+Transvenous insertion of pacing electrode for left ventricular pacing, 0.15000000000000002
+Dietary Supplementation, 0.15000000000000002
+palliative care service, 0.15000000000000002
+Lorazepam, 0.15000000000000002
+Alcohol septal ablation, 0.15000000000000002
+Ablation therapy for atrial fibrillation, 0.15000000000000002
+Transcatheter mitral valve repair, 0.15000000000000002
+Istaroxime, 0.15000000000000002
+Peripheral Stem Cell Transplantation, 0.15000000000000002
+myomectomy, 0.15000000000000002
+Hormone replacement therapy, 0.15000000000000002
+aortic valve replacement transcatheter, 0.15000000000000002
+Surgical reverse remodeling, 0.15000000000000002
+Yoga, 0.15000000000000002
+Iron supplement therapy, 0.15000000000000002
+lv reconstruction, 0.15000000000000002
+modest exercise, 0.15000000000000002
+chest pressure, 0.15000000000000002
+Bilateral pleural effusion, 0.15000000000000002
+Hydralazine / Isosorbide Dinitrate, 0.15000000000000002
+Bidil, 0.15000000000000002
+fondaparinux, 0.15000000000000002
+Left anterior fascicular block, 0.15000000000000002
+Catheterization of left heart, 0.15000000000000002
+Catheterization of right heart, 0.15000000000000002
+Intraventricular pacing, 0.15000000000000002
+Swan-Ganz Catheterization, 0.15000000000000002
+Replacement of aortic valve (procedure), 0.15000000000000002
+Replacement of pulmonary valve, 0.15000000000000002
+Replacement of tricuspid valve, 0.15000000000000002
+Replacement of mitral valve (procedure), 0.15000000000000002
+tolvaptan, 0.15000000000000002
+conivaptan, 0.15000000000000002
+Self-care interventions, 0.15000000000000002
+rofecoxib, 0.15000000000000002
+2D Doppler Echocardiography, 0.15000000000000002
+Haemofiltration, 0.15000000000000002
+Captopril, 0.15000000000000002
+Right upper quadrant pain, 0.15000000000000002
+Cobalt, 0.15000000000000002
+Blood Transfusion, 0.15000000000000002
+Bilateral renal artery stenosis, 0.15000000000000002
+Dilated cardiomyopathy secondary to familial storage disease, 0.15000000000000002
+environmental or medical exposure to cardiotoxic substances, 0.15000000000000002
+H/O: alcoholism, 0.15000000000000002
+Taxoids, 0.15000000000000002
+Family history of conduction disorder of the heart, 0.15000000000000002
+Multiple gated acquisition scanning, 0.15000000000000002
+Polydipsia, 0.15000000000000002
+Ephedra, 0.15000000000000002
+Cheyne-Stokes Respiration, 0.15000000000000002
+Excessive alcohol consumption, 0.15000000000000002
+Tobacco use, 0.15000000000000002
+Systemic infection, 0.15000000000000002
+Emphysema, 0.15000000000000002
+mitral valve papillary muscle rupture, 0.15000000000000002
+Hypocalcemia, 0.15000000000000002
+Peripheral arterial embolism, 0.15000000000000002
+History of myocardial infarction, 0.15000000000000002
+ST segment elevation myocardial infarction, 0.15000000000000002
+Carnitine deficiency, 0.15000000000000002
+Penicillins, 0.15000000000000002
+Postcardiotomy syndrome, 0.15000000000000002
+isoniazid, 0.15000000000000002
+Thromboembolism, 0.15000000000000002
+Congenital muscular dystrophy (disorder), 0.15000000000000002
+Illicit drug use, 0.15000000000000002
+Cerebrovascular accident, 0.15000000000000002
+COPD exacerbation, 0.15000000000000002
+Transfusion Of Blood Products, 0.15000000000000002
+FH: Sudden infant death, 0.15000000000000002
+pheochromocytoma, 0.15000000000000002
+Atrial Septal Defects, 0.15000000000000002
+Supraventricular tachyarrhythmia, 0.15000000000000002
+Cardiotoxicity, 0.15000000000000002
+Egg intake, 0.15000000000000002
+Sulfonamides, 0.15000000000000002
+Gaucher Disease, 0.15000000000000002
+Dietary sodium - high, 0.15000000000000002
+Excessive sodium intake, 0.15000000000000002
+Ergot Alkaloids, 0.15000000000000002
+regurgitant valvular disease, 0.15000000000000002
+Elderly (population group), 0.15000000000000002
+concomitant anthracycline therapy, 0.15000000000000002
+Right sided infective endocarditis, 0.15000000000000002
+Cardiomyopathy_ Familial Idiopathic, 0.15000000000000002
+Malnutrition, 0.15000000000000002
+H/O: asthma, 0.15000000000000002
+worsening hypertension, 0.15000000000000002
+Ascending aortic dissection, 0.15000000000000002
+Hypertensive crisis, 0.15000000000000002
+Restrictive cardiomyopathy secondary to infiltrations, 0.15000000000000002
+Fasting hyperglycaemia, 0.15000000000000002
+Mitral chordae rupture, 0.15000000000000002
+cumulative anthracycline dose, 0.15000000000000002
+maternal placental syndrome, 0.15000000000000002
+disease (or disorder); valve_ valvular (obstructive) (regurgitation), 0.15000000000000002
+Fever, 0.15000000000000002
+Doppler echocardiography: extracardiac shunt, 0.15000000000000002
+Chloroquine, 0.15000000000000002
+Family history of heart failure, 0.15000000000000002
+MYOCARDIAL INFARCTION RIGHT VENTRICULAR, 0.15000000000000002
+high-fat dairy, 0.15000000000000002
+beta Thalassemia, 0.15000000000000002
+Paget's Disease of Bone, 0.15000000000000002
+Loeffler Syndrome, 0.15000000000000002
+Exacerbation of asthma, 0.15000000000000002
+Arteriovenous fistula, 0.15000000000000002
+Environmental Exposure, 0.15000000000000002
+skeletal myopathy, 0.15000000000000002
+Sudden unexpected nocturnal death syndrome, 0.15000000000000002
+Chronic lung disease, 0.15000000000000002
+Hypertensive heart failure, 0.15000000000000002
+hemorrhagic stroke, 0.15000000000000002
+severe hypertension, 0.15000000000000002
+cancer radiation therapy, 0.15000000000000002
+Bland White Garland Syndrome, 0.15000000000000002
+Pregnancy, 0.15000000000000002
+Exposure to toxin, 0.15000000000000002
+Liver Dysfunction, 0.15000000000000002
+Epirubicin, 0.15000000000000002
+Female, 0.15000000000000002
+Hyperkalemia, 0.15000000000000002
+Dysglycemia, 0.15000000000000002
+H/O: thyroid disorder, 0.15000000000000002
+Catecholamines, 0.15000000000000002
+Somatotropin deficiency, 0.15000000000000002
+H/O: diabetes mellitus, 0.15000000000000002
+Influenza-like illness, 0.15000000000000002
+H/O: angina pectoris, 0.15000000000000002
+Estrogens, 0.15000000000000002
+Deep Vein Thrombosis, 0.15000000000000002
+H/O: heart failure, 0.15000000000000002
+Medication Nonadherence, 0.15000000000000002
+High density lipoprotein deficiency, 0.15000000000000002
+Restrictive cardiomyopathy secondary to familial storage disease, 0.15000000000000002
+Environmental Stress, 0.15000000000000002
+Lobar Pneumonia, 0.15000000000000002
+pickering syndrome, 0.15000000000000002
+Chemotherapy Regimen, 0.15000000000000002
+HIV Seropositivity, 0.15000000000000002
+Fenfluramine, 0.15000000000000002
+Placental infarct, 0.15000000000000002
+Acute mitral regurgitation, 0.15000000000000002
+Diabetic Cardiomyopathy, 0.15000000000000002
+Iron deficiency, 0.15000000000000002
+Ischemic Cerebrovascular Accident, 0.15000000000000002
+Obesity cardiomyopathy, 0.15000000000000002
+Dilated cardiomyopathy secondary to toxic reaction, 0.15000000000000002
+Itraconazole, 0.15000000000000002
+Alcohol consumption, 0.15000000000000002
+Abruptio Placentae, 0.15000000000000002
+cilostazol, 0.15000000000000002
+Aging, 0.15000000000000002
+Idiopathic, 0.15000000000000002
+Dietary indiscretion, 0.15000000000000002
+Uncontrolled hypertension, 0.15000000000000002
+Adriamycin, 0.15000000000000002
+iatrogenic causes, 0.15000000000000002
+Emotional Stress, 0.15000000000000002
+FH: Muscular dystrophy, 0.15000000000000002
+Tobacco, 0.15000000000000002
+Shunt left-right intracardiac, 0.15000000000000002
+Licorice, 0.15000000000000002
+Permanent atrial fibrillation, 0.15000000000000002
+Phentermine, 0.15000000000000002
+History of cardiac arrest, 0.15000000000000002
+Infectious disease of lung, 0.15000000000000002
+Methyldopa, 0.15000000000000002
+Actual Non Adherence To Dietary Regime, 0.15000000000000002
+hypertensive emergency, 0.15000000000000002
+Amphetamine Abuse, 0.15000000000000002
+Multiple intracardiac shunts, 0.15000000000000002
+Pulmonary arterial hypertension, 0.15000000000000002
+Methamphetamine, 0.15000000000000002
+Paroxysmal supraventricular tachycardia, 0.15000000000000002
+Cancer Diagnosis, 0.15000000000000002
+Pseudoephedrine, 0.15000000000000002
+Dexfenfluramine, 0.15000000000000002
+Tachycardia_ Atrioventricular Nodal Reentry, 0.15000000000000002
+MITRAL LEAFLET FLAIL, 0.15000000000000002
+anagrelide, 0.15000000000000002
+Pergolide, 0.15000000000000002
+Exposure to cardiotoxins, 0.15000000000000002
+Atrial tachycardia, 0.15000000000000002
+Infiltrative disorder, 0.15000000000000002
+Beam Radiation of Chest using Electrons, 0.15000000000000002
+idarubicin, 0.15000000000000002
+Cardiac Tamponade, 0.15000000000000002
+acute valvular insufficiency, 0.15000000000000002
+Pericarditis_ Constrictive, 0.15000000000000002
+Viral myocarditis, 0.15000000000000002
+Muscular Dystrophies_ Limb-Girdle, 0.15000000000000002
+mediastinum, 0.15000000000000002
+Amphotericin B, 0.15000000000000002
+Atrial natriuretic peptide increased, 0.15000000000000002
+Tobacco smoking behavior, 0.15000000000000002
+Streptomycin, 0.15000000000000002
+Idiopathic Hypereosinophilic Syndrome, 0.15000000000000002
+Methylphenidate, 0.15000000000000002
+Fabry Disease, 0.15000000000000002
+Ephedrine, 0.15000000000000002
+acute, 0.15000000000000002
+Tetanus Vaccine, 0.15000000000000002
+Cardiac Output_ High, 0.15000000000000002
+FH: Cardiomyopathy, 0.15000000000000002
+Increased body mass index, 0.15000000000000002
+AORTIC REGURGITATION ACUTE, 0.15000000000000002
+Cocaine Abuse, 0.15000000000000002
+Myopericarditis, 0.15000000000000002
+Cardiotoxins, 0.15000000000000002
+Patent ductus arteriosus, 0.15000000000000002
+Dissection of aorta, 0.15000000000000002
+Cocaine Cardiomyopathy, 0.15000000000000002
+Retinopathy, 0.15000000000000002
+Nonischemic congestive cardiomyopathy, 0.15000000000000002
+Anorexia Nervosa, 0.15000000000000002
+obstructive valvular disease, 0.15000000000000002
+Atrial Flutter, 0.15000000000000002
+Congestive heart failure due to valvular disease, 0.15000000000000002
+history of mi or acs, 0.15000000000000002
+previous history of smoking, 0.15000000000000002
+Ventricular pacing at high rates, 0.15000000000000002
+Chronic anemia, 0.15000000000000002
+bucindolol, 0.15000000000000002
+bosentan, 0.15000000000000002
+Intra-arterial vasodilator, 0.15000000000000002
+tezosentan, 0.15000000000000002
+Nesiritide, 0.15000000000000002
+Intravenous vasodilator, 0.15000000000000002
+sildenafil, 0.15000000000000002
+Milrinone, 0.15000000000000002
+Carvedilol, 0.15000000000000002
+Prazosin, 0.15000000000000002
+nebivolol, 0.15000000000000002
+Sodium Nitroprusside, 0.15000000000000002
+ranolazine, 0.15000000000000002
+cinaciguat, 0.15000000000000002
+Epoprostenol, 0.15000000000000002
+Pre-Eclampsia, 0.15000000000000002
+Chronic Kidney Insufficiency, 0.15000000000000002
+Influenza, 0.15000000000000002
+vesnarinone, 0.15000000000000002
+Anabolic steroids, 0.15000000000000002
+Abdominal bloating, 0.15000000000000002
+Metabolic syndrome, 0.15000000000000002
+Noninvasive positive pressure ventilation, 0.15000000000000002
+Stable angina, 0.15000000000000002
+Exertional angina, 0.15000000000000002
+Acute Coronary Syndrome, 0.15000000000000002
+Angina_ Unstable, 0.15000000000000002
+Alcoholic Intoxication_ Chronic, 0.15000000000000002
+Presyncope, 0.15000000000000002
+ivabradine, 0.15000000000000002
+Flecainide, 0.15000000000000002
+Disopyramide, 0.15000000000000002
+Class III antiarrhythmic drug, 0.15000000000000002
+Phenytoin, 0.15000000000000002
+Class I antiarrhythmic drug, 0.15000000000000002
+Losartan, 0.15000000000000002
+Digitoxin, 0.15000000000000002
+dofetilide, 0.15000000000000002
+Atenolol, 0.15000000000000002
+apixaban, 0.15000000000000002
+Warfarin, 0.15000000000000002
+rivaroxaban, 0.15000000000000002
+dabigatran, 0.15000000000000002
+Stenting, 0.15000000000000002
+Genetic Counseling, 0.15000000000000002
+aliskiren, 0.15000000000000002
+Signal-averaged electrocardiography, 0.15000000000000002
+12 lead ECG, 0.15000000000000002
+Anomalous origin of coronary artery from pulmonary arterial tree, 0.15000000000000002
+Premature ventricular contractions, 0.15000000000000002
+Palpitations, 0.15000000000000002
+Sick Sinus Syndrome, 0.15000000000000002
+Sinus bradycardia, 0.15000000000000002
+Ventricular Fibrillation, 0.15000000000000002
+echocardiography: diastolic chamber volume of left ventricle, 0.15000000000000002
+Continuous Positive Airway Pressure, 0.15000000000000002
+Right Ventricular Hypertrophy, 0.15000000000000002
+Cardiac Hypertrophy, 0.15000000000000002
+PET heart study, 0.15000000000000002
+Transmyocardial Laser Revascularization (procedure), 0.15000000000000002
+Old myocardial infarction, 0.15000000000000002
+Spirometry, 0.15000000000000002
+Pansystolic murmur, 0.15000000000000002
+everolimus, 0.15000000000000002
+infliximab, 0.15000000000000002
+Etanercept, 0.15000000000000002
+Artificial cardiac pacemaker, 0.15000000000000002
+Pulmonary artery systolic pressure, 0.15000000000000002
+Aortic Valve Stenosis, 0.15000000000000002
+Hypertensive cardiomyopathy, 0.15000000000000002
+Tachycardia-induced cardiomyopathy, 0.15000000000000002
+Takotsubo Cardiomyopathy, 0.15000000000000002
+Cardiomyopathy_ Alcoholic, 0.15000000000000002
+Arrhythmogenic Right Ventricular Dysplasia, 0.15000000000000002
+Ischemic cardiomyopathy, 0.15000000000000002
+Left ventricular noncompaction, 0.15000000000000002
+Endocardial Fibroelastosis, 0.15000000000000002
+Peripartum cardiomyopathy, 0.15000000000000002
+Zebeta, 0.15000000000000002
+quinapril, 0.15000000000000002
+Perindopril, 0.15000000000000002
+trandolapril, 0.15000000000000002
+Lisinopril, 0.15000000000000002
+irbesartan, 0.15000000000000002
+candesartan, 0.15000000000000002
+Ramipril, 0.15000000000000002
+Enalapril, 0.15000000000000002
+aldosterone receptor blockers, 0.15000000000000002
+omapatrilat, 0.15000000000000002
+valsartan, 0.15000000000000002
+Fosinopril, 0.15000000000000002
+Bronchitis_ Chronic, 0.15000000000000002
+Renal arteriovenous malformation, 0.15000000000000002
+Gated Blood-Pool Imaging, 0.15000000000000002
+Increased diastolic arterial pressure, 0.15000000000000002
+Acute posterior myocardial infarction, 0.15000000000000002
+Elephantiasis Nostras Verrucosa, 0.15000000000000002
+Edema of scrotum, 0.15000000000000002
+Tomography_ Emission-Computed_ Single-Photon, 0.15000000000000002
+Primary idiopathic restrictive cardiomyopathy, 0.15000000000000002
+Transthoracic echocardiography, 0.15000000000000002
+2D Echocardiography, 0.15000000000000002
+Doppler color flow velocity mapping, 0.15000000000000002
+Phonocardiography, 0.15000000000000002
+Echocardiography_ Transesophageal_, 0.15000000000000002
+Intubation_ Endotracheal, 0.15000000000000002
+Familial dilated cardiomyopathy, 0.15000000000000002
+Primary idiopathic hypertrophic cardiomyopathy, 0.15000000000000002
+atorvastatin, 0.15000000000000002
+Paroxysmal nocturnal dyspnea, 0.15000000000000002
+Cardiac asthma, 0.15000000000000002
+Closure of patent foramen ovale, 0.15000000000000002
+Low dose heparin prophylaxis, 0.15000000000000002
+Labored breathing, 0.15000000000000002
+Respiratory distress, 0.15000000000000002
+Dyspnea on exertion, 0.15000000000000002
+Orthopnea, 0.15000000000000002
+Enhanced external counterpulsation, 0.15000000000000002
+Body fluid retention, 0.15000000000000002
+Nocturnal cough, 0.15000000000000002
+Hemoglobin A1c measurement, 0.15000000000000002
+Diastolic hypertension, 0.15000000000000002
+Hypertension_ Renovascular, 0.15000000000000002
+Malignant Hypertension, 0.15000000000000002
+Systolic hypertension, 0.15000000000000002
+Myocardial Perfusion Imaging, 0.15000000000000002
+Oxidative Stress Analysis, 0.15000000000000002
+Systemic Scleroderma, 0.15000000000000002
+Percutaneous Transluminal Coronary Angioplasty, 0.15000000000000002
+Partial excision of left ventricle of heart, 0.15000000000000002
+Dry body weight (observable entity), 0.15000000000000002
+Troponin I measurement, 0.15000000000000002
+Blood pressure monitoring, 0.15000000000000002
+Heart-Lung Transplantation, 0.15000000000000002
+Percutaneous transluminal pericardiocentesis, 0.15000000000000002
+Somnolence, 0.15000000000000002
+CT angiography of coronary arteries, 0.15000000000000002
+Nortriptyline, 0.15000000000000002
+N terminal pro-brain natriuretic peptide level, 0.15000000000000002
+Serum pro-brain natriuretic peptide level, 0.15000000000000002
+Bacterial Endocarditis, 0.15000000000000002
+Mitral Valve Annuloplasty, 0.15000000000000002
+Toprol-XL, 0.15000000000000002
+Hypophosphatemia, 0.15000000000000002
+Hypokalemia, 0.15000000000000002
+Hypernatremia, 0.15000000000000002
+Hyponatremia, 0.15000000000000002
+Albuminuria, 0.15000000000000002
+Right ventricular ejection fraction (observable entity), 0.15000000000000002
+Acute myocardial ischemia, 0.15000000000000002
+hospice care, 0.15000000000000002
+Growth hormone excess, 0.15000000000000002
+African American, 0.15000000000000002
+Becker Muscular Dystrophy, 0.15000000000000002
+Congenitally corrected transposition of the great arteries, 0.15000000000000002
+Lithium, 0.15000000000000002
+Implantation of right ventricular assist device, 0.15000000000000002
+Implantation of left ventricular assist device, 0.15000000000000002
+Implantation of biventricular assist device, 0.15000000000000002
+Morphine Sulfate, 0.15000000000000002
+ECG: left ventricular strain, 0.15000000000000002
+ECG: T wave abnormal, 0.15000000000000002
+ECG myocardial ischemia, 0.15000000000000002
+Electrocardiogram: myocardial infarction (finding), 0.15000000000000002
+Wide QRS complex, 0.15000000000000002
+Pleural Rub, 0.15000000000000002
+precordial thrill, 0.15000000000000002
+Raised jugular venous pressure, 0.15000000000000002
+Exercise capacity decreased, 0.15000000000000002
+Pain or discomfort caused by edema, 0.15000000000000002
+Livedo Reticularis, 0.15000000000000002
+Flash pulmonary oedema, 0.15000000000000002
+Resting Dyspnea, 0.15000000000000002
+Tachypnea, 0.15000000000000002
+Chest dull to percussion, 0.15000000000000002
+Pulse irregular, 0.15000000000000002
+Structure of jugular vein, 0.15000000000000002
+Nausea, 0.15000000000000002
+Increased venous pressure, 0.15000000000000002
+Hypovolemia, 0.15000000000000002
+Bloated feeling, 0.15000000000000002
+Vomiting, 0.15000000000000002
+Nocturnal awakening, 0.15000000000000002
+Icterus, 0.15000000000000002
+Apex beat sustained, 0.15000000000000002
+Unable to walk, 0.15000000000000002
+diffusely distended veins of neck, 0.15000000000000002
+presacral edema, 0.15000000000000002
+TRICUSPID REGURGITATION MURMUR, 0.15000000000000002
+Jugular venous pressure, 0.15000000000000002
+Dizziness, 0.15000000000000002
+Early satiety, 0.15000000000000002
+diminished mental acuity, 0.15000000000000002
+right upper quadrant discomfort, 0.15000000000000002
+height of rales, 0.15000000000000002
+cool_ mottled extremities, 0.15000000000000002
+adequacy of perfusion, 0.15000000000000002
+improved exercise duration, 0.15000000000000002
+displaced_ diffuse heave, 0.15000000000000002
+Hypotension symptomatic, 0.15000000000000002
+peripheral coolness, 0.15000000000000002
+Hepatomegaly, 0.15000000000000002
+tissue wasting, 0.15000000000000002
+Hepatojugular reflux, 0.15000000000000002
+Diaphoresis, 0.15000000000000002
+Pulsus alternans, 0.15000000000000002
+Mottled skin, 0.15000000000000002
+Irritable Mood, 0.15000000000000002
+Hepatic congestion, 0.15000000000000002
+Air hunger, 0.15000000000000002
+Hypothermia_ natural, 0.15000000000000002
+palpable pulmonary artery pulsations, 0.15000000000000002
+Impaired exercise tolerance, 0.15000000000000002
+Body Height, 0.15000000000000002
+signs of peripheral hypoperfusion, 0.15000000000000002
+Narrow pulse pressure, 0.15000000000000002
+Exercise Tolerance, 0.15000000000000002
+cha2ds2-vasc, 0.15000000000000002
+Physical activity decreased, 0.15000000000000002
+PARASTERNAL LIFT, 0.15000000000000002
+blood pressure response to valsalva maneuver, 0.15000000000000002
+symptoms related to hypoxemia, 0.15000000000000002
+Hypoxia, 0.15000000000000002
+Body weight:Cmplx:Enctr^frst:^Patient:Set, 0.15000000000000002
+mitral and tricuspid insufficiency murmurs, 0.15000000000000002
+Nocturia, 0.15000000000000002
+Rhonchi, 0.15000000000000002
+loss of mental acuity, 0.15000000000000002
+Decreased breath sounds, 0.15000000000000002
+palpable filling waves, 0.15000000000000002
+Basilar Rales, 0.15000000000000002
+Jugular venous pulse, 0.15000000000000002
+Diaphoretic, 0.15000000000000002
+Disturbance in mood, 0.15000000000000002
+Cold extremities, 0.15000000000000002
+Peripheral perfusion, 0.15000000000000002
+Congestion, 0.15000000000000002
+MITRAL REGURGITATION MURMUR, 0.15000000000000002
+Muscle Weakness, 0.15000000000000002
+pulmonary rales, 0.15000000000000002
+Beau's lines, 0.15000000000000002
+tricuspid or mitral regurgitant murmur, 0.15000000000000002
+Xerostomia, 0.15000000000000002
+has-bled score, 0.15000000000000002
+improvement in exercise capacity, 0.15000000000000002
+systolic hypotension, 0.15000000000000002
+Decreased systolic arterial pressure, 0.15000000000000002
+overall blood pressure, 0.15000000000000002
+Anxiety, 0.15000000000000002
+liver edge moderate pulsatile enlargement, 0.15000000000000002
+ambulatory, 0.15000000000000002
+acute dyspnea, 0.15000000000000002
+Jugular vein distension, 0.15000000000000002
+Blood pressure systolic and diastolic, 0.15000000000000002
+Increased abdominal girth, 0.15000000000000002
+Bedridden, 0.15000000000000002
+Extremity skin temperature, 0.15000000000000002
+Weight Gain, 0.15000000000000002
+Ascites, 0.15000000000000002
+Right ventricular heave, 0.15000000000000002
+Supine hypotension, 0.15000000000000002
+Waist Circumference, 0.15000000000000002
+Muscular Atrophy, 0.15000000000000002
+purple-blue nail bed, 0.15000000000000002
+increased time to recover after exercise, 0.15000000000000002
+Jugular venous engorgement, 0.15000000000000002
+Ileus, 0.15000000000000002
+dyskinetic area over the precordium, 0.15000000000000002
+examination of apical impulse, 0.15000000000000002
+Body Weight decreased, 0.15000000000000002
+jugular venous pulsations, 0.15000000000000002
+giant v waves, 0.15000000000000002
+elevated neck veins, 0.15000000000000002
+diminished volume or low-amplitude central arterial (i.e._ femoral or carotid) pulses, 0.15000000000000002
+mobility requires assistance, 0.15000000000000002
+Anorexia, 0.15000000000000002
+Feeling hopeless, 0.15000000000000002
+diminished airflow, 0.15000000000000002
+Diastolic blood pressure, 0.15000000000000002
+cyclic respiration, 0.15000000000000002
+positive abdominojugular reflux, 0.15000000000000002
+Wheezing, 0.15000000000000002
+terry nails, 0.15000000000000002
+Pallor, 0.15000000000000002
+VENOUS STASIS CHRONIC CHANGE, 0.15000000000000002
+Mean Arterial Pressure, 0.15000000000000002
+exercise capacity, 0.15000000000000002
+Sudden Cardiac Death, 0.15000000000000002
+Swollen legs, 0.15000000000000002
+Cardiac cachexia, 0.15000000000000002
+Bilirubin_ direct measurement, 0.15000000000000002
+Magnetic resonance imaging of cardiac ventricles (procedure), 0.15000000000000002
+Left ventriculogram, 0.15000000000000002
+Magnetic resonance imaging angiography of cardiac ventricles (procedure), 0.15000000000000002
+multidetector computed tomography angiography of heart, 0.15000000000000002
+Magnetic Resonance Imaging_ Cine, 0.15000000000000002
+Obesity_ Abdominal, 0.15000000000000002
+Atrio-Biventricular Pacing, 0.15000000000000002
+Measurement of liver enzyme, 0.15000000000000002
+Alanine aminotransferase measurement, 0.15000000000000002
+Inspiratory crackles, 0.15000000000000002
+New York Heart Association Classification - Class IV, 0.15000000000000002
+New York Heart Association Classification - Class III, 0.15000000000000002
+Sinus rhythm, 0.15000000000000002
+Herceptin, 0.15000000000000002
+Cardiogenic pulmonary edema, 0.15000000000000002
+Mitral Valve Stenosis, 0.15000000000000002
+Sleep Apnea_ Central, 0.15000000000000002
+Obstructive sleep apnoea, 0.15000000000000002
+arterial blood gas, 0.15000000000000002
+Invasive hemodynamic monitoring (regime/therapy), 0.15000000000000002
+Cardiac sarcoidosis, 0.15000000000000002
+Clozapine, 0.15000000000000002
+Glycogen Storage Disease, 0.15000000000000002
+Beriberi, 0.15000000000000002
+Sleeplessness, 0.15000000000000002
+jaw pain, 0.15000000000000002
+arm pain, 0.15000000000000002
+Musculoskeletal Pain, 0.15000000000000002
+Type 1 diabetes, 0.15000000000000002
+Repair of aortic valve without replacement, 0.15000000000000002
+Tricuspid Regurgitation, 0.15000000000000002
+primary valvular heart disease, 0.15000000000000002
+Aortic Regurgitation, 0.15000000000000002
+Rupture of papillary muscle, 0.15000000000000002
+Myasthenia Gravis, 0.15000000000000002
+Pulmonary congestion, 0.15000000000000002
+Tacrolimus, 0.15000000000000002
+Asthenia, 0.15000000000000002
+Atrial sound, 0.15000000000000002
+Blood urea nitrogen measurement, 0.15000000000000002
+Creatinine measurement_ serum (procedure), 0.15000000000000002
+Glomerular Filtration Rate, 0.15000000000000002
+Creatinine clearance measurement, 0.15000000000000002
+Acute massive pulmonary embolism, 0.15000000000000002
+Implantable defibrillator, 0.15000000000000002
+Serum uric acid, 0.15000000000000002
+Holter monitor 24-hour, 0.15000000000000002
+Food_ Supplemented, 0.15000000000000002
+Monitoring of cardiac output using continuous esophageal doppler, 0.15000000000000002
+Hypercapnia, 0.15000000000000002
+rosiglitazone, 0.15000000000000002
+Open right ventricular biopsy, 0.15000000000000002
+Family history of coronary arteriosclerosis, 0.15000000000000002
+Aspirin, 0.15000000000000002
+clopidogrel, 0.15000000000000002
+person, 0.15000000000000002
