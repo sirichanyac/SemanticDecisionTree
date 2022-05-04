@@ -1,0 +1,2069 @@
+Rheumatic Fever,0,rheumatism,0,is_subclass_of
+Rheumatic Heart Disease,0,rheumatism,0,is_subclass_of
+Rheumatic disease of heart valve,0,rheumatism,0,is_subclass_of
+Rheumatoid Arthritis,0,rheumatism,0,is_subclass_of
+Myocardial Ischemia,0,Hypoxemia,0,is_subclass_of
+Rheumatic Heart Disease,0,Rheumatic Fever,0,is_subclass_of
+Acute rheumatic heart disease,0,Rheumatic Fever,0,is_subclass_of
+Sulfonylurea Compounds,0,Oral hypoglycemic,0,is_subclass_of
+dronedarone,0,Amiodarone,0,is_subclass_of
+sexually transmitted infectious disease,0,Infectious Diseases,0,is_subclass_of
+Viral infection,0,Infectious Diseases,0,is_subclass_of
+pneumonia,0,Infectious Diseases,0,is_subclass_of
+Loop Diuretics,0,Diuretics,0,is_subclass_of
+Acetazolamide,0,Diuretics,0,is_subclass_of
+Metolazone,0,Diuretics,0,is_subclass_of
+1_3-dipropyl-8-(3-noradamantyl)xanthine,0,Diuretics,0,is_subclass_of
+indapamide,0,Diuretics,0,is_subclass_of
+chlorthalidone,0,Diuretics,0,is_subclass_of
+Aquaretic,0,Diuretics,0,is_subclass_of
+Thiazide Diuretics,0,Diuretics,0,is_subclass_of
+Ularitide,0,Diuretics,0,is_subclass_of
+Bendroflumethiazide,0,Diuretics,0,is_subclass_of
+Carbonic Anhydrase Inhibitors,0,Diuretics,0,is_subclass_of
+spironolactone,0,Diuretics,0,is_subclass_of
+Furosemide,0,Diuretics,0,is_subclass_of
+Thiazides,0,Diuretics,0,is_subclass_of
+Chlorothiazide,0,Diuretics,0,is_subclass_of
+torsemide,0,Diuretics,0,is_subclass_of
+Ethacrynic Acid,0,Diuretics,0,is_subclass_of
+Potassium Sparing Diuretics,0,Diuretics,0,is_subclass_of
+Bumetanide,0,Diuretics,0,is_subclass_of
+Amiloride,0,Diuretics,0,is_subclass_of
+hydrochlorothiazide,0,Diuretics,0,is_subclass_of
+triamterene,0,Diuretics,0,is_subclass_of
+Direct current cardioversion,0,Defibrillation,0,is_subclass_of
+Morphine,0,Opiates,0,is_subclass_of
+Calcification of pericardium,0,Disorder of pericardium,0,is_subclass_of
+Hemopericardium,0,Disorder of pericardium,0,is_subclass_of
+Pericardial effusion,0,Disorder of pericardium,0,is_subclass_of
+Pedal edema,0,Peripheral edema,0,is_subclass_of
+Ankle edema (finding),0,Peripheral edema,0,is_subclass_of
+Rheumatic disease of heart valve,0,Rheumatic Heart Disease,0,is_subclass_of
+Acute rheumatic heart disease,0,Rheumatic Heart Disease,0,is_subclass_of
+Furosemide,0,Loop Diuretics,0,is_subclass_of
+torsemide,0,Loop Diuretics,0,is_subclass_of
+Ethacrynic Acid,0,Loop Diuretics,0,is_subclass_of
+Bumetanide,0,Loop Diuretics,0,is_subclass_of
+HIV cardiomyopathy,0,Acquired Immunodeficiency Syndrome,0,is_subclass_of
+Open ablation of atrioventricular node,0,Ablation of atrioventricular node,0,is_subclass_of
+Endomyocardial biopsy (procedure),0,Myocardial biopsy,0,is_subclass_of
+Acute myopericarditis,0,Acute myocarditis,0,is_subclass_of
+Dermatomyositis,0,Collagen Diseases,0,is_subclass_of
+Lupus Erythematosus_ Systemic,0,Collagen Diseases,0,is_subclass_of
+Mixed Connective Tissue Disease,0,Collagen Diseases,0,is_subclass_of
+Lupus Erythematosus,0,Collagen Diseases,0,is_subclass_of
+Rheumatoid Arthritis,0,Collagen Diseases,0,is_subclass_of
+Left Bundle-Branch Block,0,Bundle-Branch Block,0,is_subclass_of
+Right bundle branch block,0,Bundle-Branch Block,0,is_subclass_of
+Peripheral edema,0,Edema of extremity,0,is_subclass_of
+Edema of lower extremity,0,Edema of extremity,0,is_subclass_of
+Disorientation,0,Confusion,0,is_subclass_of
+Glucocorticoids,0,Adrenal Cortex Hormones,0,is_subclass_of
+Left ventricular end-diastolic pressure level,0,Left ventricular pressure,0,is_subclass_of
+Thyrotoxicosis,0,hyperthyroidism,0,is_subclass_of
+hyperthyroidism,0,Thyroid Diseases,0,is_subclass_of
+hypothyroidism,0,Thyroid Diseases,0,is_subclass_of
+Thyroid dysfunction,0,Thyroid Diseases,0,is_subclass_of
+Thyrotoxicosis,0,Thyroid Diseases,0,is_subclass_of
+eplerenone,0,Mineralocorticoid Receptor Antagonists,0,is_subclass_of
+spironolactone,0,Mineralocorticoid Receptor Antagonists,0,is_subclass_of
+coenzyme Q10,0,Inotropic agent,0,is_subclass_of
+Enoximone,0,Inotropic agent,0,is_subclass_of
+Levosimendan,0,Inotropic agent,0,is_subclass_of
+Cardiomegaly,0,Shock_ Cardiogenic,0,is_subclass_of
+Acute myocarditis,0,Myocarditis,0,is_subclass_of
+Postmyocardial infarction syndrome,0,Myocarditis,0,is_subclass_of
+Myocarditis due to hypersensitivity state,0,Myocarditis,0,is_subclass_of
+Giant cell myocarditis,0,Myocarditis,0,is_subclass_of
+lipid profile test,0,Blood Tests,0,is_subclass_of
+Complete Blood Count,0,Blood Tests,0,is_subclass_of
+Hematocrit procedure,0,Blood Tests,0,is_subclass_of
+Hemoglobin measurement,0,Blood Tests,0,is_subclass_of
+Blood Cell Count,0,Blood Tests,0,is_subclass_of
+Radioallergosorbent Test,0,Blood Tests,0,is_subclass_of
+vasopressor,0,vasoactive agent,0,is_subclass_of
+Vasodilator Agents,0,vasoactive agent,0,is_subclass_of
+Digitek,0,Digoxin,0,is_subclass_of
+Lanoxin,0,Digoxin,0,is_subclass_of
+Lanoxicaps,0,Digoxin,0,is_subclass_of
+Respiratory rate,0,Vital signs,0,is_subclass_of
+heart rate,0,Vital signs,0,is_subclass_of
+Pulse Rate,0,Vital signs,0,is_subclass_of
+Coronary Artery Bypass Surgery,0,Revascularization - action,0,is_subclass_of
+Myocardial Revascularization,0,Revascularization - action,0,is_subclass_of
+Chronic Chagas' disease,0,Chagas Disease,0,is_subclass_of
+Random blood glucose measurement,0,Blood glucose measurement,0,is_subclass_of
+Fasting blood glucose,0,Blood glucose measurement,0,is_subclass_of
+Eicosapentaenoic Acid,0,Omega-3 Fatty Acids,0,is_subclass_of
+MaximumHeartRate,0,heart rate,0,is_subclass_of
+Mitral Regurgitation,0,Valvular regurgitation,0,is_subclass_of
+Apex beat displaced - LVH,0,Apex beat displaced,0,is_subclass_of
+heart rate,0,Pulse Rate,0,is_subclass_of
+Coronary Arteriosclerosis,0,Atherosclerosis,0,is_subclass_of
+peripheral arterial disease,0,Atherosclerosis,0,is_subclass_of
+Fluorouracil,0,Antineoplastic Agents,0,is_subclass_of
+Mitoxantrone,0,Antineoplastic Agents,0,is_subclass_of
+Interferons,0,Antineoplastic Agents,0,is_subclass_of
+Cyclophosphamide,0,Antineoplastic Agents,0,is_subclass_of
+imatinib,0,Antineoplastic Agents,0,is_subclass_of
+Mitomycin,0,Antineoplastic Agents,0,is_subclass_of
+Doxorubicin,0,Antineoplastic Agents,0,is_subclass_of
+Daunorubicin,0,Antineoplastic Agents,0,is_subclass_of
+trastuzumab,0,Antineoplastic Agents,0,is_subclass_of
+Cytotoxic agent,0,Antineoplastic Agents,0,is_subclass_of
+Ventricular Remodeling,0,Ventricular Function,0,is_subclass_of
+Left Ventricular Function,0,Ventricular Function,0,is_subclass_of
+Ventricular Function_ Right,0,Ventricular Function,0,is_subclass_of
+Ventricular End-Systolic Volume,0,Stroke Volume,0,is_subclass_of
+Ventricular End-Diastolic Volume,0,Stroke Volume,0,is_subclass_of
+Protodiastolic gallop with abnormally audible third heart sound,0,Gallop rhythm,0,is_subclass_of
+Nitroglycerin Transdermal Patch,0,Transdermal nitroglycerin,0,is_subclass_of
+Azotemia,0,Kidney Failure,0,is_subclass_of
+acute renal insufficiency,0,Kidney Failure,0,is_subclass_of
+Kidney Failure_ Chronic,0,Kidney Failure,0,is_subclass_of
+Kidney Failure_ Acute,0,Kidney Failure,0,is_subclass_of
+Reactive systemic amyloidosis,0,Amyloidosis,0,is_subclass_of
+Hemodialysis-associated amyloidosis,0,Amyloidosis,0,is_subclass_of
+Senile cardiac amyloidosis,0,Amyloidosis,0,is_subclass_of
+Primary amyloidosis,0,Amyloidosis,0,is_subclass_of
+Systemic amyloidosis,0,Amyloidosis,0,is_subclass_of
+Pulmonary Hypertension,0,Pulmonary vascular disorder,0,is_subclass_of
+Verapamil,0,Calcium Channel Blockers,0,is_subclass_of
+Felodipine,0,Calcium Channel Blockers,0,is_subclass_of
+Amlodipine,0,Calcium Channel Blockers,0,is_subclass_of
+Diltiazem,0,Calcium Channel Blockers,0,is_subclass_of
+Nifedipine,0,Calcium Channel Blockers,0,is_subclass_of
+Dihydropyridine Calcium Channel Blocker,0,Calcium Channel Blockers,0,is_subclass_of
+Atrioventricular Block,0,Conduction disorder of the heart,0,is_subclass_of
+Wolff-Parkinson-White Syndrome,0,Conduction disorder of the heart,0,is_subclass_of
+Cardiac Arrhythmia,0,Conduction disorder of the heart,0,is_subclass_of
+tachyarrhythmia,0,Conduction disorder of the heart,0,is_subclass_of
+Abnormal cardiac conduction,0,Conduction disorder of the heart,0,is_subclass_of
+brugada syndrome,0,Conduction disorder of the heart,0,is_subclass_of
+Cardiac Arrest,0,Conduction disorder of the heart,0,is_subclass_of
+Ventricular arrhythmia,0,Conduction disorder of the heart,0,is_subclass_of
+Supraventricular arrhythmia,0,Conduction disorder of the heart,0,is_subclass_of
+Hypertriglyceridemia,0,Hyperlipidemia,0,is_subclass_of
+Serum LDL cholesterol measurement,0,Low density lipoprotein cholesterol measurement,0,is_subclass_of
+Heparin_ Low-Molecular-Weight,0,heparin,0,is_subclass_of
+Ventricular Septal Rupture,0,Ventricular Septal Defects,0,is_subclass_of
+Common ventricle,0,Ventricular Septal Defects,0,is_subclass_of
+Tetralogy of Fallot,0,Ventricular Septal Defects,0,is_subclass_of
+First degree AV block,0,Atrioventricular Block,0,is_subclass_of
+Second degree atrioventricular block,0,Atrioventricular Block,0,is_subclass_of
+Complete atrioventricular block,0,Atrioventricular Block,0,is_subclass_of
+Hereditary hemochromatosis,0,Iron Overload,0,is_subclass_of
+Hemochromatosis,0,Iron Overload,0,is_subclass_of
+Isosorbide Dinitrate,0,Isosorbide,0,is_subclass_of
+Isosorbide Mononitrate,0,Isosorbide,0,is_subclass_of
+Norepinephrine,0,vasopressor,0,is_subclass_of
+Phenylephrine,0,vasopressor,0,is_subclass_of
+Argipressin,0,vasopressor,0,is_subclass_of
+Epinephrine,0,vasopressor,0,is_subclass_of
+ECG: Q wave abnormal,0,Q wave - finding,0,is_subclass_of
+Blue lips,0,Cyanosis,0,is_subclass_of
+Microalbuminuria,0,Proteinuria,0,is_subclass_of
+Syncope,0,Hypotension,0,is_subclass_of
+Hypotension_ Orthostatic,0,Hypotension,0,is_subclass_of
+Inspra,0,eplerenone,0,is_subclass_of
+Volume status,0,Diagnostic_test_results,0,is_subclass_of
+abnormal myocardial texture,0,Diagnostic_test_results,0,is_subclass_of
+Left atrial pressure,0,Diagnostic_test_results,0,is_subclass_of
+echocardiography: enlarged left atrium,0,Diagnostic_test_results,0,is_subclass_of
+Hypoxemia,0,Diagnostic_test_results,0,is_subclass_of
+pet metabolic/perfusion mismatch,0,Diagnostic_test_results,0,is_subclass_of
+intravascular volume,0,Diagnostic_test_results,0,is_subclass_of
+Hyperuricemia,0,Diagnostic_test_results,0,is_subclass_of
+Angiotensin II,0,Diagnostic_test_results,0,is_subclass_of
+Diastolic dysfunction,0,Diagnostic_test_results,0,is_subclass_of
+Ventricular segment,0,Diagnostic_test_results,0,is_subclass_of
+pet metabolic deficits,0,Diagnostic_test_results,0,is_subclass_of
+DIGOXIN LEVEL ELEVATED,0,Diagnostic_test_results,0,is_subclass_of
+Disorder of pericardium,0,Diagnostic_test_results,0,is_subclass_of
+maximum velocities,0,Diagnostic_test_results,0,is_subclass_of
+end-diastolic regurgitant jet velocity,0,Diagnostic_test_results,0,is_subclass_of
+technetium tc 99,0,Diagnostic_test_results,0,is_subclass_of
+peak gradient,0,Diagnostic_test_results,0,is_subclass_of
+Potassium electrolyte,0,Diagnostic_test_results,0,is_subclass_of
+Hemoglobin low,0,Diagnostic_test_results,0,is_subclass_of
+noninvasive imaging,0,Diagnostic_test_results,0,is_subclass_of
+Ventricular enlargement,0,Diagnostic_test_results,0,is_subclass_of
+Oxygen Consumption,0,Diagnostic_test_results,0,is_subclass_of
+e/ea,0,Diagnostic_test_results,0,is_subclass_of
+Measurement of urine output,0,Diagnostic_test_results,0,is_subclass_of
+Ventricular Heart Rate,0,Diagnostic_test_results,0,is_subclass_of
+cardiac electrophysiology,0,Diagnostic_test_results,0,is_subclass_of
+Sodium electrolyte,0,Diagnostic_test_results,0,is_subclass_of
+e/e' ratio,0,Diagnostic_test_results,0,is_subclass_of
+alpha-Atrial Natriuretic Peptide,0,Diagnostic_test_results,0,is_subclass_of
+Left ventricular wall thickness,0,Diagnostic_test_results,0,is_subclass_of
+Decreased albumin,0,Diagnostic_test_results,0,is_subclass_of
+Echocardiography_ Stress_ Dobutamine,0,Diagnostic_test_results,0,is_subclass_of
+Left ventricular pressure,0,Diagnostic_test_results,0,is_subclass_of
+Systolic Pressure,0,Diagnostic_test_results,0,is_subclass_of
+Radionuclide imaging of myocardial perfusion with ejection fraction,0,Diagnostic_test_results,0,is_subclass_of
+3-Iodobenzylguanidine,0,Diagnostic_test_results,0,is_subclass_of
+6-minute walk test,0,Diagnostic_test_results,0,is_subclass_of
+Pulmonary Vascular Resistance,0,Diagnostic_test_results,0,is_subclass_of
+docosahexaenoic acid,0,Diagnostic_test_results,0,is_subclass_of
+Presence of Q wave,0,Diagnostic_test_results,0,is_subclass_of
+ECG: atrial flutter,0,Diagnostic_test_results,0,is_subclass_of
+proximal left anterior descending stenosis,0,Diagnostic_test_results,0,is_subclass_of
+Blood Tests,0,Diagnostic_test_results,0,is_subclass_of
+nuclear imaging,0,Diagnostic_test_results,0,is_subclass_of
+Hypomagnesemia,0,Diagnostic_test_results,0,is_subclass_of
+Vital signs,0,Diagnostic_test_results,0,is_subclass_of
+C-reactive protein,0,Diagnostic_test_results,0,is_subclass_of
+Blood glucose measurement,0,Diagnostic_test_results,0,is_subclass_of
+echocardiography: systolic deceleration time of mitral valve,0,Diagnostic_test_results,0,is_subclass_of
+Maximum oxygen uptake,0,Diagnostic_test_results,0,is_subclass_of
+Ejection fraction normal,0,Diagnostic_test_results,0,is_subclass_of
+Eicosapentaenoic Acid,0,Diagnostic_test_results,0,is_subclass_of
+Genetic screening method,0,Diagnostic_test_results,0,is_subclass_of
+Left ventricular wall motion,0,Diagnostic_test_results,0,is_subclass_of
+modified simpson's rule,0,Diagnostic_test_results,0,is_subclass_of
+Valvular regurgitation,0,Diagnostic_test_results,0,is_subclass_of
+Hemodynamic resistance:Resistance:Point in time:Systemic vasculature:Quantitative,0,Diagnostic_test_results,0,is_subclass_of
+Doppler continuous wave,0,Diagnostic_test_results,0,is_subclass_of
+mitral inflow during valsalva manoeuvre,0,Diagnostic_test_results,0,is_subclass_of
+flow redistribution,0,Diagnostic_test_results,0,is_subclass_of
+Left ventricular wall motion abnormality,0,Diagnostic_test_results,0,is_subclass_of
+repolarization changes,0,Diagnostic_test_results,0,is_subclass_of
+echocardiography: diastolic regurgitant velocity,0,Diagnostic_test_results,0,is_subclass_of
+Enzyme-Linked Immunosorbent Assay,0,Diagnostic_test_results,0,is_subclass_of
+Pulse rhythm,0,Diagnostic_test_results,0,is_subclass_of
+T wave alternans,0,Diagnostic_test_results,0,is_subclass_of
+mechanical dyssynchrony,0,Diagnostic_test_results,0,is_subclass_of
+change in diameter on inspiration,0,Diagnostic_test_results,0,is_subclass_of
+Selenium,0,Diagnostic_test_results,0,is_subclass_of
+Velocity-time integral,0,Diagnostic_test_results,0,is_subclass_of
+Myocardial perfusion,0,Diagnostic_test_results,0,is_subclass_of
+Ventricular Function,0,Diagnostic_test_results,0,is_subclass_of
+Stroke Volume,0,Diagnostic_test_results,0,is_subclass_of
+measurement of the rate during moderate exercise,0,Diagnostic_test_results,0,is_subclass_of
+Electrocardiogram: P-R interval,0,Diagnostic_test_results,0,is_subclass_of
+Dietary sodium intake,0,Diagnostic_test_results,0,is_subclass_of
+Vital capacity,0,Diagnostic_test_results,0,is_subclass_of
+mean gradient,0,Diagnostic_test_results,0,is_subclass_of
+mass,0,Diagnostic_test_results,0,is_subclass_of
+Azotemia,0,Diagnostic_test_results,0,is_subclass_of
+Serum sodium measurement,0,Diagnostic_test_results,0,is_subclass_of
+qrs width,0,Diagnostic_test_results,0,is_subclass_of
+x-ray of chest: mass of heart,0,Diagnostic_test_results,0,is_subclass_of
+Contrast neuroradiography,0,Diagnostic_test_results,0,is_subclass_of
+pulse-wave and tissue doppler,0,Diagnostic_test_results,0,is_subclass_of
+HYPONATREMIA EUVOLEMIC,0,Diagnostic_test_results,0,is_subclass_of
+Low density lipoprotein cholesterol measurement,0,Diagnostic_test_results,0,is_subclass_of
+mitral inflow pattern,0,Diagnostic_test_results,0,is_subclass_of
+echocardiography: internal diameter of inferior vena cava,0,Diagnostic_test_results,0,is_subclass_of
+the ratio of early to late diastolic filling (e/a,0,Diagnostic_test_results,0,is_subclass_of
+Platelet Count measurement,0,Diagnostic_test_results,0,is_subclass_of
+preserved ef,0,Diagnostic_test_results,0,is_subclass_of
+Epidermal Growth Factor Receptor,0,Diagnostic_test_results,0,is_subclass_of
+mitral inflow e/a ratio,0,Diagnostic_test_results,0,is_subclass_of
+inspiratory collapse of at least 50%,0,Diagnostic_test_results,0,is_subclass_of
+left main coronary artery stenosis,0,Diagnostic_test_results,0,is_subclass_of
+Right ventricular systolic pressure increased,0,Diagnostic_test_results,0,is_subclass_of
+Creatine kinase MB measurement,0,Diagnostic_test_results,0,is_subclass_of
+Q wave - finding,0,Diagnostic_test_results,0,is_subclass_of
+Gradient.mean,0,Diagnostic_test_results,0,is_subclass_of
+Serum total cholesterol measurement,0,Diagnostic_test_results,0,is_subclass_of
+regional myocardial thinning,0,Diagnostic_test_results,0,is_subclass_of
+biomarkers of myocardial injury or fibrosis,0,Diagnostic_test_results,0,is_subclass_of
+cardiac chamber size and function,0,Diagnostic_test_results,0,is_subclass_of
+Proteinuria,0,Diagnostic_test_results,0,is_subclass_of
+edpvr,0,Diagnostic_test_results,0,is_subclass_of
+proximal left anterior descending coronary artery stenosis,0,Diagnostic_test_results,0,is_subclass_of
+Pulmonary Venous Wedge Pressure,0,Diagnostic_test_results,0,is_subclass_of
+Hypotension,0,Diagnostic_test_results,0,is_subclass_of
+QRS duration:Time:Point in time:Heart:Quantitative:EKG,0,Diagnostic_test_results,0,is_subclass_of
+Entire inferior vena cava,0,Diagnostic_test_results,0,is_subclass_of
+rv size,0,Diagnostic_test_results,0,is_subclass_of
+velocity of early diastolic filling (evel,0,Diagnostic_test_results,0,is_subclass_of
+Urine volume finding,0,Diagnostic_test_results,0,is_subclass_of
+Pulmonary Artery Wedge Pressure,0,Diagnostic_test_results,0,is_subclass_of
+Oxygen saturation measurement,0,Diagnostic_test_results,0,is_subclass_of
+Pleural effusion disorder,0,Diagnostic_test_results,0,is_subclass_of
+Left Atrium Dimension,0,Diagnostic_test_results,0,is_subclass_of
+heart rate variability,0,Diagnostic_test_results,0,is_subclass_of
+end-diastolic pressure (edp),0,Diagnostic_test_results,0,is_subclass_of
+E wave.max/A wave.max:VelRto:Pt:Mitral valve:Qn:US.doppler,0,Diagnostic_test_results,0,is_subclass_of
+(a pulm-a mitral) duration,0,Diagnostic_test_results,0,is_subclass_of
+chamber sizes,0,Diagnostic_test_results,0,is_subclass_of
+Infarction,0,Diagnostic_test_results,0,is_subclass_of
+teichholz,0,Diagnostic_test_results,0,is_subclass_of
+Ventricular filling pressure increased,0,Diagnostic_test_results,0,is_subclass_of
+Pulmonary venous congestion,0,Diagnostic_test_results,0,is_subclass_of
+Increased pulmonary arterial wedge pressure,0,Diagnostic_test_results,0,is_subclass_of
+Cardiac Catheterization Procedures,0,Diagnostic_test_results,0,is_subclass_of
+echocardiography: thickness of ventricular septum,0,Diagnostic_test_results,0,is_subclass_of
+tapse,0,Diagnostic_test_results,0,is_subclass_of
+decreased fractional shortening at midwall,0,Diagnostic_test_results,0,is_subclass_of
+pet baseline perfusion deficits,0,Diagnostic_test_results,0,is_subclass_of
+systolic tissue doppler velocities,0,Diagnostic_test_results,0,is_subclass_of
+Glucose measurement_ fasting,0,Diagnostic_test_results,0,is_subclass_of
+Ventricular filling pressure increased,0,Diagnostic_test_results,0,is_subclass_of
+respiratory gaseous exchange,0,Diagnostic_test_results,0,is_subclass_of
+transmural extent of scar,0,Diagnostic_test_results,0,is_subclass_of
+Doppler echocardiography: abnormal diastolic relaxation,0,Diagnostic_test_results,0,is_subclass_of
+Anterior Q wave,0,Diagnostic_test_results,0,is_subclass_of
+Left ventricular diastolic dysfunction,0,Diagnostic_test_results,0,is_subclass_of
+Left ventricular ejection fraction,0,Diagnostic_test_results,0,is_subclass_of
+Prolonged QRS duration,0,Diagnostic_test_results,0,is_subclass_of
+Ambulatory continuous electrocardiography [ECG],0,Diagnostic_test_results,0,is_subclass_of
+Low QRS voltages,0,Diagnostic_test_results,0,is_subclass_of
+Electrolytes measurement_ serum,0,Diagnostic_test_results,0,is_subclass_of
+Electrocardiogram poor R-wave progression,0,Diagnostic_test_results,0,is_subclass_of
+tissue doppler imaging,0,Diagnostic_test_results,0,is_subclass_of
+Iodine 123 meta-iodobenzylguanidine study,0,Diagnostic_test_results,0,is_subclass_of
+Ferritin,0,Diagnostic_test_results,0,is_subclass_of
+Anemia,0,Diagnostic_test_results,0,is_subclass_of
+Coronary artery calcification,0,Diagnostic_test_results,0,is_subclass_of
+stress test resting diastolic BP,0,Diagnostic_test_results,0,is_subclass_of
+cardiac valve area,0,Diagnostic_test_results,0,is_subclass_of
+Myocardial perfusion stress imaging using technetium 99m metaiodobenzylguanidine tetrofosmin,0,Diagnostic_test_results,0,is_subclass_of
+Orthostatic blood pressure,0,Diagnostic_test_results,0,is_subclass_of
+Renal Insufficiency,0,Diagnostic_test_results,0,is_subclass_of
+valve function,0,Diagnostic_test_results,0,is_subclass_of
+Right atrial pressure,0,Diagnostic_test_results,0,is_subclass_of
+T' wave amplitude.lead V1:Elpot:Pt:Heart:Qn:EKG,0,Diagnostic_test_results,0,is_subclass_of
+Hyperglycemia,0,Diagnostic_test_results,0,is_subclass_of
+Doppler Ultrasound Imaging,0,Diagnostic_test_results,0,is_subclass_of
+Body Surface Area,0,Diagnostic_test_results,0,is_subclass_of
+Cardiac blood pool imaging,0,Diagnostic_test_results,0,is_subclass_of
+Tissue velocity,0,Diagnostic_test_results,0,is_subclass_of
+x-ray of chest: pulmonary veins Kerley's B lines (linear + pleura),0,Diagnostic_test_results,0,is_subclass_of
+Pulmonary Hypertension,0,Diagnostic_test_results,0,is_subclass_of
+Fluid intake,0,Diagnostic_test_results,0,is_subclass_of
+Hypokinesia,0,Diagnostic_test_results,0,is_subclass_of
+Valvular disease,0,Diagnostic_test_results,0,is_subclass_of
+Electrocardiography,0,Diagnostic_test_results,0,is_subclass_of
+Coronary Arteriosclerosis,0,Diagnostic_test_results,0,is_subclass_of
+Cardiac Arrhythmia,0,Diagnostic_test_results,0,is_subclass_of
+echocardiography: chamber volume of left ventricle,0,Diagnostic_test_results,0,is_subclass_of
+strain rate,0,Diagnostic_test_results,0,is_subclass_of
+apical biplane method of discs,0,Diagnostic_test_results,0,is_subclass_of
+99mtc-dpd scan,0,Diagnostic_test_results,0,is_subclass_of
+Polysomnography,0,Diagnostic_test_results,0,is_subclass_of
+Cardiomegaly,0,Diagnostic_test_results,0,is_subclass_of
+doppler systolic and diastolic indices,0,Diagnostic_test_results,0,is_subclass_of
+Ventricular volume,0,Diagnostic_test_results,0,is_subclass_of
+tissue doppler e' wave velocity,0,Diagnostic_test_results,0,is_subclass_of
+echocardiography: left atrial volume,0,Diagnostic_test_results,0,is_subclass_of
+Right ventricular dilatation,0,Diagnostic_test_results,0,is_subclass_of
+Decreased cardiac ejection fraction,0,Diagnostic_test_results,0,is_subclass_of
+velocity of filling with atrial contraction (avel,0,Diagnostic_test_results,0,is_subclass_of
+electrocardiogram: intraventricular conduction delay (IVCD),0,Diagnostic_test_results,0,is_subclass_of
+Plasma creatinine level,0,Diagnostic_test_results,0,is_subclass_of
+Activity level,0,Diagnostic_test_results,0,is_subclass_of
+Troponin increased,0,Diagnostic_test_results,0,is_subclass_of
+Myocardial imaging for infarct_ planar technique,0,Diagnostic_test_results,0,is_subclass_of
+Ammonia N-13,0,Diagnostic_test_results,0,is_subclass_of
+A wave,0,Diagnostic_test_results,0,is_subclass_of
+Pulmonary function tests,0,Diagnostic_test_results,0,is_subclass_of
+left ventricular volumes,0,Diagnostic_test_results,0,is_subclass_of
+overnight sleep study,0,Diagnostic_test_results,0,is_subclass_of
+Galectin 3,0,Diagnostic_test_results,0,is_subclass_of
+ventricular systolic and diastolic function,0,Diagnostic_test_results,0,is_subclass_of
+prominent upper lobe vasculature,0,Diagnostic_test_results,0,is_subclass_of
+av plane systolic excursion,0,Diagnostic_test_results,0,is_subclass_of
+Finding of liver enzyme levels,0,Diagnostic_test_results,0,is_subclass_of
+deformation imaging,0,Diagnostic_test_results,0,is_subclass_of
+midregional fragment of proadrenomedullin,0,Diagnostic_test_results,0,is_subclass_of
+Pulmonary artery pressure,0,Diagnostic_test_results,0,is_subclass_of
+tachyarrhythmia,0,Diagnostic_test_results,0,is_subclass_of
+Body mass index procedure,0,Diagnostic_test_results,0,is_subclass_of
+Intravascular US scan,0,Diagnostic_test_results,0,is_subclass_of
+Heart valve stenosis,0,Diagnostic_test_results,0,is_subclass_of
+Electrocardiogram: left ventricle hypertrophy (finding),0,Diagnostic_test_results,0,is_subclass_of
+pseudoinfarct pattern,0,Diagnostic_test_results,0,is_subclass_of
+Cardiac index,0,Diagnostic_test_results,0,is_subclass_of
+Hematocrit level,0,Diagnostic_test_results,0,is_subclass_of
+Serum magnesium measurement,0,Diagnostic_test_results,0,is_subclass_of
+lv diastolic stiffness,0,Diagnostic_test_results,0,is_subclass_of
+Left atrial hypertrophy,0,Diagnostic_test_results,0,is_subclass_of
+Thyroid function tests abnormal,0,Diagnostic_test_results,0,is_subclass_of
+Hemosiderin-laden macrophage,0,Diagnostic_test_results,0,is_subclass_of
+elevations in bilirubin,0,Diagnostic_test_results,0,is_subclass_of
+lv diastolic function,0,Diagnostic_test_results,0,is_subclass_of
+MCHC - low,0,Diagnostic_test_results,0,is_subclass_of
+orthostatic testing,0,Diagnostic_test_results,0,is_subclass_of
+noninvasive evaluation of lv function,0,Diagnostic_test_results,0,is_subclass_of
+Serum digoxin measurement,0,Diagnostic_test_results,0,is_subclass_of
+X-Ray Computed Tomography,0,Diagnostic_test_results,0,is_subclass_of
+myocardial mass,0,Diagnostic_test_results,0,is_subclass_of
+Echocardiography,0,Diagnostic_test_results,0,is_subclass_of
+Peripheral oxygen saturation,0,Diagnostic_test_results,0,is_subclass_of
+mitral regurgitant blood flow,0,Diagnostic_test_results,0,is_subclass_of
+Pulmonary artery diastolic pressure,0,Diagnostic_test_results,0,is_subclass_of
+Sustained ventricular tachycardia,0,Diagnostic_test_results,0,is_subclass_of
+sparkling pattern,0,Diagnostic_test_results,0,is_subclass_of
+intracardiac filling pressures,0,Diagnostic_test_results,0,is_subclass_of
+Potassium:SCnc:Pt:Ser/Plas:Qn,0,Diagnostic_test_results,0,is_subclass_of
+Total Peripheral Resistance,0,Diagnostic_test_results,0,is_subclass_of
+Electrocardiogram P wave biphasic,0,Diagnostic_test_results,0,is_subclass_of
+viable lv myocardium,0,Diagnostic_test_results,0,is_subclass_of
+peripheral eosinophilia,0,Diagnostic_test_results,0,is_subclass_of
+ST segment elevation (finding),0,Diagnostic_test_results,0,is_subclass_of
+Bicarbonate measurement,0,Diagnostic_test_results,0,is_subclass_of
+viability,0,Diagnostic_test_results,0,is_subclass_of
+delayed enhancement from t1-weighted images,0,Diagnostic_test_results,0,is_subclass_of
+ST segment depression (finding),0,Diagnostic_test_results,0,is_subclass_of
+LDL Cholesterol Lipoproteins,0,Diagnostic_test_results,0,is_subclass_of
+N-terminal pro-B-type natriuretic peptide,0,Diagnostic_test_results,0,is_subclass_of
+abnormalities of lv diastolic filling,0,Diagnostic_test_results,0,is_subclass_of
+ventricular systolic and diastolic function,0,Diagnostic_test_results,0,is_subclass_of
+regional cardiac wall motion dysfunction,0,Diagnostic_test_results,0,is_subclass_of
+Plasma pro-brain natriuretic peptide level,0,Diagnostic_test_results,0,is_subclass_of
+Right ventricular systolic dysfunction,0,Diagnostic_test_results,0,is_subclass_of
+thallium activity score,0,Diagnostic_test_results,0,is_subclass_of
+HEART SIZE,0,Diagnostic_test_results,0,is_subclass_of
+Elevated serum creatine kinase,0,Diagnostic_test_results,0,is_subclass_of
+Monitor fluid intake and output,0,Diagnostic_test_results,0,is_subclass_of
+High Density Lipoprotein Cholesterol,0,Diagnostic_test_results,0,is_subclass_of
+Glucohemoglobin measurement,0,Diagnostic_test_results,0,is_subclass_of
+pulmonary venous inflow velocities,0,Diagnostic_test_results,0,is_subclass_of
+Dilation of left ventricular chamber,0,Diagnostic_test_results,0,is_subclass_of
+Perfusion Imaging,0,Diagnostic_test_results,0,is_subclass_of
+Urinalysis,0,Diagnostic_test_results,0,is_subclass_of
+Left ventricular end-diastolic cavity size,0,Diagnostic_test_results,0,is_subclass_of
+Ejection fraction (finding),0,Diagnostic_test_results,0,is_subclass_of
+atrial size and dimensions,0,Diagnostic_test_results,0,is_subclass_of
+biatrial enlargement,0,Diagnostic_test_results,0,is_subclass_of
+Peak velocity of tricuspid regurgitation,0,Diagnostic_test_results,0,is_subclass_of
+Dilation of left atrial chamber,0,Diagnostic_test_results,0,is_subclass_of
+PULMONARY EDEMA INTERSTITIAL,0,Diagnostic_test_results,0,is_subclass_of
+Heart sounds abnormal,0,Diagnostic_test_results,0,is_subclass_of
+Contraction alkalosis,0,Diagnostic_test_results,0,is_subclass_of
+visual assessment of ef,0,Diagnostic_test_results,0,is_subclass_of
+sphericity index,0,Diagnostic_test_results,0,is_subclass_of
+Metabolic acidosis,0,Diagnostic_test_results,0,is_subclass_of
+Cardiac troponin T measurement,0,Diagnostic_test_results,0,is_subclass_of
+Left ventricular end-systolic cavity size,0,Diagnostic_test_results,0,is_subclass_of
+Congenital heart disease,0,Diagnostic_test_results,0,is_subclass_of
+Low Cardiac Output,0,Diagnostic_test_results,0,is_subclass_of
+Pleural fluid examination,0,Diagnostic_test_results,0,is_subclass_of
+midregional pro-atrial natriuretic peptide_ human,0,Diagnostic_test_results,0,is_subclass_of
+docosapentaenoic acid,0,Diagnostic_test_results,0,is_subclass_of
+Endothelin measurement,0,Diagnostic_test_results,0,is_subclass_of
+Continuous Sphygmomanometers,0,Diagnostic_test_results,0,is_subclass_of
+Body Weight,0,Diagnostic_test_results,0,is_subclass_of
+Troponin measurement,0,Diagnostic_test_results,0,is_subclass_of
+Argipressin,0,Diagnostic_test_results,0,is_subclass_of
+alveolar fluid,0,Diagnostic_test_results,0,is_subclass_of
+Blood pressure determination,0,Diagnostic_test_results,0,is_subclass_of
+Measurement of gas exchange,0,Diagnostic_test_results,0,is_subclass_of
+increased p wave amplitude in lead ii,0,Diagnostic_test_results,0,is_subclass_of
+Fractional shortening.minor axis:LenFr:Pt:Heart.ventricle.left:Qn:US,0,Diagnostic_test_results,0,is_subclass_of
+Idioventricular rhythm,0,Diagnostic_test_results,0,is_subclass_of
+Nonsustained ventricular tachycardia,0,Diagnostic_test_results,0,is_subclass_of
+Cystatin C increased,0,Diagnostic_test_results,0,is_subclass_of
+Brain natriuretic peptide measurement,0,Diagnostic_test_results,0,is_subclass_of
+Muscle strain,0,Diagnostic_test_results,0,is_subclass_of
+Cardiac end-diastolic volume,0,Diagnostic_test_results,0,is_subclass_of
+Carnitine,0,Diagnostic_test_results,0,is_subclass_of
+Electrolytes abnormal,0,Diagnostic_test_results,0,is_subclass_of
+Leukocytes,0,Diagnostic_test_results,0,is_subclass_of
+Cardiac ejection fraction,0,Diagnostic_test_results,0,is_subclass_of
+Nonspecific Intraventricular Conduction Delay,0,Diagnostic_test_results,0,is_subclass_of
+doppler assessment,0,Diagnostic_test_results,0,is_subclass_of
+early diastolic myocardial velocities (e'),0,Diagnostic_test_results,0,is_subclass_of
+Isovolumic relaxation Time,0,Diagnostic_test_results,0,is_subclass_of
+peak mitral inflow e wave velocity,0,Diagnostic_test_results,0,is_subclass_of
+e',0,Diagnostic_test_results,0,is_subclass_of
+Electrolytes measurement,0,Diagnostic_test_results,0,is_subclass_of
+Pulmonary arterial systolic pressure,0,Diagnostic_test_results,0,is_subclass_of
+Effective regurgitant orifice,0,Diagnostic_test_results,0,is_subclass_of
+INTERSTITIAL MARKING INCREASED,0,Diagnostic_test_results,0,is_subclass_of
+end-diastolic pressure-volume relationship,0,Diagnostic_test_results,0,is_subclass_of
+Sodium intake,0,Diagnostic_test_results,0,is_subclass_of
+Digoxin measurement,0,Diagnostic_test_results,0,is_subclass_of
+US scan of thoracic aorta,0,Diagnostic_test_results,0,is_subclass_of
+Ventricular dyssynchrony,0,Diagnostic_test_results,0,is_subclass_of
+Abnormal,0,Diagnostic_test_results,0,is_subclass_of
+Chest X-ray,0,Diagnostic_test_results,0,is_subclass_of
+adiponectin,0,Diagnostic_test_results,0,is_subclass_of
+Fasting lipid profile,0,Diagnostic_test_results,0,is_subclass_of
+echocardiography: fractional shortening of left ventricle,0,Diagnostic_test_results,0,is_subclass_of
+Prothrombin time increased,0,Diagnostic_test_results,0,is_subclass_of
+daily sodium intake,0,Diagnostic_test_results,0,is_subclass_of
+Myocardial fibrosis,0,Diagnostic_test_results,0,is_subclass_of
+Myocardial perfusion stress imaging using Thallium 201,0,Diagnostic_test_results,0,is_subclass_of
+eye-balling,0,Diagnostic_test_results,0,is_subclass_of
+Sinus Tachycardia,0,Diagnostic_test_results,0,is_subclass_of
+st2,0,Diagnostic_test_results,0,is_subclass_of
+Plasma Uric Acid Test,0,Diagnostic_test_results,0,is_subclass_of
+P wave duration (observable entity),0,Diagnostic_test_results,0,is_subclass_of
+Left ventricular ejection fraction decreased,0,Diagnostic_test_results,0,is_subclass_of
+lv end-systolic volume index,0,Diagnostic_test_results,0,is_subclass_of
+end-systolic diameter,0,Diagnostic_test_results,0,is_subclass_of
+serum hemoglobin,0,Diagnostic_test_results,0,is_subclass_of
+lv sphericity index,0,Diagnostic_test_results,0,is_subclass_of
+elevated plasma natriuretic peptide concentration,0,Diagnostic_test_results,0,is_subclass_of
+Aspartate Transaminase,0,Diagnostic_test_results,0,is_subclass_of
+Right atrial enlargement,0,Diagnostic_test_results,0,is_subclass_of
+e/a ratio,0,Diagnostic_test_results,0,is_subclass_of
+prominence of the right ventricle,0,Diagnostic_test_results,0,is_subclass_of
+magnetic resonance imaging of heart for morphology,0,Diagnostic_test_results,0,is_subclass_of
+Differential white blood cell count procedure,0,Diagnostic_test_results,0,is_subclass_of
+International Normalized Ratio,0,Diagnostic_test_results,0,is_subclass_of
+valvular gradients,0,Diagnostic_test_results,0,is_subclass_of
+Blood Circulation Time,0,Diagnostic_test_results,0,is_subclass_of
+Perfusion,0,Diagnostic_test_results,0,is_subclass_of
+ST-Depression_Peak,0,Diagnostic_test_results,0,is_subclass_of
+increased salivary endothelin levels,0,Diagnostic_test_results,0,is_subclass_of
+Pulsed wave ultrasonic Doppler,0,Diagnostic_test_results,0,is_subclass_of
+Serum potassium measurement,0,Diagnostic_test_results,0,is_subclass_of
+systolic lv function,0,Diagnostic_test_results,0,is_subclass_of
+increased peak doppler peak e,0,Diagnostic_test_results,0,is_subclass_of
+PERIHILAR PULMONARY INFILTRATE,0,Diagnostic_test_results,0,is_subclass_of
+WATER_ O-15_,0,Diagnostic_test_results,0,is_subclass_of
+Intracardiac pressure,0,Diagnostic_test_results,0,is_subclass_of
+stv5 depression,0,Diagnostic_test_results,0,is_subclass_of
+Measurement of cardiac output,0,Diagnostic_test_results,0,is_subclass_of
+early (e) and atrial (a) waveforms,0,Diagnostic_test_results,0,is_subclass_of
+Low ventricular voltage by EKG,0,Diagnostic_test_results,0,is_subclass_of
+Oxygen saturation test result,0,Diagnostic_test_results,0,is_subclass_of
+Pulse oximeter,0,Diagnostic_test_results,0,is_subclass_of
+Systolic dysfunction,0,Diagnostic_test_results,0,is_subclass_of
+Transaminase raised,0,Diagnostic_test_results,0,is_subclass_of
+Pharmacologic and exercise stress test,0,Diagnostic_test_results,0,is_subclass_of
+"""butterfly"" pattern of alveolar opacities",0,Diagnostic_test_results,0,is_subclass_of
+Rubidium,0,Diagnostic_test_results,0,is_subclass_of
+qrs non-dipolar voltage,0,Diagnostic_test_results,0,is_subclass_of
+Continuous wave ultrasonic Doppler,0,Diagnostic_test_results,0,is_subclass_of
+valvular structure and function,0,Diagnostic_test_results,0,is_subclass_of
+Bilirubin Measurement,0,Diagnostic_test_results,0,is_subclass_of
+Proximal Left Anterior Descending Coronary Artery Stenosis,0,Diagnostic_test_results,0,is_subclass_of
+Serum creatinine level,0,Diagnostic_test_results,0,is_subclass_of
+Deceleration time,0,Diagnostic_test_results,0,is_subclass_of
+left ventricular outflow tract reconstruction,0,Diagnostic_test_results,0,is_subclass_of
+Cardiac ventriculography,0,Diagnostic_test_results,0,is_subclass_of
+Right ventricular cavity size,0,Diagnostic_test_results,0,is_subclass_of
+Nuclear Stress Test,0,Diagnostic_test_results,0,is_subclass_of
+Fatty acids.omega 3:SCnc:Pt:Ser/Plas:Qn,0,Diagnostic_test_results,0,is_subclass_of
+soluble st2,0,Diagnostic_test_results,0,is_subclass_of
+left ventricular filling pressure,0,Diagnostic_test_results,0,is_subclass_of
+Cardiovascular stress test using treadmill,0,Diagnostic_test_results,0,is_subclass_of
+sodium excretion,0,Diagnostic_test_results,0,is_subclass_of
+engorged hilar pulmonary arteries,0,Diagnostic_test_results,0,is_subclass_of
+Cardiovascular stress test using bicycle ergometer,0,Diagnostic_test_results,0,is_subclass_of
+Magnetic Resonance Imaging,0,Diagnostic_test_results,0,is_subclass_of
+Glomerular filtration rate decreased,0,Diagnostic_test_results,0,is_subclass_of
+mitral valve inflow pattern,0,Diagnostic_test_results,0,is_subclass_of
+Right ventricular systolic pressure level,0,Diagnostic_test_results,0,is_subclass_of
+Left atrium cavity size,0,Diagnostic_test_results,0,is_subclass_of
+Left ventricular isovolumic relaxation,0,Diagnostic_test_results,0,is_subclass_of
+serum Calcium measurement,0,Diagnostic_test_results,0,is_subclass_of
+hrv,0,Diagnostic_test_results,0,is_subclass_of
+Liver Function Tests,0,Diagnostic_test_results,0,is_subclass_of
+memorial symptom assessment scale,0,Diagnostic_test_results,0,is_subclass_of
+Hydrogen Carbonate,0,Diagnostic_test_results,0,is_subclass_of
+CHEST XRAY PULMONARY VASCULAR REDISTRIBUTION,0,Diagnostic_test_results,0,is_subclass_of
+atrial heart rate and rhythm,0,Diagnostic_test_results,0,is_subclass_of
+Intracardiac mass,0,Diagnostic_test_results,0,is_subclass_of
+creatinine concentration (serum or plasma),0,Diagnostic_test_results,0,is_subclass_of
+Dilated left ventricle,0,Diagnostic_test_results,0,is_subclass_of
+Aldosterone measurement_ serum,0,Diagnostic_test_results,0,is_subclass_of
+Left ventricular mass,0,Diagnostic_test_results,0,is_subclass_of
+Intraventricular conduction defect,0,Diagnostic_test_results,0,is_subclass_of
+QRS complex duration (observable entity),0,Diagnostic_test_results,0,is_subclass_of
+Ventricular Dysfunction_ Left,0,Diagnostic_test_results,0,is_subclass_of
+Cardiovascular monitoring,0,Diagnostic_test_results,0,is_subclass_of
+Urine albumin measurement,0,Diagnostic_test_results,0,is_subclass_of
+diffuse hypokinesis,0,Diagnostic_test_results,0,is_subclass_of
+Intracardiac thrombus,0,Diagnostic_test_results,0,is_subclass_of
+cardiac evaluation of right heart pressure,0,Diagnostic_test_results,0,is_subclass_of
+Left ventricular size,0,Diagnostic_test_results,0,is_subclass_of
+Serum cystatin C measurement,0,Diagnostic_test_results,0,is_subclass_of
+Gradient.systole.max:Pres:Pt:Tricuspid valve.regurgitant jet:Qn:US.doppler,0,Diagnostic_test_results,0,is_subclass_of
+Wedge Pressure,0,Diagnostic_test_results,0,is_subclass_of
+C-reactive protein measurement,0,Diagnostic_test_results,0,is_subclass_of
+ECG: atrial fibrillation,0,Diagnostic_test_results,0,is_subclass_of
+Triglycerides,0,Diagnostic_test_results,0,is_subclass_of
+Cardiac rhythm type,0,Diagnostic_test_results,0,is_subclass_of
+Alveolar edema,0,Diagnostic_test_results,0,is_subclass_of
+lv wall motion score index,0,Diagnostic_test_results,0,is_subclass_of
+Left ventricular end-diastolic dimension,0,Diagnostic_test_results,0,is_subclass_of
+Left ventricular systolic dysfunction,0,Diagnostic_test_results,0,is_subclass_of
+Arterial Lines,0,Diagnostic_test_results,0,is_subclass_of
+Chlorides,0,Diagnostic_test_results,0,is_subclass_of
+Serum creatinine raised,0,Diagnostic_test_results,0,is_subclass_of
+Renin measurement,0,Diagnostic_test_results,0,is_subclass_of
+angiogram,0,Diagnostic_test_results,0,is_subclass_of
+interventricular conduction delay,0,Diagnostic_test_results,0,is_subclass_of
+Valsalva Maneuver,0,Diagnostic_test_results,0,is_subclass_of
+Valvular function features,0,Diagnostic_test_results,0,is_subclass_of
+Cardiac biomarkers,0,Diagnostic_test_results,0,is_subclass_of
+electrocardiogram: axis QRST angle,0,Diagnostic_test_results,0,is_subclass_of
+Neutrophilia,0,Diagnostic_test_results,0,is_subclass_of
+Thiamine,0,Diagnostic_test_results,0,is_subclass_of
+Pulmonary Edema,0,Diagnostic_test_results,0,is_subclass_of
+lv regional function,0,Diagnostic_test_results,0,is_subclass_of
+echocardiography: valvular mitral stenosis,0,Diagnostic_test_results,0,is_subclass_of
+Kidney Function Tests,0,Diagnostic_test_results,0,is_subclass_of
+lv outflow tract velocity time integral,0,Diagnostic_test_results,0,is_subclass_of
+lv end-systolic diameter,0,Diagnostic_test_results,0,is_subclass_of
+Measurement of central venous pressure,0,Diagnostic_test_results,0,is_subclass_of
+Fluoroscopy_Vessels_Test,0,Diagnostic_test_results,0,is_subclass_of
+Serum albumin measurement,0,Diagnostic_test_results,0,is_subclass_of
+Uric acid measurement (procedure),0,Diagnostic_test_results,0,is_subclass_of
+left atrial volume index,0,Diagnostic_test_results,0,is_subclass_of
+peribronchial cuffing,0,Diagnostic_test_results,0,is_subclass_of
+Left ventricular end-systolic dimension,0,Diagnostic_test_results,0,is_subclass_of
+Color doppler ultrasound,0,Diagnostic_test_results,0,is_subclass_of
+myosin light chain kinase i,0,Diagnostic_test_results,0,is_subclass_of
+Serum fasting glucose measurement,0,Diagnostic_test_results,0,is_subclass_of
+serum BUN/creatinine ratio,0,Diagnostic_test_results,0,is_subclass_of
+Cardiopulmonary Exercise Test,0,Diagnostic_test_results,0,is_subclass_of
+Monitoring of cardiac output/cardiac index,0,Diagnostic_test_results,0,is_subclass_of
+pulmonary vein flows,0,Diagnostic_test_results,0,is_subclass_of
+fasting lipid panel,0,Diagnostic_test_results,0,is_subclass_of
+Acidosis_ Respiratory,0,Diagnostic_test_results,0,is_subclass_of
+Thyrotropin,0,Diagnostic_test_results,0,is_subclass_of
+mitral annular velocity,0,Diagnostic_test_results,0,is_subclass_of
+Increased central venous pressure,0,Diagnostic_test_results,0,is_subclass_of
+Glycosylated hemoglobin A,0,Diagnostic_test_results,0,is_subclass_of
+serum biomarkers,0,Diagnostic_test_results,0,is_subclass_of
+Oral Glucose Tolerance Test,0,Diagnostic_test_results,0,is_subclass_of
+Biopsy of heart,0,Diagnostic_test_results,0,is_subclass_of
+pulmonary venous inflow pattern,0,Diagnostic_test_results,0,is_subclass_of
+Left ventricular dilatation,0,Diagnostic_test_results,0,is_subclass_of
+Magnetic resonance imaging of heart for assessment of myocardial viability,0,Diagnostic_test_results,0,is_subclass_of
+thyroid-stimulating hormone measurement,0,Diagnostic_test_results,0,is_subclass_of
+Pulse Pressure,0,Diagnostic_test_results,0,is_subclass_of
+Norepinephrine measurement,0,Diagnostic_test_results,0,is_subclass_of
+noninvasive cardiac imaging,0,Diagnostic_test_results,0,is_subclass_of
+Increased albumin,0,Diagnostic_test_results,0,is_subclass_of
+Pulmonary Capillary Wedge Pressure,0,Pulmonary Artery Wedge Pressure,0,is_subclass_of
+Mixed venous oxygen saturation measurement,0,Oxygen saturation measurement,0,is_subclass_of
+Arterial oxygen saturation measurement,0,Oxygen saturation measurement,0,is_subclass_of
+heparin,0,Antithrombins,0,is_subclass_of
+UCN3 protein_ human,0,Treatment,0,is_subclass_of
+Private home-based care,0,Treatment,0,is_subclass_of
+Oral hypoglycemic,0,Treatment,0,is_subclass_of
+esmolol,0,Treatment,0,is_subclass_of
+Venous blood sampling,0,Treatment,0,is_subclass_of
+Intra-aortic balloon pump device,0,Treatment,0,is_subclass_of
+Diuretics,0,Treatment,0,is_subclass_of
+UCN2 protein_ human,0,Treatment,0,is_subclass_of
+Defibrillation,0,Treatment,0,is_subclass_of
+Opiates,0,Treatment,0,is_subclass_of
+Taurine,0,Treatment,0,is_subclass_of
+Nitroglycerin Transdermal Patch,0,Treatment,0,is_subclass_of
+valvuloplasty,0,Treatment,0,is_subclass_of
+Antiplatelet therapy  EXCEPT Aspirin,0,Treatment,0,is_subclass_of
+multidisciplinary care conference,0,Treatment,0,is_subclass_of
+Testosterone patch,0,Treatment,0,is_subclass_of
+Diuresis,0,Treatment,0,is_subclass_of
+Ablation of atrioventricular node,0,Treatment,0,is_subclass_of
+Reperfusion Therapy,0,Treatment,0,is_subclass_of
+Fontan Procedure,0,Treatment,0,is_subclass_of
+gene therapy,0,Treatment,0,is_subclass_of
+Adrenal Cortex Hormones,0,Treatment,0,is_subclass_of
+Sitting position,0,Treatment,0,is_subclass_of
+Resistance Training,0,Treatment,0,is_subclass_of
+Exercise_ Aerobic,0,Treatment,0,is_subclass_of
+Provider orders for life-sustaining treatment,0,Treatment,0,is_subclass_of
+Placement of stent,0,Treatment,0,is_subclass_of
+Mineralocorticoid Receptor Antagonists,0,Treatment,0,is_subclass_of
+Nitrates,0,Treatment,0,is_subclass_of
+Inotropic agent,0,Treatment,0,is_subclass_of
+percutaneous edge-to-edge repair,0,Treatment,0,is_subclass_of
+vasoactive agent,0,Treatment,0,is_subclass_of
+Revascularization - action,0,Treatment,0,is_subclass_of
+Social support,0,Treatment,0,is_subclass_of
+neurohumoral antagonists,0,Treatment,0,is_subclass_of
+Relaxin,0,Treatment,0,is_subclass_of
+dialysis,0,Treatment,0,is_subclass_of
+Phenylephrine,0,Treatment,0,is_subclass_of
+Cardiac rehabilitation,0,Treatment,0,is_subclass_of
+Aneurysmectomy,0,Treatment,0,is_subclass_of
+Heart failure education,0,Treatment,0,is_subclass_of
+Testosterone Transdermal Patch,0,Treatment,0,is_subclass_of
+Nicotinic Acids,0,Treatment,0,is_subclass_of
+Home exercise program,0,Treatment,0,is_subclass_of
+Transmyocardial revascularization by laser technique,0,Treatment,0,is_subclass_of
+Alcohol Abstinence,0,Treatment,0,is_subclass_of
+Dexrazoxane,0,Treatment,0,is_subclass_of
+Inhaled bronchodilator therapy,0,Treatment,0,is_subclass_of
+Multisite ventricular pacing,0,Treatment,0,is_subclass_of
+growth hormone treatment,0,Treatment,0,is_subclass_of
+Nonrebreather oxygen mask,0,Treatment,0,is_subclass_of
+Dietary sodium - average,0,Treatment,0,is_subclass_of
+carvedilol-cr,0,Treatment,0,is_subclass_of
+remote telemonitoring programs,0,Treatment,0,is_subclass_of
+myoplasty,0,Treatment,0,is_subclass_of
+Aldactone,0,Treatment,0,is_subclass_of
+Chelation Therapy,0,Treatment,0,is_subclass_of
+specialized hf clinics,0,Treatment,0,is_subclass_of
+cardiac myosin activators,0,Treatment,0,is_subclass_of
+replacement; valve,0,Treatment,0,is_subclass_of
+Catheter Ablation_ Electric,0,Treatment,0,is_subclass_of
+Vasopressin Antagonist,0,Treatment,0,is_subclass_of
+Anterior,0,Treatment,0,is_subclass_of
+avp antagonists,0,Treatment,0,is_subclass_of
+Dual pressure spontaneous ventilation support,0,Treatment,0,is_subclass_of
+Ring annuloplasty (procedure),0,Treatment,0,is_subclass_of
+chimeric natriuretic peptide,0,Treatment,0,is_subclass_of
+CoQ10,0,Treatment,0,is_subclass_of
+atrial fibrillation surgery,0,Treatment,0,is_subclass_of
+Inspra,0,Treatment,0,is_subclass_of
+Dobutamine,0,Treatment,0,is_subclass_of
+Catheters_ Cardiac_ Laser Percutaneous Myocardial Revascularization,0,Treatment,0,is_subclass_of
+Isosorbide Dinitrate,0,Treatment,0,is_subclass_of
+Selective factor Xa inhibitor,0,Treatment,0,is_subclass_of
+Mechanical ventilation,0,Treatment,0,is_subclass_of
+Electrophysiology ablation,0,Treatment,0,is_subclass_of
+Natural immunosuppression,0,Treatment,0,is_subclass_of
+patient monitoring: daily weights,0,Treatment,0,is_subclass_of
+Cardiac Catheterization Procedures,0,Treatment,0,is_subclass_of
+sequential nephron blockade,0,Treatment,0,is_subclass_of
+Hospitalization,0,Treatment,0,is_subclass_of
+Echocardiography_ Three-Dimensional_,0,Treatment,0,is_subclass_of
+heart valve replacement,0,Treatment,0,is_subclass_of
+Diabetic - good control,0,Treatment,0,is_subclass_of
+surgical ventricular reconstruction,0,Treatment,0,is_subclass_of
+Self-Management,0,Treatment,0,is_subclass_of
+Pneumococcal vaccination,0,Treatment,0,is_subclass_of
+hydralazine-nitrate combination,0,Treatment,0,is_subclass_of
+Renal Replacement Therapy,0,Treatment,0,is_subclass_of
+Arginine,0,Treatment,0,is_subclass_of
+coronary revascularisation,0,Treatment,0,is_subclass_of
+Post-discharge follow-up,0,Treatment,0,is_subclass_of
+mycophenolate mofetil,0,Treatment,0,is_subclass_of
+follow-up,0,Treatment,0,is_subclass_of
+Psychosocial assessment (procedure),0,Treatment,0,is_subclass_of
+Phosphodiesterase Inhibitors,0,Treatment,0,is_subclass_of
+Implantation of CRT-D,0,Treatment,0,is_subclass_of
+Non-Invasive Ventilation,0,Treatment,0,is_subclass_of
+Right ventricular assist device,0,Treatment,0,is_subclass_of
+bridge to recovery,0,Treatment,0,is_subclass_of
+Limits sodium intake,0,Treatment,0,is_subclass_of
+Anti-Arrhythmia Agents,0,Treatment,0,is_subclass_of
+Anticoagulants,0,Treatment,0,is_subclass_of
+Operative Surgical Procedures,0,Treatment,0,is_subclass_of
+Testosterone,0,Treatment,0,is_subclass_of
+Family Planning,0,Treatment,0,is_subclass_of
+Intracoronary brachytherapy using fluoroscopic guidance,0,Treatment,0,is_subclass_of
+Isotonic exercise,0,Treatment,0,is_subclass_of
+cd-np,0,Treatment,0,is_subclass_of
+Positive End-Expiratory Pressure,0,Treatment,0,is_subclass_of
+pulmonary vasodilators,0,Treatment,0,is_subclass_of
+Lytic,0,Treatment,0,is_subclass_of
+Fluid restriction,0,Treatment,0,is_subclass_of
+right ventricular pacing,0,Treatment,0,is_subclass_of
+Percutaneous Coronary Intervention,0,Treatment,0,is_subclass_of
+Bypass Surgery,0,Treatment,0,is_subclass_of
+pulmonary arterial vasodilator therapy,0,Treatment,0,is_subclass_of
+vaptans,0,Treatment,0,is_subclass_of
+Potassium supplement,0,Treatment,0,is_subclass_of
+Cardiac pacing,0,Treatment,0,is_subclass_of
+bridge to decision,0,Treatment,0,is_subclass_of
+bridge to candidacy,0,Treatment,0,is_subclass_of
+Surgical ventricular restoration procedure,0,Treatment,0,is_subclass_of
+Sirolimus,0,Treatment,0,is_subclass_of
+bridge-to-recovery_ btr,0,Treatment,0,is_subclass_of
+Polyunsaturated Fatty Acids,0,Treatment,0,is_subclass_of
+Cardiac implant device,0,Treatment,0,is_subclass_of
+Disease Management,0,Treatment,0,is_subclass_of
+Rotational Atherectomy,0,Treatment,0,is_subclass_of
+Ventriculomyotomy for idiopathic hypertrophic subaortic stenosis,0,Treatment,0,is_subclass_of
+coordination of care services,0,Treatment,0,is_subclass_of
+PACEMAKER DDD,0,Treatment,0,is_subclass_of
+Arginine vasopressin antagonist,0,Treatment,0,is_subclass_of
+controlling the ventricular rate,0,Treatment,0,is_subclass_of
+Dopamine,0,Treatment,0,is_subclass_of
+Magnetic Resonance Angiography,0,Treatment,0,is_subclass_of
+Antihypertensive Agents,0,Treatment,0,is_subclass_of
+Radionuclide Ventriculography,0,Treatment,0,is_subclass_of
+Sheng-Mai San,0,Treatment,0,is_subclass_of
+Natriuretic Peptides,0,Treatment,0,is_subclass_of
+bridge to transplantation,0,Treatment,0,is_subclass_of
+Ventricular muscle ablation for arrhythmia,0,Treatment,0,is_subclass_of
+Pulmonary Artery Catheterization,0,Treatment,0,is_subclass_of
+Digitalis,0,Treatment,0,is_subclass_of
+creatine analogs,0,Treatment,0,is_subclass_of
+structured telephone support,0,Treatment,0,is_subclass_of
+Ventricular Remodeling,0,Treatment,0,is_subclass_of
+Mustard procedure for transposition repair,0,Treatment,0,is_subclass_of
+Telephone follow-up,0,Treatment,0,is_subclass_of
+Antilipemic agent,0,Treatment,0,is_subclass_of
+ferric carboxymaltose,0,Treatment,0,is_subclass_of
+Discharge Planning,0,Treatment,0,is_subclass_of
+Maze procedure for atrial arrhythmia,0,Treatment,0,is_subclass_of
+adaptive servo-ventilation,0,Treatment,0,is_subclass_of
+Intubation,0,Treatment,0,is_subclass_of
+Vitamins,0,Treatment,0,is_subclass_of
+satavaptan,0,Treatment,0,is_subclass_of
+discharge education,0,Treatment,0,is_subclass_of
+Atrioseptoplasty,0,Treatment,0,is_subclass_of
+Biventricular defibrillator,0,Treatment,0,is_subclass_of
+Erythropoietin,0,Treatment,0,is_subclass_of
+Urinary Catheterization,0,Treatment,0,is_subclass_of
+Anticoagulant prophylaxis,0,Treatment,0,is_subclass_of
+Atrial inversion operation using atrial wall,0,Treatment,0,is_subclass_of
+Trimetazidine,0,Treatment,0,is_subclass_of
+Cardiac support procedure,0,Treatment,0,is_subclass_of
+ventricular reconstruction,0,Treatment,0,is_subclass_of
+Do-Not-Resuscitate Orders,0,Treatment,0,is_subclass_of
+hypertension,0,Treatment,0,is_subclass_of
+Implantation of artificial heart,0,Treatment,0,is_subclass_of
+Cyclosporine,0,Treatment,0,is_subclass_of
+Artificial Ventricle,0,Treatment,0,is_subclass_of
+Angioplasty,0,Treatment,0,is_subclass_of
+Resection of left ventricle of heart,0,Treatment,0,is_subclass_of
+muscle transfer,0,Treatment,0,is_subclass_of
+wearable defibrillator vest,0,Treatment,0,is_subclass_of
+Neuromuscular Electrical Stimulation,0,Treatment,0,is_subclass_of
+Argipressin,0,Treatment,0,is_subclass_of
+Increased protein diet,0,Treatment,0,is_subclass_of
+Administer oxygen at high flow rate (10-15 L/min),0,Treatment,0,is_subclass_of
+Maintaining Intravenous Access,0,Treatment,0,is_subclass_of
+Pericardiocentesis,0,Treatment,0,is_subclass_of
+peep,0,Treatment,0,is_subclass_of
+Intra-Aortic Balloon Pumping,0,Treatment,0,is_subclass_of
+metoprolol succinate,0,Treatment,0,is_subclass_of
+insulin,0,Treatment,0,is_subclass_of
+Heart failure follow-up,0,Treatment,0,is_subclass_of
+Midazolam,0,Treatment,0,is_subclass_of
+repair of heart valve,0,Treatment,0,is_subclass_of
+Iron sucrose,0,Treatment,0,is_subclass_of
+Ultrafiltration,0,Treatment,0,is_subclass_of
+supplemental oxygen therapy,0,Treatment,0,is_subclass_of
+Magnesium supplement,0,Treatment,0,is_subclass_of
+destination therapy,0,Treatment,0,is_subclass_of
+terminal patient care,0,Treatment,0,is_subclass_of
+Cardiopulmonary Bypass,0,Treatment,0,is_subclass_of
+regular physical activity,0,Treatment,0,is_subclass_of
+disease-modifying neurohumoral antagonists,0,Treatment,0,is_subclass_of
+percutaneous partial pumps,0,Treatment,0,is_subclass_of
+Azathioprine,0,Treatment,0,is_subclass_of
+Glucagon-Like Peptide 1,0,Treatment,0,is_subclass_of
+Extracorporeal Membrane Oxygenation,0,Treatment,0,is_subclass_of
+Patient education (procedure),0,Treatment,0,is_subclass_of
+Cardiac Resynchronization Therapy Pacemaker (CRT-P) Systems,0,Treatment,0,is_subclass_of
+Care plan,0,Treatment,0,is_subclass_of
+Cessation of smoking,0,Treatment,0,is_subclass_of
+Antidepressive Agents,0,Treatment,0,is_subclass_of
+nurse-based case management,0,Treatment,0,is_subclass_of
+continuous intravenous infusion of a positive inotropic agent,0,Treatment,0,is_subclass_of
+Implantation of ventricular assist device,0,Treatment,0,is_subclass_of
+intravenous inotropic support,0,Treatment,0,is_subclass_of
+Clenbuterol,0,Treatment,0,is_subclass_of
+Atrial Ablation,0,Treatment,0,is_subclass_of
+holistic management,0,Treatment,0,is_subclass_of
+Hawthorn preparation,0,Treatment,0,is_subclass_of
+Admission to intensive care unit,0,Treatment,0,is_subclass_of
+Tai Chi,0,Treatment,0,is_subclass_of
+PACEMAKER VVI PLACEMENT,0,Treatment,0,is_subclass_of
+telephonic case management,0,Treatment,0,is_subclass_of
+vasopressin v2 receptor antagonists,0,Treatment,0,is_subclass_of
+guideline-directed medical therapy,0,Treatment,0,is_subclass_of
+Etomidate,0,Treatment,0,is_subclass_of
+Biventricular Pacemakers,0,Treatment,0,is_subclass_of
+Dor procedure,0,Treatment,0,is_subclass_of
+FISH OIL,0,Treatment,0,is_subclass_of
+passive ventricular constraint,0,Treatment,0,is_subclass_of
+ghrelin,0,Treatment,0,is_subclass_of
+Therapeutic immunosuppression,0,Treatment,0,is_subclass_of
+aldosterone,0,Treatment,0,is_subclass_of
+Influenza vaccination,0,Treatment,0,is_subclass_of
+Implantation of permanent intravenous cardiac pacemaker,0,Treatment,0,is_subclass_of
+Pericardiectomy,0,Treatment,0,is_subclass_of
+Family counseling,0,Treatment,0,is_subclass_of
+Angiotensin Receptor Antagonists,0,Treatment,0,is_subclass_of
+assisted ventilation,0,Treatment,0,is_subclass_of
+Lipid-lowering therapy,0,Treatment,0,is_subclass_of
+Coreg,0,Treatment,0,is_subclass_of
+maintenance of sinus rhythm,0,Treatment,0,is_subclass_of
+Metformin,0,Treatment,0,is_subclass_of
+intracoronary autologous bone-marrow cell transfer,0,Treatment,0,is_subclass_of
+Repair of tricuspid valve,0,Treatment,0,is_subclass_of
+Cardiac Resynchronization Therapy,0,Treatment,0,is_subclass_of
+Caloric supplementation,0,Treatment,0,is_subclass_of
+omecamtiv mecarbil,0,Treatment,0,is_subclass_of
+Bile-acid Binding Resin [EPC],0,Treatment,0,is_subclass_of
+Implantation of cardiac support device (CSD),0,Treatment,0,is_subclass_of
+Left ventricular aneurysm,0,Treatment,0,is_subclass_of
+Deferoxamine,0,Treatment,0,is_subclass_of
+Referral to cardiac surgery service,0,Treatment,0,is_subclass_of
+Adrenergic beta-2 Receptor Agonists,0,Treatment,0,is_subclass_of
+Invasive mechanical ventilation,0,Treatment,0,is_subclass_of
+Fibrates,0,Treatment,0,is_subclass_of
+lixivaptan,0,Treatment,0,is_subclass_of
+infusion of autologous bone marrow-derived cells (bmcs),0,Treatment,0,is_subclass_of
+Pneumococcal vaccine,0,Treatment,0,is_subclass_of
+Low sodium diet,0,Treatment,0,is_subclass_of
+managed in an intensive or coronary care unit,0,Treatment,0,is_subclass_of
+managed at tertiary heart failure centres,0,Treatment,0,is_subclass_of
+Demeclocycline,0,Treatment,0,is_subclass_of
+Somatotropin-Releasing Hormone,0,Treatment,0,is_subclass_of
+Repair of heart valve,0,Treatment,0,is_subclass_of
+Implantation of rechargeable cardiac contractility modulation [CCM]_ total system,0,Treatment,0,is_subclass_of
+catheterization with infusion of dobutamine,0,Treatment,0,is_subclass_of
+Intermittent pneumatic compression device,0,Treatment,0,is_subclass_of
+Heart Transplantation,0,Treatment,0,is_subclass_of
+left atrial appendage closure,0,Treatment,0,is_subclass_of
+Thoracic impedance,0,Treatment,0,is_subclass_of
+Thoracentesis,0,Treatment,0,is_subclass_of
+Ligation of patent ductus arteriosus,0,Treatment,0,is_subclass_of
+Epinephrine,0,Treatment,0,is_subclass_of
+Exercise education,0,Treatment,0,is_subclass_of
+improved access to care,0,Treatment,0,is_subclass_of
+Weight reduction regimen,0,Treatment,0,is_subclass_of
+Left ventricular assist device,0,Treatment,0,is_subclass_of
+Directional atherectomy,0,Treatment,0,is_subclass_of
+High dose,0,Treatment,0,is_subclass_of
+implantable monitors,0,Treatment,0,is_subclass_of
+Disease management program (regime/therapy),0,Treatment,0,is_subclass_of
+Positive inotropic drug,0,Treatment,0,is_subclass_of
+Cell Therapy,0,Treatment,0,is_subclass_of
+DIRECT RENIN INHIBITOR,0,Treatment,0,is_subclass_of
+rosuvastatin,0,Treatment,0,is_subclass_of
+mTOR Inhibitor,0,Treatment,0,is_subclass_of
+transitional care planning,0,Treatment,0,is_subclass_of
+Family education,0,Treatment,0,is_subclass_of
+aortic valve surgery,0,Treatment,0,is_subclass_of
+Insertion of dual chamber pacemaker,0,Treatment,0,is_subclass_of
+Adenosine A1 Receptor Antagonists,0,Treatment,0,is_subclass_of
+progenitor cell-based myocardial repair,0,Treatment,0,is_subclass_of
+Controls alcohol intake,0,Treatment,0,is_subclass_of
+Patient Care Team,0,Treatment,0,is_subclass_of
+written discharge instructions,0,Treatment,0,is_subclass_of
+Prosthetic valve,0,Treatment,0,is_subclass_of
+control hypertension,0,Treatment,0,is_subclass_of
+nutritional supplements,0,Treatment,0,is_subclass_of
+Pulmonary artery pressure monitoring,0,Treatment,0,is_subclass_of
+Prophylactic diuretic therapy,0,Treatment,0,is_subclass_of
+continuous inotropic infusions,0,Treatment,0,is_subclass_of
+Dihydropyridine Calcium Channel Blocker,0,Treatment,0,is_subclass_of
+Transvenous insertion of pacing electrode for left ventricular pacing,0,Treatment,0,is_subclass_of
+Dietary Supplementation,0,Treatment,0,is_subclass_of
+palliative care service,0,Treatment,0,is_subclass_of
+Lorazepam,0,Treatment,0,is_subclass_of
+Palliative Care,0,Treatment,0,is_subclass_of
+Alcohol septal ablation,0,Treatment,0,is_subclass_of
+Ablation therapy for atrial fibrillation,0,Treatment,0,is_subclass_of
+Transcatheter mitral valve repair,0,Treatment,0,is_subclass_of
+Istaroxime,0,Treatment,0,is_subclass_of
+Peripheral Stem Cell Transplantation,0,Treatment,0,is_subclass_of
+myomectomy,0,Treatment,0,is_subclass_of
+Hormone replacement therapy,0,Treatment,0,is_subclass_of
+aortic valve replacement transcatheter,0,Treatment,0,is_subclass_of
+Surgical reverse remodeling,0,Treatment,0,is_subclass_of
+Yoga,0,Treatment,0,is_subclass_of
+Iron supplement therapy,0,Treatment,0,is_subclass_of
+lv reconstruction,0,Treatment,0,is_subclass_of
+modest exercise,0,Treatment,0,is_subclass_of
+Antiplatelet Agents,0,Treatment,0,is_subclass_of
+Angina Pectoris,0,Chest Pain,0,is_subclass_of
+chest pressure,0,Chest Pain,0,is_subclass_of
+Bilateral pleural effusion,0,Pleural effusion disorder,0,is_subclass_of
+Hydralazine / Isosorbide Dinitrate,0,Isosorbide Dinitrate,0,is_subclass_of
+Bidil,0,Isosorbide Dinitrate,0,is_subclass_of
+isosorbide-hydralazine combination,0,Isosorbide Dinitrate,0,is_subclass_of
+Isosorbide Mononitrate,0,Isosorbide Dinitrate,0,is_subclass_of
+fondaparinux,0,Selective factor Xa inhibitor,0,is_subclass_of
+Bundle-Branch Block,0,Heart Block,0,is_subclass_of
+Atrioventricular Block,0,Heart Block,0,is_subclass_of
+Left anterior fascicular block,0,Heart Block,0,is_subclass_of
+First degree AV block,0,Heart Block,0,is_subclass_of
+Intraventricular conduction defect,0,Heart Block,0,is_subclass_of
+Complete atrioventricular block,0,Heart Block,0,is_subclass_of
+Cardiovascular stress testing,0,Exercise stress test,0,is_subclass_of
+Cardiac ablation,0,Cardiac Catheterization Procedures,0,is_subclass_of
+Catheterization of left heart,0,Cardiac Catheterization Procedures,0,is_subclass_of
+Catheterization of right heart,0,Cardiac Catheterization Procedures,0,is_subclass_of
+Intraventricular pacing,0,Cardiac Catheterization Procedures,0,is_subclass_of
+Swan-Ganz Catheterization,0,Cardiac Catheterization Procedures,0,is_subclass_of
+Endomyocardial biopsy (procedure),0,Cardiac Catheterization Procedures,0,is_subclass_of
+Replacement of aortic valve (procedure),0,heart valve replacement,0,is_subclass_of
+Replacement of pulmonary valve,0,heart valve replacement,0,is_subclass_of
+Replacement of tricuspid valve,0,heart valve replacement,0,is_subclass_of
+Replacement of mitral valve (procedure),0,heart valve replacement,0,is_subclass_of
+tolvaptan,0,Aquaretic,0,is_subclass_of
+conivaptan,0,Aquaretic,0,is_subclass_of
+Catheter Ablation_ Electric,0,Cardiac ablation,0,is_subclass_of
+Fasting blood glucose,0,Glucose measurement_ fasting,0,is_subclass_of
+Self-care interventions,0,Self-Management,0,is_subclass_of
+rofecoxib,0,Cyclooxygenase 2 Inhibitors,0,is_subclass_of
+2D Doppler Echocardiography,0,Echocardiography_ Doppler,0,is_subclass_of
+Haemofiltration,0,Renal Replacement Therapy,0,is_subclass_of
+Captopril,0,Arginine,0,is_subclass_of
+Right upper quadrant pain,0,Abdominal Pain,0,is_subclass_of
+Shock_ Cardiogenic,0,Shock,0,is_subclass_of
+Hypotension,0,Shock,0,is_subclass_of
+Coronary Arteriosclerosis,0,Arteriosclerosis,0,is_subclass_of
+Coronary heart disease,0,Arteriosclerosis,0,is_subclass_of
+Cobalt,0,Causes_risk_factors,0,is_subclass_of
+Blood Transfusion,0,Causes_risk_factors,0,is_subclass_of
+Bilateral renal artery stenosis,0,Causes_risk_factors,0,is_subclass_of
+Infectious Diseases,0,Causes_risk_factors,0,is_subclass_of
+Dilated cardiomyopathy secondary to familial storage disease,0,Causes_risk_factors,0,is_subclass_of
+Diastolic dysfunction,0,Causes_risk_factors,0,is_subclass_of
+environmental or medical exposure to cardiotoxic substances,0,Causes_risk_factors,0,is_subclass_of
+H/O: alcoholism,0,Causes_risk_factors,0,is_subclass_of
+Taxoids,0,Causes_risk_factors,0,is_subclass_of
+Family history of conduction disorder of the heart,0,Causes_risk_factors,0,is_subclass_of
+Multiple gated acquisition scanning,0,Causes_risk_factors,0,is_subclass_of
+Polydipsia,0,Causes_risk_factors,0,is_subclass_of
+Ephedra,0,Causes_risk_factors,0,is_subclass_of
+Cheyne-Stokes Respiration,0,Causes_risk_factors,0,is_subclass_of
+Excessive alcohol consumption,0,Causes_risk_factors,0,is_subclass_of
+Tobacco use,0,Causes_risk_factors,0,is_subclass_of
+Systemic infection,0,Causes_risk_factors,0,is_subclass_of
+Acute myocarditis,0,Causes_risk_factors,0,is_subclass_of
+Emphysema,0,Causes_risk_factors,0,is_subclass_of
+mitral valve papillary muscle rupture,0,Causes_risk_factors,0,is_subclass_of
+Hypocalcemia,0,Causes_risk_factors,0,is_subclass_of
+Peripheral arterial embolism,0,Causes_risk_factors,0,is_subclass_of
+History of myocardial infarction,0,Causes_risk_factors,0,is_subclass_of
+Thyroid Diseases,0,Causes_risk_factors,0,is_subclass_of
+ST segment elevation myocardial infarction,0,Causes_risk_factors,0,is_subclass_of
+Carnitine deficiency,0,Causes_risk_factors,0,is_subclass_of
+Penicillins,0,Causes_risk_factors,0,is_subclass_of
+Postcardiotomy syndrome,0,Causes_risk_factors,0,is_subclass_of
+isoniazid,0,Causes_risk_factors,0,is_subclass_of
+Thromboembolism,0,Causes_risk_factors,0,is_subclass_of
+Congenital muscular dystrophy (disorder),0,Causes_risk_factors,0,is_subclass_of
+Antineoplastic Agents,0,Causes_risk_factors,0,is_subclass_of
+Illicit drug use,0,Causes_risk_factors,0,is_subclass_of
+Cerebrovascular accident,0,Causes_risk_factors,0,is_subclass_of
+Dietary sodium intake,0,Causes_risk_factors,0,is_subclass_of
+COPD exacerbation,0,Causes_risk_factors,0,is_subclass_of
+Transfusion Of Blood Products,0,Causes_risk_factors,0,is_subclass_of
+Pulmonary vascular disorder,0,Causes_risk_factors,0,is_subclass_of
+Calcium Channel Blockers,0,Causes_risk_factors,0,is_subclass_of
+Multisite ventricular pacing,0,Causes_risk_factors,0,is_subclass_of
+FH: Sudden infant death,0,Causes_risk_factors,0,is_subclass_of
+Conduction disorder of the heart,0,Causes_risk_factors,0,is_subclass_of
+pheochromocytoma,0,Causes_risk_factors,0,is_subclass_of
+Atrial Septal Defects,0,Causes_risk_factors,0,is_subclass_of
+Supraventricular tachyarrhythmia,0,Causes_risk_factors,0,is_subclass_of
+Ventricular Septal Defects,0,Causes_risk_factors,0,is_subclass_of
+Cardiotoxicity,0,Causes_risk_factors,0,is_subclass_of
+Egg intake,0,Causes_risk_factors,0,is_subclass_of
+Sulfonamides,0,Causes_risk_factors,0,is_subclass_of
+Gaucher Disease,0,Causes_risk_factors,0,is_subclass_of
+Dietary sodium - high,0,Causes_risk_factors,0,is_subclass_of
+Iron Overload,0,Causes_risk_factors,0,is_subclass_of
+Excessive sodium intake,0,Causes_risk_factors,0,is_subclass_of
+Ergot Alkaloids,0,Causes_risk_factors,0,is_subclass_of
+regurgitant valvular disease,0,Causes_risk_factors,0,is_subclass_of
+Elderly (population group),0,Causes_risk_factors,0,is_subclass_of
+concomitant anthracycline therapy,0,Causes_risk_factors,0,is_subclass_of
+Right sided infective endocarditis,0,Causes_risk_factors,0,is_subclass_of
+Cardiomyopathy_ Familial Idiopathic,0,Causes_risk_factors,0,is_subclass_of
+Malnutrition,0,Causes_risk_factors,0,is_subclass_of
+H/O: asthma,0,Causes_risk_factors,0,is_subclass_of
+worsening hypertension,0,Causes_risk_factors,0,is_subclass_of
+Ascending aortic dissection,0,Causes_risk_factors,0,is_subclass_of
+Hypertensive crisis,0,Causes_risk_factors,0,is_subclass_of
+Restrictive cardiomyopathy secondary to infiltrations,0,Causes_risk_factors,0,is_subclass_of
+Fasting hyperglycaemia,0,Causes_risk_factors,0,is_subclass_of
+Mitral chordae rupture,0,Causes_risk_factors,0,is_subclass_of
+cumulative anthracycline dose,0,Causes_risk_factors,0,is_subclass_of
+maternal placental syndrome,0,Causes_risk_factors,0,is_subclass_of
+disease (or disorder); valve_ valvular (obstructive) (regurgitation),0,Causes_risk_factors,0,is_subclass_of
+Fever,0,Causes_risk_factors,0,is_subclass_of
+Doppler echocardiography: extracardiac shunt,0,Causes_risk_factors,0,is_subclass_of
+Cyclooxygenase 2 Inhibitors,0,Causes_risk_factors,0,is_subclass_of
+Chloroquine,0,Causes_risk_factors,0,is_subclass_of
+Family history of heart failure,0,Causes_risk_factors,0,is_subclass_of
+MYOCARDIAL INFARCTION RIGHT VENTRICULAR,0,Causes_risk_factors,0,is_subclass_of
+Arteriosclerosis,0,Causes_risk_factors,0,is_subclass_of
+high-fat dairy,0,Causes_risk_factors,0,is_subclass_of
+Anemia,0,Causes_risk_factors,0,is_subclass_of
+Lipid Metabolism Disorders,0,Causes_risk_factors,0,is_subclass_of
+Coronary Artery Bypass Surgery,0,Causes_risk_factors,0,is_subclass_of
+beta Thalassemia,0,Causes_risk_factors,0,is_subclass_of
+Paget's Disease of Bone,0,Causes_risk_factors,0,is_subclass_of
+Loeffler Syndrome,0,Causes_risk_factors,0,is_subclass_of
+Renal Insufficiency,0,Causes_risk_factors,0,is_subclass_of
+Respiratory Infections,0,Causes_risk_factors,0,is_subclass_of
+Steroids,0,Causes_risk_factors,0,is_subclass_of
+Exacerbation of asthma,0,Causes_risk_factors,0,is_subclass_of
+Arteriovenous fistula,0,Causes_risk_factors,0,is_subclass_of
+Environmental Exposure,0,Causes_risk_factors,0,is_subclass_of
+Insulin Resistance,0,Causes_risk_factors,0,is_subclass_of
+skeletal myopathy,0,Causes_risk_factors,0,is_subclass_of
+Anti-Arrhythmia Agents,0,Causes_risk_factors,0,is_subclass_of
+Valvular disease,0,Causes_risk_factors,0,is_subclass_of
+Sudden unexpected nocturnal death syndrome,0,Causes_risk_factors,0,is_subclass_of
+Anomalous origin of coronary artery,0,Causes_risk_factors,0,is_subclass_of
+Chronic lung disease,0,Causes_risk_factors,0,is_subclass_of
+Hypertensive heart failure,0,Causes_risk_factors,0,is_subclass_of
+hemorrhagic stroke,0,Causes_risk_factors,0,is_subclass_of
+severe hypertension,0,Causes_risk_factors,0,is_subclass_of
+cancer radiation therapy,0,Causes_risk_factors,0,is_subclass_of
+Bland White Garland Syndrome,0,Causes_risk_factors,0,is_subclass_of
+Pregnancy,0,Causes_risk_factors,0,is_subclass_of
+Exposure to toxin,0,Causes_risk_factors,0,is_subclass_of
+Liver Dysfunction,0,Causes_risk_factors,0,is_subclass_of
+Percutaneous Coronary Intervention,0,Causes_risk_factors,0,is_subclass_of
+Epirubicin,0,Causes_risk_factors,0,is_subclass_of
+Female,0,Causes_risk_factors,0,is_subclass_of
+Hyperkalemia,0,Causes_risk_factors,0,is_subclass_of
+Dysglycemia,0,Causes_risk_factors,0,is_subclass_of
+H/O: thyroid disorder,0,Causes_risk_factors,0,is_subclass_of
+Catecholamines,0,Causes_risk_factors,0,is_subclass_of
+Somatotropin deficiency,0,Causes_risk_factors,0,is_subclass_of
+H/O: diabetes mellitus,0,Causes_risk_factors,0,is_subclass_of
+Influenza-like illness,0,Causes_risk_factors,0,is_subclass_of
+H/O: angina pectoris,0,Causes_risk_factors,0,is_subclass_of
+Estrogens,0,Causes_risk_factors,0,is_subclass_of
+Deep Vein Thrombosis,0,Causes_risk_factors,0,is_subclass_of
+H/O: heart failure,0,Causes_risk_factors,0,is_subclass_of
+Myocardial disease,0,Causes_risk_factors,0,is_subclass_of
+Chronic Obstructive Airway Disease,0,Causes_risk_factors,0,is_subclass_of
+Renal vascular disorder,0,Causes_risk_factors,0,is_subclass_of
+Medication Nonadherence,0,Causes_risk_factors,0,is_subclass_of
+acute myocardial infarction,0,Causes_risk_factors,0,is_subclass_of
+High density lipoprotein deficiency,0,Causes_risk_factors,0,is_subclass_of
+Ventricular Remodeling,0,Causes_risk_factors,0,is_subclass_of
+Restrictive cardiomyopathy secondary to familial storage disease,0,Causes_risk_factors,0,is_subclass_of
+Environmental Stress,0,Causes_risk_factors,0,is_subclass_of
+Lobar Pneumonia,0,Causes_risk_factors,0,is_subclass_of
+pickering syndrome,0,Causes_risk_factors,0,is_subclass_of
+Chemotherapy Regimen,0,Causes_risk_factors,0,is_subclass_of
+HIV Seropositivity,0,Causes_risk_factors,0,is_subclass_of
+Fenfluramine,0,Causes_risk_factors,0,is_subclass_of
+chronic kidney diseases,0,Causes_risk_factors,0,is_subclass_of
+Placental infarct,0,Causes_risk_factors,0,is_subclass_of
+Acute mitral regurgitation,0,Causes_risk_factors,0,is_subclass_of
+Diabetic Cardiomyopathy,0,Causes_risk_factors,0,is_subclass_of
+Anticoagulant prophylaxis,0,Causes_risk_factors,0,is_subclass_of
+Iron deficiency,0,Causes_risk_factors,0,is_subclass_of
+peripheral vascular disease,0,Causes_risk_factors,0,is_subclass_of
+Ischemic Cerebrovascular Accident,0,Causes_risk_factors,0,is_subclass_of
+Obesity cardiomyopathy,0,Causes_risk_factors,0,is_subclass_of
+Dilated cardiomyopathy secondary to toxic reaction,0,Causes_risk_factors,0,is_subclass_of
+hypertension,0,Causes_risk_factors,0,is_subclass_of
+Anthracyclines,0,Causes_risk_factors,0,is_subclass_of
+Connective tissue disease,0,Causes_risk_factors,0,is_subclass_of
+Itraconazole,0,Causes_risk_factors,0,is_subclass_of
+Alcohol consumption,0,Causes_risk_factors,0,is_subclass_of
+Abruptio Placentae,0,Causes_risk_factors,0,is_subclass_of
+cilostazol,0,Causes_risk_factors,0,is_subclass_of
+Anti-Inflammatory Agents,0,Causes_risk_factors,0,is_subclass_of
+Congenital heart disease,0,Causes_risk_factors,0,is_subclass_of
+Aging,0,Causes_risk_factors,0,is_subclass_of
+Idiopathic,0,Causes_risk_factors,0,is_subclass_of
+Dietary indiscretion,0,Causes_risk_factors,0,is_subclass_of
+Chronic myocardial ischemia,0,Causes_risk_factors,0,is_subclass_of
+Uncontrolled hypertension,0,Causes_risk_factors,0,is_subclass_of
+Adriamycin,0,Causes_risk_factors,0,is_subclass_of
+Antidepressants_ Tricyclic,0,Causes_risk_factors,0,is_subclass_of
+Substance Abuse,0,Causes_risk_factors,0,is_subclass_of
+iatrogenic causes,0,Causes_risk_factors,0,is_subclass_of
+Endocarditis,0,Causes_risk_factors,0,is_subclass_of
+Emotional Stress,0,Causes_risk_factors,0,is_subclass_of
+Abnormal renal function,0,Causes_risk_factors,0,is_subclass_of
+FH: Muscular dystrophy,0,Causes_risk_factors,0,is_subclass_of
+Sleep Disorders,0,Causes_risk_factors,0,is_subclass_of
+Tobacco,0,Causes_risk_factors,0,is_subclass_of
+Shunt left-right intracardiac,0,Causes_risk_factors,0,is_subclass_of
+Adrenergic beta-Antagonists,0,Causes_risk_factors,0,is_subclass_of
+Tumor Necrosis Factor (TNF) Inhibitors,0,Causes_risk_factors,0,is_subclass_of
+Licorice,0,Causes_risk_factors,0,is_subclass_of
+Permanent atrial fibrillation,0,Causes_risk_factors,0,is_subclass_of
+Adrenergic beta-Agonists,0,Causes_risk_factors,0,is_subclass_of
+Postmyocardial infarction syndrome,0,Causes_risk_factors,0,is_subclass_of
+Phentermine,0,Causes_risk_factors,0,is_subclass_of
+Left ventricular failure,0,Causes_risk_factors,0,is_subclass_of
+History of cardiac arrest,0,Causes_risk_factors,0,is_subclass_of
+Acromegaly,0,Causes_risk_factors,0,is_subclass_of
+Blacks,0,Causes_risk_factors,0,is_subclass_of
+Infectious disease of lung,0,Causes_risk_factors,0,is_subclass_of
+Methyldopa,0,Causes_risk_factors,0,is_subclass_of
+Actual Non Adherence To Dietary Regime,0,Causes_risk_factors,0,is_subclass_of
+Muscular Dystrophy_ Duchenne,0,Causes_risk_factors,0,is_subclass_of
+hypertensive emergency,0,Causes_risk_factors,0,is_subclass_of
+Amphetamine Abuse,0,Causes_risk_factors,0,is_subclass_of
+Multiple intracardiac shunts,0,Causes_risk_factors,0,is_subclass_of
+Pulmonary arterial hypertension,0,Causes_risk_factors,0,is_subclass_of
+Methamphetamine,0,Causes_risk_factors,0,is_subclass_of
+Paroxysmal supraventricular tachycardia,0,Causes_risk_factors,0,is_subclass_of
+Cancer Diagnosis,0,Causes_risk_factors,0,is_subclass_of
+Serum potassium measurement,0,Causes_risk_factors,0,is_subclass_of
+Pseudoephedrine,0,Causes_risk_factors,0,is_subclass_of
+Dexfenfluramine,0,Causes_risk_factors,0,is_subclass_of
+Tachycardia_ Atrioventricular Nodal Reentry,0,Causes_risk_factors,0,is_subclass_of
+MITRAL LEAFLET FLAIL,0,Causes_risk_factors,0,is_subclass_of
+collagen vascular disease,0,Causes_risk_factors,0,is_subclass_of
+anagrelide,0,Causes_risk_factors,0,is_subclass_of
+Systolic dysfunction,0,Causes_risk_factors,0,is_subclass_of
+Cor pulmonale,0,Causes_risk_factors,0,is_subclass_of
+Pergolide,0,Causes_risk_factors,0,is_subclass_of
+Exposure to cardiotoxins,0,Causes_risk_factors,0,is_subclass_of
+Atrial tachycardia,0,Causes_risk_factors,0,is_subclass_of
+Left Ventricular Hypertrophy,0,Causes_risk_factors,0,is_subclass_of
+Infiltrative disorder,0,Causes_risk_factors,0,is_subclass_of
+Glomerular filtration rate decreased,0,Causes_risk_factors,0,is_subclass_of
+Metformin,0,Causes_risk_factors,0,is_subclass_of
+Beam Radiation of Chest using Electrons,0,Causes_risk_factors,0,is_subclass_of
+idarubicin,0,Causes_risk_factors,0,is_subclass_of
+Cardiac Tamponade,0,Causes_risk_factors,0,is_subclass_of
+acute valvular insufficiency,0,Causes_risk_factors,0,is_subclass_of
+Pericarditis_ Constrictive,0,Causes_risk_factors,0,is_subclass_of
+Viral myocarditis,0,Causes_risk_factors,0,is_subclass_of
+Muscular Dystrophies_ Limb-Girdle,0,Causes_risk_factors,0,is_subclass_of
+Depressive disorder,0,Causes_risk_factors,0,is_subclass_of
+mediastinum,0,Causes_risk_factors,0,is_subclass_of
+Amphotericin B,0,Causes_risk_factors,0,is_subclass_of
+Ventricular Dysfunction_ Left,0,Causes_risk_factors,0,is_subclass_of
+Atrial natriuretic peptide increased,0,Causes_risk_factors,0,is_subclass_of
+Sarcoidosis,0,Causes_risk_factors,0,is_subclass_of
+Tobacco smoking behavior,0,Causes_risk_factors,0,is_subclass_of
+Carbamazepine,0,Causes_risk_factors,0,is_subclass_of
+Storage disease,0,Causes_risk_factors,0,is_subclass_of
+Trypanosomiasis,0,Causes_risk_factors,0,is_subclass_of
+Streptomycin,0,Causes_risk_factors,0,is_subclass_of
+Thiamine Deficiency,0,Causes_risk_factors,0,is_subclass_of
+Idiopathic Hypereosinophilic Syndrome,0,Causes_risk_factors,0,is_subclass_of
+Methylphenidate,0,Causes_risk_factors,0,is_subclass_of
+Fabry Disease,0,Causes_risk_factors,0,is_subclass_of
+Ephedrine,0,Causes_risk_factors,0,is_subclass_of
+acute,0,Causes_risk_factors,0,is_subclass_of
+Hypertrophy,0,Causes_risk_factors,0,is_subclass_of
+Androgens,0,Causes_risk_factors,0,is_subclass_of
+Diabetes Mellitus,0,Causes_risk_factors,0,is_subclass_of
+Heart valve disease,0,Causes_risk_factors,0,is_subclass_of
+Tetanus Vaccine,0,Causes_risk_factors,0,is_subclass_of
+Cardiac Output_ High,0,Causes_risk_factors,0,is_subclass_of
+High dose,0,Causes_risk_factors,0,is_subclass_of
+Monoclonal Antibodies,0,Causes_risk_factors,0,is_subclass_of
+FH: Cardiomyopathy,0,Causes_risk_factors,0,is_subclass_of
+Increased body mass index,0,Causes_risk_factors,0,is_subclass_of
+AORTIC REGURGITATION ACUTE,0,Causes_risk_factors,0,is_subclass_of
+Pulmonary Embolism,0,Causes_risk_factors,0,is_subclass_of
+Cocaine Abuse,0,Causes_risk_factors,0,is_subclass_of
+Myopericarditis,0,Causes_risk_factors,0,is_subclass_of
+Cardiotoxins,0,Causes_risk_factors,0,is_subclass_of
+Patent ductus arteriosus,0,Causes_risk_factors,0,is_subclass_of
+Tachycardia_ Ventricular,0,Causes_risk_factors,0,is_subclass_of
+Dissection of aorta,0,Causes_risk_factors,0,is_subclass_of
+Thiazolidinediones,0,Causes_risk_factors,0,is_subclass_of
+Cocaine Cardiomyopathy,0,Causes_risk_factors,0,is_subclass_of
+Chronic Chagas' disease,0,Causes_risk_factors,0,is_subclass_of
+Giant cell myocarditis,0,Causes_risk_factors,0,is_subclass_of
+Retinopathy,0,Causes_risk_factors,0,is_subclass_of
+Neuromuscular Diseases,0,Causes_risk_factors,0,is_subclass_of
+Nonischemic congestive cardiomyopathy,0,Causes_risk_factors,0,is_subclass_of
+Anorexia Nervosa,0,Causes_risk_factors,0,is_subclass_of
+obstructive valvular disease,0,Causes_risk_factors,0,is_subclass_of
+Family history,0,Causes_risk_factors,0,is_subclass_of
+Atrial Flutter,0,Causes_risk_factors,0,is_subclass_of
+Congestive heart failure due to valvular disease,0,Causes_risk_factors,0,is_subclass_of
+history of mi or acs,0,Causes_risk_factors,0,is_subclass_of
+previous history of smoking,0,Causes_risk_factors,0,is_subclass_of
+Ventricular pacing at high rates,0,Causes_risk_factors,0,is_subclass_of
+Chronic anemia,0,Anemia,0,is_subclass_of
+Hypertriglyceridemia,0,Lipid Metabolism Disorders,0,is_subclass_of
+Hyperlipidemia,0,Lipid Metabolism Disorders,0,is_subclass_of
+Dyslipidemias,0,Lipid Metabolism Disorders,0,is_subclass_of
+hyperthyroidism,0,Thyroid dysfunction,0,is_subclass_of
+hypothyroidism,0,Thyroid dysfunction,0,is_subclass_of
+bucindolol,0,Vasodilator Agents,0,is_subclass_of
+Amiodarone,0,Vasodilator Agents,0,is_subclass_of
+bosentan,0,Vasodilator Agents,0,is_subclass_of
+Verapamil,0,Vasodilator Agents,0,is_subclass_of
+Intra-arterial vasodilator,0,Vasodilator Agents,0,is_subclass_of
+tezosentan,0,Vasodilator Agents,0,is_subclass_of
+Felodipine,0,Vasodilator Agents,0,is_subclass_of
+Calcium Channel Blockers,0,Vasodilator Agents,0,is_subclass_of
+Nesiritide,0,Vasodilator Agents,0,is_subclass_of
+Intravenous vasodilator,0,Vasodilator Agents,0,is_subclass_of
+Isosorbide,0,Vasodilator Agents,0,is_subclass_of
+Amlodipine,0,Vasodilator Agents,0,is_subclass_of
+Isosorbide Dinitrate,0,Vasodilator Agents,0,is_subclass_of
+sildenafil,0,Vasodilator Agents,0,is_subclass_of
+pulmonary vasodilators,0,Vasodilator Agents,0,is_subclass_of
+Endothelin receptor antagonist,0,Vasodilator Agents,0,is_subclass_of
+Milrinone,0,Vasodilator Agents,0,is_subclass_of
+Carvedilol,0,Vasodilator Agents,0,is_subclass_of
+Trimetazidine,0,Vasodilator Agents,0,is_subclass_of
+hydralazine,0,Vasodilator Agents,0,is_subclass_of
+Enoximone,0,Vasodilator Agents,0,is_subclass_of
+Prazosin,0,Vasodilator Agents,0,is_subclass_of
+nebivolol,0,Vasodilator Agents,0,is_subclass_of
+Diltiazem,0,Vasodilator Agents,0,is_subclass_of
+Levosimendan,0,Vasodilator Agents,0,is_subclass_of
+Nifedipine,0,Vasodilator Agents,0,is_subclass_of
+nitroprusside,0,Vasodilator Agents,0,is_subclass_of
+Isosorbide Mononitrate,0,Vasodilator Agents,0,is_subclass_of
+Sodium Nitroprusside,0,Vasodilator Agents,0,is_subclass_of
+ranolazine,0,Vasodilator Agents,0,is_subclass_of
+Nitroglycerin,0,Vasodilator Agents,0,is_subclass_of
+cinaciguat,0,Vasodilator Agents,0,is_subclass_of
+Epoprostenol,0,Vasodilator Agents,0,is_subclass_of
+Pre-Eclampsia,0,Hypertension induced by pregnancy,0,is_subclass_of
+Platelet Count measurement,0,Complete Blood Count,0,is_subclass_of
+Kidney Failure,0,Renal Insufficiency,0,is_subclass_of
+acute renal insufficiency,0,Renal Insufficiency,0,is_subclass_of
+Chronic Kidney Insufficiency,0,Renal Insufficiency,0,is_subclass_of
+Influenza,0,Respiratory Infections,0,is_subclass_of
+pneumonia,0,Respiratory Infections,0,is_subclass_of
+sildenafil,0,Phosphodiesterase Inhibitors,0,is_subclass_of
+Phosphodiesterase 5 inhibitor,0,Phosphodiesterase Inhibitors,0,is_subclass_of
+Milrinone,0,Phosphodiesterase Inhibitors,0,is_subclass_of
+Enoximone,0,Phosphodiesterase Inhibitors,0,is_subclass_of
+vesnarinone,0,Phosphodiesterase Inhibitors,0,is_subclass_of
+Bidil,0,Hydralazine Hydrochloride,0,is_subclass_of
+Adrenal Cortex Hormones,0,Steroids,0,is_subclass_of
+Anabolic steroids,0,Steroids,0,is_subclass_of
+Abdominal bloating,0,Abdomen distended,0,is_subclass_of
+Metabolic syndrome,0,Insulin Resistance,0,is_subclass_of
+Noninvasive positive pressure ventilation,0,Non-Invasive Ventilation,0,is_subclass_of
+Stable angina,0,Angina Pectoris,0,is_subclass_of
+Exertional angina,0,Angina Pectoris,0,is_subclass_of
+Acute Coronary Syndrome,0,Angina Pectoris,0,is_subclass_of
+Angina_ Unstable,0,Angina Pectoris,0,is_subclass_of
+Alcoholic Intoxication_ Chronic,0,Alcohol abuse,0,is_subclass_of
+Presyncope,0,Syncope,0,is_subclass_of
+Pulmonary arterial hypertension,0,Pulmonary Hypertension,0,is_subclass_of
+Amiodarone,0,Anti-Arrhythmia Agents,0,is_subclass_of
+Verapamil,0,Anti-Arrhythmia Agents,0,is_subclass_of
+dronedarone,0,Anti-Arrhythmia Agents,0,is_subclass_of
+Digoxin,0,Anti-Arrhythmia Agents,0,is_subclass_of
+Felodipine,0,Anti-Arrhythmia Agents,0,is_subclass_of
+ivabradine,0,Anti-Arrhythmia Agents,0,is_subclass_of
+Flecainide,0,Anti-Arrhythmia Agents,0,is_subclass_of
+Disopyramide,0,Anti-Arrhythmia Agents,0,is_subclass_of
+Class III antiarrhythmic drug,0,Anti-Arrhythmia Agents,0,is_subclass_of
+Phenytoin,0,Anti-Arrhythmia Agents,0,is_subclass_of
+Class I antiarrhythmic drug,0,Anti-Arrhythmia Agents,0,is_subclass_of
+Losartan,0,Anti-Arrhythmia Agents,0,is_subclass_of
+Digitoxin,0,Anti-Arrhythmia Agents,0,is_subclass_of
+Metoprolol,0,Anti-Arrhythmia Agents,0,is_subclass_of
+dofetilide,0,Anti-Arrhythmia Agents,0,is_subclass_of
+Atenolol,0,Anti-Arrhythmia Agents,0,is_subclass_of
+apixaban,0,Anticoagulants,0,is_subclass_of
+heparin,0,Anticoagulants,0,is_subclass_of
+fondaparinux,0,Anticoagulants,0,is_subclass_of
+Heparin_ Low-Molecular-Weight,0,Anticoagulants,0,is_subclass_of
+Antithrombins,0,Anticoagulants,0,is_subclass_of
+Warfarin,0,Anticoagulants,0,is_subclass_of
+rivaroxaban,0,Anticoagulants,0,is_subclass_of
+Anticoagulants_ Oral,0,Anticoagulants,0,is_subclass_of
+dabigatran,0,Anticoagulants,0,is_subclass_of
+Stenting,0,Operative Surgical Procedures,0,is_subclass_of
+Organ Transplantation,0,Operative Surgical Procedures,0,is_subclass_of
+Genetic Counseling,0,Family Planning,0,is_subclass_of
+aliskiren,0,Renin inhibitor,0,is_subclass_of
+Exercise stress test,0,Electrocardiography,0,is_subclass_of
+Cardiovascular stress testing,0,Electrocardiography,0,is_subclass_of
+Signal-averaged electrocardiography,0,Electrocardiography,0,is_subclass_of
+Electrocardiography_ Ambulatory,0,Electrocardiography,0,is_subclass_of
+12 lead ECG,0,Electrocardiography,0,is_subclass_of
+Holter Electrocardiography,0,Electrocardiography,0,is_subclass_of
+Anomalous origin of coronary artery from pulmonary arterial tree,0,Anomalous origin of coronary artery,0,is_subclass_of
+Bundle-Branch Block,0,Cardiac Arrhythmia,0,is_subclass_of
+Premature ventricular contractions,0,Cardiac Arrhythmia,0,is_subclass_of
+Gallop rhythm,0,Cardiac Arrhythmia,0,is_subclass_of
+Atrioventricular Block,0,Cardiac Arrhythmia,0,is_subclass_of
+Heart Block,0,Cardiac Arrhythmia,0,is_subclass_of
+Wolff-Parkinson-White Syndrome,0,Cardiac Arrhythmia,0,is_subclass_of
+Palpitations,0,Cardiac Arrhythmia,0,is_subclass_of
+Abnormal cardiac conduction,0,Cardiac Arrhythmia,0,is_subclass_of
+Left anterior fascicular block,0,Cardiac Arrhythmia,0,is_subclass_of
+Supraventricular tachycardia,0,Cardiac Arrhythmia,0,is_subclass_of
+brugada syndrome,0,Cardiac Arrhythmia,0,is_subclass_of
+Paroxysmal supraventricular tachycardia,0,Cardiac Arrhythmia,0,is_subclass_of
+Abnormal electrocardiogram,0,Cardiac Arrhythmia,0,is_subclass_of
+Tachycardia,0,Cardiac Arrhythmia,0,is_subclass_of
+Cardiac Arrest,0,Cardiac Arrhythmia,0,is_subclass_of
+Right bundle branch block,0,Cardiac Arrhythmia,0,is_subclass_of
+Ventricular arrhythmia,0,Cardiac Arrhythmia,0,is_subclass_of
+Sick Sinus Syndrome,0,Cardiac Arrhythmia,0,is_subclass_of
+First degree AV block,0,Cardiac Arrhythmia,0,is_subclass_of
+Sinus bradycardia,0,Cardiac Arrhythmia,0,is_subclass_of
+Atrial arrhythmia,0,Cardiac Arrhythmia,0,is_subclass_of
+Second degree atrioventricular block,0,Cardiac Arrhythmia,0,is_subclass_of
+Ventricular Fibrillation,0,Cardiac Arrhythmia,0,is_subclass_of
+Complete atrioventricular block,0,Cardiac Arrhythmia,0,is_subclass_of
+Bradycardia,0,Cardiac Arrhythmia,0,is_subclass_of
+Tachycardia_ Ventricular,0,Cardiac Arrhythmia,0,is_subclass_of
+Atrial Fibrillation,0,Cardiac Arrhythmia,0,is_subclass_of
+Supraventricular arrhythmia,0,Cardiac Arrhythmia,0,is_subclass_of
+Atrial Flutter,0,Cardiac Arrhythmia,0,is_subclass_of
+echocardiography: diastolic chamber volume of left ventricle,0,echocardiography: chamber volume of left ventricle,0,is_subclass_of
+Bilateral renal artery stenosis,0,Renal Artery Stenosis,0,is_subclass_of
+Continuous Positive Airway Pressure,0,Positive End-Expiratory Pressure,0,is_subclass_of
+Right Ventricular Hypertrophy,0,Cardiomegaly,0,is_subclass_of
+Cardiac Hypertrophy,0,Cardiomegaly,0,is_subclass_of
+Left Ventricular Hypertrophy,0,Cardiomegaly,0,is_subclass_of
+PET heart study,0,Positron-Emission Tomography,0,is_subclass_of
+Cardiovascular stress test using treadmill,0,Cardiovascular stress testing,0,is_subclass_of
+Cardiovascular stress test using bicycle ergometer,0,Cardiovascular stress testing,0,is_subclass_of
+Transmyocardial revascularization by laser technique,0,Myocardial Revascularization,0,is_subclass_of
+Coronary Artery Bypass Surgery,0,Myocardial Revascularization,0,is_subclass_of
+Transmyocardial Laser Revascularization (procedure),0,Myocardial Revascularization,0,is_subclass_of
+Intraventricular pacing,0,Cardiac pacing,0,is_subclass_of
+acute myocardial infarction,0,Myocardial Infarction,0,is_subclass_of
+Old myocardial infarction,0,Myocardial Infarction,0,is_subclass_of
+Spirometry,0,Pulmonary function tests,0,is_subclass_of
+Dilated cardiomyopathy secondary to familial storage disease,0,Familial cardiomyopathy,0,is_subclass_of
+Pansystolic murmur,0,Systolic Murmurs,0,is_subclass_of
+everolimus,0,Sirolimus,0,is_subclass_of
+infliximab,0,Anti-tumor necrosis factor alpha drug,0,is_subclass_of
+Etanercept,0,Anti-tumor necrosis factor alpha drug,0,is_subclass_of
+sildenafil,0,Phosphodiesterase 5 inhibitor,0,is_subclass_of
+Metolazone,0,Thiazide Diuretics,0,is_subclass_of
+indapamide,0,Thiazide Diuretics,0,is_subclass_of
+chlorthalidone,0,Thiazide Diuretics,0,is_subclass_of
+Bendroflumethiazide,0,Thiazide Diuretics,0,is_subclass_of
+Chlorothiazide,0,Thiazide Diuretics,0,is_subclass_of
+hydrochlorothiazide,0,Thiazide Diuretics,0,is_subclass_of
+Omega-3 Fatty Acids,0,Polyunsaturated Fatty Acids,0,is_subclass_of
+bosentan,0,Endothelin receptor antagonist,0,is_subclass_of
+Artificial cardiac pacemaker,0,Cardiac implant device,0,is_subclass_of
+Heart_ Artificial,0,Cardiac implant device,0,is_subclass_of
+Pulmonary artery systolic pressure,0,Pulmonary artery pressure,0,is_subclass_of
+Acquired Immunodeficiency Syndrome,0,HIV Infections,0,is_subclass_of
+HIV Seropositivity,0,HIV Infections,0,is_subclass_of
+Supraventricular tachycardia,0,tachyarrhythmia,0,is_subclass_of
+Tachycardia_ Ventricular,0,tachyarrhythmia,0,is_subclass_of
+tolvaptan,0,Arginine vasopressin antagonist,0,is_subclass_of
+conivaptan,0,Arginine vasopressin antagonist,0,is_subclass_of
+Aortic Valve Stenosis,0,Heart valve stenosis,0,is_subclass_of
+Pansystolic murmur,0,Heart murmur,0,is_subclass_of
+Rheumatic Heart Disease,0,Myocardial disease,0,is_subclass_of
+Hypertensive cardiomyopathy,0,Myocardial disease,0,is_subclass_of
+Myocarditis,0,Myocardial disease,0,is_subclass_of
+Tachycardia-induced cardiomyopathy,0,Myocardial disease,0,is_subclass_of
+Takotsubo Cardiomyopathy,0,Myocardial disease,0,is_subclass_of
+Atrioventricular Block,0,Myocardial disease,0,is_subclass_of
+Senile cardiac amyloidosis,0,Myocardial disease,0,is_subclass_of
+HIV cardiomyopathy,0,Myocardial disease,0,is_subclass_of
+Myocardial Infarction,0,Myocardial disease,0,is_subclass_of
+Familial cardiomyopathy,0,Myocardial disease,0,is_subclass_of
+Cardiomyopathy_ Alcoholic,0,Myocardial disease,0,is_subclass_of
+Restrictive cardiomyopathy,0,Myocardial disease,0,is_subclass_of
+Cardiomyopathy_ Dilated,0,Myocardial disease,0,is_subclass_of
+Hypertrophic Cardiomyopathy,0,Myocardial disease,0,is_subclass_of
+Arrhythmogenic Right Ventricular Dysplasia,0,Myocardial disease,0,is_subclass_of
+Ischemic cardiomyopathy,0,Myocardial disease,0,is_subclass_of
+Primary cardiomyopathy,0,Myocardial disease,0,is_subclass_of
+Left ventricular noncompaction,0,Myocardial disease,0,is_subclass_of
+Myocardial Ischemia,0,Myocardial disease,0,is_subclass_of
+Endocardial Fibroelastosis,0,Myocardial disease,0,is_subclass_of
+Peripartum cardiomyopathy,0,Myocardial disease,0,is_subclass_of
+Acute rheumatic heart disease,0,Myocardial disease,0,is_subclass_of
+Zebeta,0,Bisoprolol,0,is_subclass_of
+bosentan,0,Antihypertensive Agents,0,is_subclass_of
+quinapril,0,Antihypertensive Agents,0,is_subclass_of
+Metolazone,0,Antihypertensive Agents,0,is_subclass_of
+Felodipine,0,Antihypertensive Agents,0,is_subclass_of
+Calcium Channel Blockers,0,Antihypertensive Agents,0,is_subclass_of
+indapamide,0,Antihypertensive Agents,0,is_subclass_of
+eplerenone,0,Antihypertensive Agents,0,is_subclass_of
+Amlodipine,0,Antihypertensive Agents,0,is_subclass_of
+chlorthalidone,0,Antihypertensive Agents,0,is_subclass_of
+Perindopril,0,Antihypertensive Agents,0,is_subclass_of
+Vasodilator Agents,0,Antihypertensive Agents,0,is_subclass_of
+Hydralazine Hydrochloride,0,Antihypertensive Agents,0,is_subclass_of
+Renin inhibitor,0,Antihypertensive Agents,0,is_subclass_of
+Thiazide Diuretics,0,Antihypertensive Agents,0,is_subclass_of
+trandolapril,0,Antihypertensive Agents,0,is_subclass_of
+Bisoprolol,0,Antihypertensive Agents,0,is_subclass_of
+Angiotensin-Converting Enzyme Inhibitors,0,Antihypertensive Agents,0,is_subclass_of
+Lisinopril,0,Antihypertensive Agents,0,is_subclass_of
+Carvedilol,0,Antihypertensive Agents,0,is_subclass_of
+Aldosterone Antagonists,0,Antihypertensive Agents,0,is_subclass_of
+Bendroflumethiazide,0,Antihypertensive Agents,0,is_subclass_of
+irbesartan,0,Antihypertensive Agents,0,is_subclass_of
+Captopril,0,Antihypertensive Agents,0,is_subclass_of
+hydralazine,0,Antihypertensive Agents,0,is_subclass_of
+candesartan,0,Antihypertensive Agents,0,is_subclass_of
+Prazosin,0,Antihypertensive Agents,0,is_subclass_of
+Losartan,0,Antihypertensive Agents,0,is_subclass_of
+Adrenergic beta-Antagonists,0,Antihypertensive Agents,0,is_subclass_of
+Ramipril,0,Antihypertensive Agents,0,is_subclass_of
+nebivolol,0,Antihypertensive Agents,0,is_subclass_of
+Diltiazem,0,Antihypertensive Agents,0,is_subclass_of
+Enalapril,0,Antihypertensive Agents,0,is_subclass_of
+aldosterone receptor blockers,0,Antihypertensive Agents,0,is_subclass_of
+omapatrilat,0,Antihypertensive Agents,0,is_subclass_of
+nitroprusside,0,Antihypertensive Agents,0,is_subclass_of
+Chlorothiazide,0,Antihypertensive Agents,0,is_subclass_of
+torsemide,0,Antihypertensive Agents,0,is_subclass_of
+Sodium Nitroprusside,0,Antihypertensive Agents,0,is_subclass_of
+Metoprolol,0,Antihypertensive Agents,0,is_subclass_of
+aliskiren,0,Antihypertensive Agents,0,is_subclass_of
+valsartan,0,Antihypertensive Agents,0,is_subclass_of
+hydrochlorothiazide,0,Antihypertensive Agents,0,is_subclass_of
+Fosinopril,0,Antihypertensive Agents,0,is_subclass_of
+Atenolol,0,Antihypertensive Agents,0,is_subclass_of
+Epoprostenol,0,Antihypertensive Agents,0,is_subclass_of
+Angiotensin II receptor antagonist,0,Antihypertensive Agents,0,is_subclass_of
+Bronchitis_ Chronic,0,Chronic Obstructive Airway Disease,0,is_subclass_of
+Renal arteriovenous malformation,0,Renal vascular disorder,0,is_subclass_of
+Renal Artery Stenosis,0,Renal vascular disorder,0,is_subclass_of
+Glucohemoglobin measurement,0,Hemoglobin measurement,0,is_subclass_of
+Gated Blood-Pool Imaging,0,Radionuclide Ventriculography,0,is_subclass_of
+Nesiritide,0,Natriuretic Peptides,0,is_subclass_of
+Bundle-Branch Block,0,Abnormal cardiac conduction,0,is_subclass_of
+Atrioventricular Block,0,Abnormal cardiac conduction,0,is_subclass_of
+Heart Block,0,Abnormal cardiac conduction,0,is_subclass_of
+Wolff-Parkinson-White Syndrome,0,Abnormal cardiac conduction,0,is_subclass_of
+Left anterior fascicular block,0,Abnormal cardiac conduction,0,is_subclass_of
+ST segment elevation (finding),0,Abnormal cardiac conduction,0,is_subclass_of
+ST segment depression (finding),0,Abnormal cardiac conduction,0,is_subclass_of
+Cardiac Arrest,0,Abnormal cardiac conduction,0,is_subclass_of
+Right bundle branch block,0,Abnormal cardiac conduction,0,is_subclass_of
+First degree AV block,0,Abnormal cardiac conduction,0,is_subclass_of
+Second degree atrioventricular block,0,Abnormal cardiac conduction,0,is_subclass_of
+Complete atrioventricular block,0,Abnormal cardiac conduction,0,is_subclass_of
+Increased diastolic arterial pressure,0,Elevated blood pressure,0,is_subclass_of
+Increased central venous pressure,0,Elevated blood pressure,0,is_subclass_of
+quinapril,0,Angiotensin-Converting Enzyme Inhibitors,0,is_subclass_of
+Perindopril,0,Angiotensin-Converting Enzyme Inhibitors,0,is_subclass_of
+trandolapril,0,Angiotensin-Converting Enzyme Inhibitors,0,is_subclass_of
+Lisinopril,0,Angiotensin-Converting Enzyme Inhibitors,0,is_subclass_of
+Captopril,0,Angiotensin-Converting Enzyme Inhibitors,0,is_subclass_of
+Ramipril,0,Angiotensin-Converting Enzyme Inhibitors,0,is_subclass_of
+Enalapril,0,Angiotensin-Converting Enzyme Inhibitors,0,is_subclass_of
+omapatrilat,0,Angiotensin-Converting Enzyme Inhibitors,0,is_subclass_of
+Fosinopril,0,Angiotensin-Converting Enzyme Inhibitors,0,is_subclass_of
+Acute posterior myocardial infarction,0,acute myocardial infarction,0,is_subclass_of
+Digoxin,0,Digitalis,0,is_subclass_of
+Hydroxymethylglutaryl-CoA Reductase Inhibitors,0,Antilipemic agent,0,is_subclass_of
+Peripheral edema,0,Edema,0,is_subclass_of
+Edema of extremity,0,Edema,0,is_subclass_of
+Elephantiasis Nostras Verrucosa,0,Edema,0,is_subclass_of
+Edema of lower extremity,0,Edema,0,is_subclass_of
+Pedal edema,0,Edema,0,is_subclass_of
+Edema of scrotum,0,Edema,0,is_subclass_of
+Tomography_ Emission-Computed_ Single-Photon,0,X-Ray Computed Tomography,0,is_subclass_of
+Positron-Emission Tomography,0,X-Ray Computed Tomography,0,is_subclass_of
+Cardiac CT,0,X-Ray Computed Tomography,0,is_subclass_of
+Primary idiopathic restrictive cardiomyopathy,0,Restrictive cardiomyopathy,0,is_subclass_of
+Transthoracic echocardiography,0,Echocardiography,0,is_subclass_of
+Echocardiography_ Three-Dimensional_,0,Echocardiography,0,is_subclass_of
+2D Echocardiography,0,Echocardiography,0,is_subclass_of
+Echocardiography_ Doppler,0,Echocardiography,0,is_subclass_of
+Doppler color flow velocity mapping,0,Echocardiography,0,is_subclass_of
+Phonocardiography,0,Echocardiography,0,is_subclass_of
+Echocardiography_ Transesophageal_,0,Echocardiography,0,is_subclass_of
+Intubation_ Endotracheal,0,Intubation,0,is_subclass_of
+Cardiomyopathy_ Familial Idiopathic,0,Cardiomyopathy_ Dilated,0,is_subclass_of
+Familial dilated cardiomyopathy,0,Cardiomyopathy_ Dilated,0,is_subclass_of
+Primary idiopathic hypertrophic cardiomyopathy,0,Hypertrophic Cardiomyopathy,0,is_subclass_of
+atorvastatin,0,Hydroxymethylglutaryl-CoA Reductase Inhibitors,0,is_subclass_of
+rosuvastatin,0,Hydroxymethylglutaryl-CoA Reductase Inhibitors,0,is_subclass_of
+Paroxysmal nocturnal dyspnea,0,Dyspnea_ Paroxysmal,0,is_subclass_of
+Cardiac asthma,0,Dyspnea_ Paroxysmal,0,is_subclass_of
+Kidney Failure_ Chronic,0,chronic kidney diseases,0,is_subclass_of
+coenzyme Q10,0,Vitamins,0,is_subclass_of
+Closure of patent foramen ovale,0,Atrioseptoplasty,0,is_subclass_of
+Paroxysmal supraventricular tachycardia,0,Supraventricular tachycardia,0,is_subclass_of
+Atrial tachycardia,0,Supraventricular tachycardia,0,is_subclass_of
+Low dose heparin prophylaxis,0,Anticoagulant prophylaxis,0,is_subclass_of
+peripheral arterial disease,0,peripheral vascular disease,0,is_subclass_of
+Paroxysmal nocturnal dyspnea,0,Dyspnea,0,is_subclass_of
+Labored breathing,0,Dyspnea,0,is_subclass_of
+Respiratory distress,0,Dyspnea,0,is_subclass_of
+Dyspnea on exertion,0,Dyspnea,0,is_subclass_of
+Dyspnea_ Paroxysmal,0,Dyspnea,0,is_subclass_of
+Nocturnal dyspnea,0,Dyspnea,0,is_subclass_of
+Orthopnea,0,Dyspnea,0,is_subclass_of
+eplerenone,0,Aldosterone Antagonists,0,is_subclass_of
+spironolactone,0,Aldosterone Antagonists,0,is_subclass_of
+Enhanced external counterpulsation,0,Cardiac support procedure,0,is_subclass_of
+Body fluid retention,0,Fluid overload,0,is_subclass_of
+Edema,0,Fluid overload,0,is_subclass_of
+Nocturnal cough,0,Coughing,0,is_subclass_of
+Hemoglobin A1c measurement,0,Glucohemoglobin measurement,0,is_subclass_of
+sex,0,person_attribute,0,is_subclass_of
+Diastolic hypertension,0,hypertension,0,is_subclass_of
+Hypertension_ Renovascular,0,hypertension,0,is_subclass_of
+Hypertension induced by pregnancy,0,hypertension,0,is_subclass_of
+Pulmonary Hypertension,0,hypertension,0,is_subclass_of
+Malignant Hypertension,0,hypertension,0,is_subclass_of
+Pre-Eclampsia,0,hypertension,0,is_subclass_of
+Hypertensive cardiovascular disease,0,hypertension,0,is_subclass_of
+Systolic hypertension,0,hypertension,0,is_subclass_of
+Myocardial Perfusion Imaging,0,Perfusion Imaging,0,is_subclass_of
+Oxidative Stress Analysis,0,Urinalysis,0,is_subclass_of
+Daunorubicin,0,Anthracyclines,0,is_subclass_of
+rheumatism,0,Connective tissue disease,0,is_subclass_of
+Rheumatic Fever,0,Connective tissue disease,0,is_subclass_of
+Collagen Diseases,0,Connective tissue disease,0,is_subclass_of
+Reactive systemic amyloidosis,0,Connective tissue disease,0,is_subclass_of
+Amyloidosis,0,Connective tissue disease,0,is_subclass_of
+Dermatomyositis,0,Connective tissue disease,0,is_subclass_of
+Lupus Erythematosus_ Systemic,0,Connective tissue disease,0,is_subclass_of
+Mixed Connective Tissue Disease,0,Connective tissue disease,0,is_subclass_of
+Primary amyloidosis,0,Connective tissue disease,0,is_subclass_of
+Lupus Erythematosus,0,Connective tissue disease,0,is_subclass_of
+Systemic Scleroderma,0,Connective tissue disease,0,is_subclass_of
+Percutaneous Transluminal Coronary Angioplasty,0,Angioplasty,0,is_subclass_of
+Partial excision of left ventricle of heart,0,Resection of left ventricle of heart,0,is_subclass_of
+Holter Electrocardiography,0,Electrocardiography_ Ambulatory,0,is_subclass_of
+infliximab,0,Anti-Inflammatory Agents,0,is_subclass_of
+Anti-tumor necrosis factor alpha drug,0,Anti-Inflammatory Agents,0,is_subclass_of
+Glucocorticoids,0,Anti-Inflammatory Agents,0,is_subclass_of
+Anti-Inflammatory Agents_ Non-Steroidal,0,Anti-Inflammatory Agents,0,is_subclass_of
+Cheyne-Stokes Respiration,0,Respiration intermittent,0,is_subclass_of
+Tetralogy of Fallot,0,Congenital heart disease,0,is_subclass_of
+Arrhythmogenic Right Ventricular Dysplasia,0,Congenital heart disease,0,is_subclass_of
+Transposition of Great Vessels,0,Congenital heart disease,0,is_subclass_of
+Dry body weight (observable entity),0,Body Weight,0,is_subclass_of
+Troponin I measurement,0,Troponin measurement,0,is_subclass_of
+Blood pressure monitoring,0,Blood pressure determination,0,is_subclass_of
+Hydralazine / Isosorbide Dinitrate,0,hydralazine,0,is_subclass_of
+Hydralazine Hydrochloride,0,hydralazine,0,is_subclass_of
+Bidil,0,hydralazine,0,is_subclass_of
+isosorbide-hydralazine combination,0,hydralazine,0,is_subclass_of
+Angina Pectoris,0,Coronary heart disease,0,is_subclass_of
+Coronary Arteriosclerosis,0,Coronary heart disease,0,is_subclass_of
+Primary idiopathic hypertrophic cardiomyopathy,0,Primary cardiomyopathy,0,is_subclass_of
+Familial cardiomyopathy,0,Primary cardiomyopathy,0,is_subclass_of
+Restrictive cardiomyopathy,0,Primary cardiomyopathy,0,is_subclass_of
+Cardiomyopathy_ Dilated,0,Primary cardiomyopathy,0,is_subclass_of
+Heart-Lung Transplantation,0,Organ Transplantation,0,is_subclass_of
+Heart Transplantation,0,Organ Transplantation,0,is_subclass_of
+Acetazolamide,0,Carbonic Anhydrase Inhibitors,0,is_subclass_of
+Percutaneous transluminal pericardiocentesis,0,Pericardiocentesis,0,is_subclass_of
+Atherosclerosis,0,Chronic myocardial ischemia,0,is_subclass_of
+Coronary Arteriosclerosis,0,Chronic myocardial ischemia,0,is_subclass_of
+Old myocardial infarction,0,Chronic myocardial ischemia,0,is_subclass_of
+Ischemic cardiomyopathy,0,Chronic myocardial ischemia,0,is_subclass_of
+Somnolence,0,Mental Depression,0,is_subclass_of
+CT angiography of coronary arteries,0,Cardiac CT,0,is_subclass_of
+Warfarin,0,Anticoagulants_ Oral,0,is_subclass_of
+Nortriptyline,0,Antidepressants_ Tricyclic,0,is_subclass_of
+Alcohol abuse,0,Substance Abuse,0,is_subclass_of
+Alcoholic Intoxication_ Chronic,0,Substance Abuse,0,is_subclass_of
+N terminal pro-brain natriuretic peptide level,0,Brain natriuretic peptide measurement,0,is_subclass_of
+Serum pro-brain natriuretic peptide level,0,Brain natriuretic peptide measurement,0,is_subclass_of
+Bacterial Endocarditis,0,Endocarditis,0,is_subclass_of
+Mitral Valve Annuloplasty,0,Mitral valvuloplasty,0,is_subclass_of
+CT angiography of coronary arteries,0,Coronary angiography,0,is_subclass_of
+Toprol-XL,0,metoprolol succinate,0,is_subclass_of
+Hypophosphatemia,0,Electrolytes abnormal,0,is_subclass_of
+Hyperkalemia,0,Electrolytes abnormal,0,is_subclass_of
+Hypokalemia,0,Electrolytes abnormal,0,is_subclass_of
+Hypernatremia,0,Electrolytes abnormal,0,is_subclass_of
+Hyponatremia,0,Electrolytes abnormal,0,is_subclass_of
+Albuminuria,0,Abnormal renal function,0,is_subclass_of
+acute renal insufficiency,0,Abnormal renal function,0,is_subclass_of
+Kidney Failure_ Acute,0,Abnormal renal function,0,is_subclass_of
+Aldactone,0,spironolactone,0,is_subclass_of
+eplerenone,0,spironolactone,0,is_subclass_of
+Right ventricular ejection fraction (observable entity),0,Cardiac ejection fraction,0,is_subclass_of
+Angina Pectoris,0,Myocardial Ischemia,0,is_subclass_of
+Myocardial Infarction,0,Myocardial Ischemia,0,is_subclass_of
+acute myocardial infarction,0,Myocardial Ischemia,0,is_subclass_of
+Old myocardial infarction,0,Myocardial Ischemia,0,is_subclass_of
+Acute Coronary Syndrome,0,Myocardial Ischemia,0,is_subclass_of
+Chronic myocardial ischemia,0,Myocardial Ischemia,0,is_subclass_of
+Acute myocardial ischemia,0,Myocardial Ischemia,0,is_subclass_of
+Angina_ Unstable,0,Myocardial Ischemia,0,is_subclass_of
+Apnea_ Sleep,0,Sleep Disorders,0,is_subclass_of
+Haemofiltration,0,Ultrafiltration,0,is_subclass_of
+bucindolol,0,Adrenergic beta-Antagonists,0,is_subclass_of
+esmolol,0,Adrenergic beta-Antagonists,0,is_subclass_of
+Bisoprolol,0,Adrenergic beta-Antagonists,0,is_subclass_of
+Carvedilol,0,Adrenergic beta-Antagonists,0,is_subclass_of
+metoprolol succinate,0,Adrenergic beta-Antagonists,0,is_subclass_of
+nebivolol,0,Adrenergic beta-Antagonists,0,is_subclass_of
+Metoprolol,0,Adrenergic beta-Antagonists,0,is_subclass_of
+Atenolol,0,Adrenergic beta-Antagonists,0,is_subclass_of
+infliximab,0,Tumor Necrosis Factor (TNF) Inhibitors,0,is_subclass_of
+Etanercept,0,Tumor Necrosis Factor (TNF) Inhibitors,0,is_subclass_of
+Radionuclide Ventriculography,0,Radionuclide Angiography,0,is_subclass_of
+Paroxysmal nocturnal dyspnea,0,Nocturnal dyspnea,0,is_subclass_of
+Adrenergic beta-2 Receptor Agonists,0,Adrenergic beta-Agonists,0,is_subclass_of
+hospice care,0,terminal patient care,0,is_subclass_of
+Sudden unexpected nocturnal death syndrome,0,brugada syndrome,0,is_subclass_of
+Acquired Immunodeficiency Syndrome,0,sexually transmitted infectious disease,0,is_subclass_of
+HIV Infections,0,sexually transmitted infectious disease,0,is_subclass_of
+Chlorothiazide,0,Thiazides,0,is_subclass_of
+Pulmonary Edema,0,Left ventricular failure,0,is_subclass_of
+Growth hormone excess,0,Acromegaly,0,is_subclass_of
+African American,0,Blacks,0,is_subclass_of
+Becker Muscular Dystrophy,0,Muscular Dystrophy_ Duchenne,0,is_subclass_of
+Influenza,0,Viral infection,0,is_subclass_of
+HIV Infections,0,Viral infection,0,is_subclass_of
+sexually transmitted infectious disease,0,Viral infection,0,is_subclass_of
+Congenitally corrected transposition of the great arteries,0,Transposition of Great Vessels,0,is_subclass_of
+Lithium,0,Antidepressive Agents,0,is_subclass_of
+Epirubicin,0,Doxorubicin,0,is_subclass_of
+Adriamycin,0,Doxorubicin,0,is_subclass_of
+Implantation of right ventricular assist device,0,Implantation of ventricular assist device,0,is_subclass_of
+Implantation of left ventricular assist device,0,Implantation of ventricular assist device,0,is_subclass_of
+Implantation of biventricular assist device,0,Implantation of ventricular assist device,0,is_subclass_of
+Platelet Count measurement,0,Blood Cell Count,0,is_subclass_of
+Complete Blood Count,0,Blood Cell Count,0,is_subclass_of
+Muscular Dystrophy_ Duchenne,0,Muscular Dystrophy,0,is_subclass_of
+Muscular Dystrophies_ Limb-Girdle,0,Muscular Dystrophy,0,is_subclass_of
+Becker Muscular Dystrophy,0,Muscular Dystrophy,0,is_subclass_of
+Lupus Erythematosus_ Systemic,0,Lupus Erythematosus,0,is_subclass_of
+Morphine Sulfate,0,Morphine,0,is_subclass_of
+Hydralazine / Isosorbide Dinitrate,0,isosorbide-hydralazine combination,0,is_subclass_of
+Bidil,0,isosorbide-hydralazine combination,0,is_subclass_of
+ECG: left ventricular strain,0,Abnormal electrocardiogram,0,is_subclass_of
+ECG: T wave abnormal,0,Abnormal electrocardiogram,0,is_subclass_of
+ECG myocardial ischemia,0,Abnormal electrocardiogram,0,is_subclass_of
+Electrocardiogram: myocardial infarction (finding),0,Abnormal electrocardiogram,0,is_subclass_of
+Low ventricular voltage by EKG,0,Abnormal electrocardiogram,0,is_subclass_of
+Wide QRS complex,0,Abnormal electrocardiogram,0,is_subclass_of
+ECG: Q wave abnormal,0,Abnormal electrocardiogram,0,is_subclass_of
+Pleural Rub,0,Signs_symptoms,0,is_subclass_of
+precordial thrill,0,Signs_symptoms,0,is_subclass_of
+Raised jugular venous pressure,0,Signs_symptoms,0,is_subclass_of
+Exercise capacity decreased,0,Signs_symptoms,0,is_subclass_of
+Ventricular enlargement,0,Signs_symptoms,0,is_subclass_of
+Pain or discomfort caused by edema,0,Signs_symptoms,0,is_subclass_of
+Confusion,0,Signs_symptoms,0,is_subclass_of
+Systolic Pressure,0,Signs_symptoms,0,is_subclass_of
+Livedo Reticularis,0,Signs_symptoms,0,is_subclass_of
+Flash pulmonary oedema,0,Signs_symptoms,0,is_subclass_of
+Resting Dyspnea,0,Signs_symptoms,0,is_subclass_of
+Tachypnea,0,Signs_symptoms,0,is_subclass_of
+Chest dull to percussion,0,Signs_symptoms,0,is_subclass_of
+Pulse irregular,0,Signs_symptoms,0,is_subclass_of
+Vital signs,0,Signs_symptoms,0,is_subclass_of
+Structure of jugular vein,0,Signs_symptoms,0,is_subclass_of
+Nausea,0,Signs_symptoms,0,is_subclass_of
+Apex beat displaced,0,Signs_symptoms,0,is_subclass_of
+Increased venous pressure,0,Signs_symptoms,0,is_subclass_of
+Hypovolemia,0,Signs_symptoms,0,is_subclass_of
+Bloated feeling,0,Signs_symptoms,0,is_subclass_of
+Vomiting,0,Signs_symptoms,0,is_subclass_of
+Nocturnal awakening,0,Signs_symptoms,0,is_subclass_of
+Icterus,0,Signs_symptoms,0,is_subclass_of
+Apex beat sustained,0,Signs_symptoms,0,is_subclass_of
+Unable to walk,0,Signs_symptoms,0,is_subclass_of
+diffusely distended veins of neck,0,Signs_symptoms,0,is_subclass_of
+presacral edema,0,Signs_symptoms,0,is_subclass_of
+Cyanosis,0,Signs_symptoms,0,is_subclass_of
+TRICUSPID REGURGITATION MURMUR,0,Signs_symptoms,0,is_subclass_of
+Jugular venous pressure,0,Signs_symptoms,0,is_subclass_of
+Dizziness,0,Signs_symptoms,0,is_subclass_of
+Early satiety,0,Signs_symptoms,0,is_subclass_of
+Cardiomyopathy_ Familial Idiopathic,0,Signs_symptoms,0,is_subclass_of
+diminished mental acuity,0,Signs_symptoms,0,is_subclass_of
+right upper quadrant discomfort,0,Signs_symptoms,0,is_subclass_of
+height of rales,0,Signs_symptoms,0,is_subclass_of
+Oxygen saturation measurement,0,Signs_symptoms,0,is_subclass_of
+Pleural effusion disorder,0,Signs_symptoms,0,is_subclass_of
+cool_ mottled extremities,0,Signs_symptoms,0,is_subclass_of
+adequacy of perfusion,0,Signs_symptoms,0,is_subclass_of
+improved exercise duration,0,Signs_symptoms,0,is_subclass_of
+Ventricular filling pressure increased,0,Signs_symptoms,0,is_subclass_of
+displaced_ diffuse heave,0,Signs_symptoms,0,is_subclass_of
+Cardiac asthma,0,Signs_symptoms,0,is_subclass_of
+Hypotension symptomatic,0,Signs_symptoms,0,is_subclass_of
+peripheral coolness,0,Signs_symptoms,0,is_subclass_of
+Hepatomegaly,0,Signs_symptoms,0,is_subclass_of
+tissue wasting,0,Signs_symptoms,0,is_subclass_of
+Hepatojugular reflux,0,Signs_symptoms,0,is_subclass_of
+Diaphoresis,0,Signs_symptoms,0,is_subclass_of
+Shock,0,Signs_symptoms,0,is_subclass_of
+Pulsus alternans,0,Signs_symptoms,0,is_subclass_of
+Orthostatic blood pressure,0,Signs_symptoms,0,is_subclass_of
+Mottled skin,0,Signs_symptoms,0,is_subclass_of
+Abdomen distended,0,Signs_symptoms,0,is_subclass_of
+Irritable Mood,0,Signs_symptoms,0,is_subclass_of
+Hepatic congestion,0,Signs_symptoms,0,is_subclass_of
+Syncope,0,Signs_symptoms,0,is_subclass_of
+Air hunger,0,Signs_symptoms,0,is_subclass_of
+Hypothermia_ natural,0,Signs_symptoms,0,is_subclass_of
+Cardiac Arrhythmia,0,Signs_symptoms,0,is_subclass_of
+Exertional angina,0,Signs_symptoms,0,is_subclass_of
+Cardiomegaly,0,Signs_symptoms,0,is_subclass_of
+palpable pulmonary artery pulsations,0,Signs_symptoms,0,is_subclass_of
+Systolic Murmurs,0,Signs_symptoms,0,is_subclass_of
+Impaired exercise tolerance,0,Signs_symptoms,0,is_subclass_of
+Dysglycemia,0,Signs_symptoms,0,is_subclass_of
+Body Height,0,Signs_symptoms,0,is_subclass_of
+signs of peripheral hypoperfusion,0,Signs_symptoms,0,is_subclass_of
+Narrow pulse pressure,0,Signs_symptoms,0,is_subclass_of
+Body mass index procedure,0,Signs_symptoms,0,is_subclass_of
+Exercise Tolerance,0,Signs_symptoms,0,is_subclass_of
+Heart murmur,0,Signs_symptoms,0,is_subclass_of
+cha2ds2-vasc,0,Signs_symptoms,0,is_subclass_of
+Elevated blood pressure,0,Signs_symptoms,0,is_subclass_of
+Physical activity decreased,0,Signs_symptoms,0,is_subclass_of
+PARASTERNAL LIFT,0,Signs_symptoms,0,is_subclass_of
+blood pressure response to valsalva maneuver,0,Signs_symptoms,0,is_subclass_of
+symptoms related to hypoxemia,0,Signs_symptoms,0,is_subclass_of
+Hypoxia,0,Signs_symptoms,0,is_subclass_of
+Body weight:Cmplx:Enctr^frst:^Patient:Set,0,Signs_symptoms,0,is_subclass_of
+mitral and tricuspid insufficiency murmurs,0,Signs_symptoms,0,is_subclass_of
+Nocturia,0,Signs_symptoms,0,is_subclass_of
+Rhonchi,0,Signs_symptoms,0,is_subclass_of
+loss of mental acuity,0,Signs_symptoms,0,is_subclass_of
+Decreased breath sounds,0,Signs_symptoms,0,is_subclass_of
+Dyspnea,0,Signs_symptoms,0,is_subclass_of
+Fluid overload,0,Signs_symptoms,0,is_subclass_of
+Coughing,0,Signs_symptoms,0,is_subclass_of
+hypertension,0,Signs_symptoms,0,is_subclass_of
+PULMONARY EDEMA INTERSTITIAL,0,Signs_symptoms,0,is_subclass_of
+palpable filling waves,0,Signs_symptoms,0,is_subclass_of
+Basilar Rales,0,Signs_symptoms,0,is_subclass_of
+Low Cardiac Output,0,Signs_symptoms,0,is_subclass_of
+Jugular venous pulse,0,Signs_symptoms,0,is_subclass_of
+Diaphoretic,0,Signs_symptoms,0,is_subclass_of
+Body Weight,0,Signs_symptoms,0,is_subclass_of
+Blood pressure determination,0,Signs_symptoms,0,is_subclass_of
+Disturbance in mood,0,Signs_symptoms,0,is_subclass_of
+Uncontrolled hypertension,0,Signs_symptoms,0,is_subclass_of
+Cold extremities,0,Signs_symptoms,0,is_subclass_of
+Peripheral perfusion,0,Signs_symptoms,0,is_subclass_of
+Congestion,0,Signs_symptoms,0,is_subclass_of
+MITRAL REGURGITATION MURMUR,0,Signs_symptoms,0,is_subclass_of
+Sinus Tachycardia,0,Signs_symptoms,0,is_subclass_of
+Left ventricular ejection fraction decreased,0,Signs_symptoms,0,is_subclass_of
+Muscle Weakness,0,Signs_symptoms,0,is_subclass_of
+pulmonary rales,0,Signs_symptoms,0,is_subclass_of
+Beau's lines,0,Signs_symptoms,0,is_subclass_of
+tricuspid or mitral regurgitant murmur,0,Signs_symptoms,0,is_subclass_of
+Xerostomia,0,Signs_symptoms,0,is_subclass_of
+has-bled score,0,Signs_symptoms,0,is_subclass_of
+improvement in exercise capacity,0,Signs_symptoms,0,is_subclass_of
+systolic hypotension,0,Signs_symptoms,0,is_subclass_of
+Decreased systolic arterial pressure,0,Signs_symptoms,0,is_subclass_of
+Cachexia,0,Signs_symptoms,0,is_subclass_of
+overall blood pressure,0,Signs_symptoms,0,is_subclass_of
+Anxiety,0,Signs_symptoms,0,is_subclass_of
+liver edge moderate pulsatile enlargement,0,Signs_symptoms,0,is_subclass_of
+ambulatory,0,Signs_symptoms,0,is_subclass_of
+acute dyspnea,0,Signs_symptoms,0,is_subclass_of
+Jugular vein distension,0,Signs_symptoms,0,is_subclass_of
+Blood pressure systolic and diastolic,0,Signs_symptoms,0,is_subclass_of
+Increased abdominal girth,0,Signs_symptoms,0,is_subclass_of
+Rales,0,Signs_symptoms,0,is_subclass_of
+New York Heart Classification finding,0,Signs_symptoms,0,is_subclass_of
+Bedridden,0,Signs_symptoms,0,is_subclass_of
+Depressive disorder,0,Signs_symptoms,0,is_subclass_of
+Extremity skin temperature,0,Signs_symptoms,0,is_subclass_of
+Weight Gain,0,Signs_symptoms,0,is_subclass_of
+Ascites,0,Signs_symptoms,0,is_subclass_of
+Right ventricular heave,0,Signs_symptoms,0,is_subclass_of
+Supine hypotension,0,Signs_symptoms,0,is_subclass_of
+Hypotension_ Orthostatic,0,Signs_symptoms,0,is_subclass_of
+Sleep disturbances,0,Signs_symptoms,0,is_subclass_of
+Swelling,0,Signs_symptoms,0,is_subclass_of
+Pain,0,Signs_symptoms,0,is_subclass_of
+Waist Circumference,0,Signs_symptoms,0,is_subclass_of
+Muscular Atrophy,0,Signs_symptoms,0,is_subclass_of
+purple-blue nail bed,0,Signs_symptoms,0,is_subclass_of
+Valsalva Maneuver,0,Signs_symptoms,0,is_subclass_of
+increased time to recover after exercise,0,Signs_symptoms,0,is_subclass_of
+Jugular venous engorgement,0,Signs_symptoms,0,is_subclass_of
+Pulmonary Edema,0,Signs_symptoms,0,is_subclass_of
+Fatigue,0,Signs_symptoms,0,is_subclass_of
+Added heart sounds,0,Signs_symptoms,0,is_subclass_of
+Ileus,0,Signs_symptoms,0,is_subclass_of
+dyskinetic area over the precordium,0,Signs_symptoms,0,is_subclass_of
+examination of apical impulse,0,Signs_symptoms,0,is_subclass_of
+Body Weight decreased,0,Signs_symptoms,0,is_subclass_of
+jugular venous pulsations,0,Signs_symptoms,0,is_subclass_of
+giant v waves,0,Signs_symptoms,0,is_subclass_of
+elevated neck veins,0,Signs_symptoms,0,is_subclass_of
+diminished volume or low-amplitude central arterial (i.e._ femoral or carotid) pulses,0,Signs_symptoms,0,is_subclass_of
+mobility requires assistance,0,Signs_symptoms,0,is_subclass_of
+Anorexia,0,Signs_symptoms,0,is_subclass_of
+Feeling hopeless,0,Signs_symptoms,0,is_subclass_of
+diminished airflow,0,Signs_symptoms,0,is_subclass_of
+Diastolic blood pressure,0,Signs_symptoms,0,is_subclass_of
+cyclic respiration,0,Signs_symptoms,0,is_subclass_of
+positive abdominojugular reflux,0,Signs_symptoms,0,is_subclass_of
+Wheezing,0,Signs_symptoms,0,is_subclass_of
+Breath Holding,0,Signs_symptoms,0,is_subclass_of
+terry nails,0,Signs_symptoms,0,is_subclass_of
+Pallor,0,Signs_symptoms,0,is_subclass_of
+VENOUS STASIS CHRONIC CHANGE,0,Signs_symptoms,0,is_subclass_of
+Pulse Pressure,0,Signs_symptoms,0,is_subclass_of
+Mean Arterial Pressure,0,Signs_symptoms,0,is_subclass_of
+exercise capacity,0,Signs_symptoms,0,is_subclass_of
+Left anterior fascicular block,0,Left Bundle-Branch Block,0,is_subclass_of
+Hypertensive heart failure,0,Hypertensive cardiovascular disease,0,is_subclass_of
+tachyarrhythmia,0,Tachycardia,0,is_subclass_of
+Palpitations,0,Tachycardia,0,is_subclass_of
+Supraventricular tachycardia,0,Tachycardia,0,is_subclass_of
+Sinus Tachycardia,0,Tachycardia,0,is_subclass_of
+Tachycardia_ Ventricular,0,Tachycardia,0,is_subclass_of
+Sodium Nitroprusside,0,nitroprusside,0,is_subclass_of
+Ventricular Fibrillation,0,Cardiac Arrest,0,is_subclass_of
+Sudden Cardiac Death,0,Cardiac Arrest,0,is_subclass_of
+hydrochlorothiazide,0,Chlorothiazide,0,is_subclass_of
+Collagen Diseases,0,collagen vascular disease,0,is_subclass_of
+Dermatomyositis,0,collagen vascular disease,0,is_subclass_of
+Lupus Erythematosus_ Systemic,0,collagen vascular disease,0,is_subclass_of
+Rheumatoid Arthritis,0,collagen vascular disease,0,is_subclass_of
+Swollen legs,0,Edema of lower extremity,0,is_subclass_of
+Pedal edema,0,Edema of lower extremity,0,is_subclass_of
+Ankle edema (finding),0,Edema of lower extremity,0,is_subclass_of
+Omega-3 Fatty Acids,0,FISH OIL,0,is_subclass_of
+Pulmonary Hypertension,0,Cor pulmonale,0,is_subclass_of
+Cardiac cachexia,0,Cachexia,0,is_subclass_of
+Bilirubin_ direct measurement,0,Bilirubin Measurement,0,is_subclass_of
+Magnetic resonance imaging of cardiac ventricles (procedure),0,Cardiac ventriculography,0,is_subclass_of
+Radionuclide Ventriculography,0,Cardiac ventriculography,0,is_subclass_of
+Left ventriculogram,0,Cardiac ventriculography,0,is_subclass_of
+Magnetic resonance imaging of cardiac ventricles (procedure),0,Magnetic Resonance Imaging (MRI) of Heart,0,is_subclass_of
+Magnetic resonance imaging angiography of cardiac ventricles (procedure),0,Magnetic Resonance Imaging (MRI) of Heart,0,is_subclass_of
+Magnetic resonance imaging of heart for assessment of myocardial viability,0,Magnetic Resonance Imaging (MRI) of Heart,0,is_subclass_of
+Hypertrophic Cardiomyopathy,0,Left Ventricular Hypertrophy,0,is_subclass_of
+multidetector computed tomography angiography of heart,0,CT angiography,0,is_subclass_of
+Losartan,0,Angiotensin Receptor Antagonists,0,is_subclass_of
+Angiotensin II receptor antagonist,0,Angiotensin Receptor Antagonists,0,is_subclass_of
+Magnetic Resonance Imaging_ Cine,0,Magnetic Resonance Imaging,0,is_subclass_of
+Magnetic Resonance Imaging (MRI) of Heart,0,Magnetic Resonance Imaging,0,is_subclass_of
+Obesity_ Abdominal,0,Obesity,0,is_subclass_of
+Atrio-Biventricular Pacing,0,Cardiac Resynchronization Therapy,0,is_subclass_of
+Premature ventricular contractions,0,Ventricular arrhythmia,0,is_subclass_of
+Idioventricular rhythm,0,Ventricular arrhythmia,0,is_subclass_of
+brugada syndrome,0,Ventricular arrhythmia,0,is_subclass_of
+Ventricular Fibrillation,0,Ventricular arrhythmia,0,is_subclass_of
+Tachycardia_ Ventricular,0,Ventricular arrhythmia,0,is_subclass_of
+Doxorubicin,0,Daunorubicin,0,is_subclass_of
+idarubicin,0,Daunorubicin,0,is_subclass_of
+Measurement of liver enzyme,0,Liver Function Tests,0,is_subclass_of
+Alanine aminotransferase measurement,0,Liver Function Tests,0,is_subclass_of
+Bilirubin_ direct measurement,0,Liver Function Tests,0,is_subclass_of
+Inspiratory crackles,0,Rales,0,is_subclass_of
+Hereditary hemochromatosis,0,Hemochromatosis,0,is_subclass_of
+New York Heart Association Classification - Class IV,0,New York Heart Classification finding,0,is_subclass_of
+New York Heart Association Classification - Class III,0,New York Heart Classification finding,0,is_subclass_of
+Sinus rhythm,0,Atrial arrhythmia,0,is_subclass_of
+Atrial tachycardia,0,Atrial arrhythmia,0,is_subclass_of
+Sinus bradycardia,0,Atrial arrhythmia,0,is_subclass_of
+Atrial Fibrillation,0,Atrial arrhythmia,0,is_subclass_of
+Atrial Flutter,0,Atrial arrhythmia,0,is_subclass_of
+Herceptin,0,trastuzumab,0,is_subclass_of
+Cardiogenic pulmonary edema,0,Acute pulmonary edema,0,is_subclass_of
+Mental Depression,0,Depressive disorder,0,is_subclass_of
+Mitral Valve Stenosis,0,mitral valvular disease,0,is_subclass_of
+Mitral Regurgitation,0,mitral valvular disease,0,is_subclass_of
+Sleep Apnea_ Central,0,Apnea_ Sleep,0,is_subclass_of
+Obstructive sleep apnoea,0,Apnea_ Sleep,0,is_subclass_of
+Bundle-Branch Block,0,Intraventricular conduction defect,0,is_subclass_of
+Takotsubo Cardiomyopathy,0,Ventricular Dysfunction_ Left,0,is_subclass_of
+Blood pressure monitoring,0,Cardiovascular monitoring,0,is_subclass_of
+arterial blood gas,0,Cardiovascular monitoring,0,is_subclass_of
+Invasive hemodynamic monitoring (regime/therapy),0,Cardiovascular monitoring,0,is_subclass_of
+Cardiac sarcoidosis,0,Sarcoidosis,0,is_subclass_of
+Clozapine,0,Carbamazepine,0,is_subclass_of
+Aldosterone Antagonists,0,Potassium Sparing Diuretics,0,is_subclass_of
+spironolactone,0,Potassium Sparing Diuretics,0,is_subclass_of
+Amiloride,0,Potassium Sparing Diuretics,0,is_subclass_of
+triamterene,0,Potassium Sparing Diuretics,0,is_subclass_of
+Glycogen Storage Disease,0,Storage disease,0,is_subclass_of
+Chagas Disease,0,Trypanosomiasis,0,is_subclass_of
+Acute mitral regurgitation,0,Mitral Regurgitation,0,is_subclass_of
+Transdermal nitroglycerin,0,Nitroglycerin,0,is_subclass_of
+Beriberi,0,Thiamine Deficiency,0,is_subclass_of
+Reactive systemic amyloidosis,0,Systemic amyloidosis,0,is_subclass_of
+metoprolol succinate,0,Metoprolol,0,is_subclass_of
+heart rate,0,Cardiac rhythm type,0,is_subclass_of
+Sleeplessness,0,Sleep disturbances,0,is_subclass_of
+Apnea_ Sleep,0,Sleep disturbances,0,is_subclass_of
+Peripheral edema,0,Swelling,0,is_subclass_of
+Edema,0,Swelling,0,is_subclass_of
+Edema of lower extremity,0,Swelling,0,is_subclass_of
+Pedal edema,0,Swelling,0,is_subclass_of
+Edema of scrotum,0,Swelling,0,is_subclass_of
+Swelling of limb,0,Swelling,0,is_subclass_of
+Mitral valvuloplasty,0,Repair of heart valve,0,is_subclass_of
+Valvuloplasty of aortic valve,0,Repair of heart valve,0,is_subclass_of
+Chest Pain,0,Pain,0,is_subclass_of
+Abdominal Pain,0,Pain,0,is_subclass_of
+Angina Pectoris,0,Pain,0,is_subclass_of
+jaw pain,0,Pain,0,is_subclass_of
+arm pain,0,Pain,0,is_subclass_of
+Musculoskeletal Pain,0,Pain,0,is_subclass_of
+Lobar Pneumonia,0,pneumonia,0,is_subclass_of
+Obesity,0,Hypertrophy,0,is_subclass_of
+Anabolic steroids,0,Androgens,0,is_subclass_of
+Heart-Lung Transplantation,0,Heart Transplantation,0,is_subclass_of
+Type 1 diabetes,0,Diabetes Mellitus,0,is_subclass_of
+Hyperglycemia,0,Diabetes Mellitus,0,is_subclass_of
+Repair of aortic valve without replacement,0,Valvuloplasty of aortic valve,0,is_subclass_of
+Sinus bradycardia,0,Bradycardia,0,is_subclass_of
+Coronary angiography,0,angiogram,0,is_subclass_of
+Radionuclide Angiography,0,angiogram,0,is_subclass_of
+CT angiography,0,angiogram,0,is_subclass_of
+Rheumatic disease of heart valve,0,Heart valve disease,0,is_subclass_of
+Tricuspid Regurgitation,0,Heart valve disease,0,is_subclass_of
+primary valvular heart disease,0,Heart valve disease,0,is_subclass_of
+Aortic Regurgitation,0,Heart valve disease,0,is_subclass_of
+Aortic Valve Stenosis,0,Heart valve disease,0,is_subclass_of
+Rupture of papillary muscle,0,Heart valve disease,0,is_subclass_of
+Mitral Valve Stenosis,0,Heart valve disease,0,is_subclass_of
+mitral valvular disease,0,Heart valve disease,0,is_subclass_of
+Mitral Regurgitation,0,Heart valve disease,0,is_subclass_of
+Bacterial Endocarditis,0,Heart valve disease,0,is_subclass_of
+Protodiastolic gallop with abnormally audible third heart sound,0,S3 - Third heart sound,0,is_subclass_of
+Norepinephrine,0,Epinephrine,0,is_subclass_of
+Congenital muscular dystrophy (disorder),0,myopathy,0,is_subclass_of
+Myocardial disease,0,myopathy,0,is_subclass_of
+Muscular Dystrophy,0,myopathy,0,is_subclass_of
+Myasthenia Gravis,0,myopathy,0,is_subclass_of
+Muscular Dystrophies_ Limb-Girdle,0,myopathy,0,is_subclass_of
+Swollen legs,0,Swelling of limb,0,is_subclass_of
+Acute pulmonary edema,0,Pulmonary Edema,0,is_subclass_of
+Pulmonary congestion,0,Pulmonary Edema,0,is_subclass_of
+infliximab,0,Monoclonal Antibodies,0,is_subclass_of
+trastuzumab,0,Monoclonal Antibodies,0,is_subclass_of
+Tacrolimus,0,mTOR Inhibitor,0,is_subclass_of
+everolimus,0,mTOR Inhibitor,0,is_subclass_of
+Asthenia,0,Fatigue,0,is_subclass_of
+Atrial sound,0,Added heart sounds,0,is_subclass_of
+Gallop rhythm,0,Added heart sounds,0,is_subclass_of
+S3 - Third heart sound,0,Added heart sounds,0,is_subclass_of
+Hyperlipidemia,0,Dyslipidemias,0,is_subclass_of
+Blood urea nitrogen measurement,0,Kidney Function Tests,0,is_subclass_of
+Creatinine measurement_ serum (procedure),0,Kidney Function Tests,0,is_subclass_of
+Glomerular Filtration Rate,0,Kidney Function Tests,0,is_subclass_of
+Creatinine clearance measurement,0,Kidney Function Tests,0,is_subclass_of
+Acute massive pulmonary embolism,0,Pulmonary Embolism,0,is_subclass_of
+Chronic Kidney Insufficiency,0,Kidney Failure_ Chronic,0,is_subclass_of
+Implantable defibrillator,0,Heart_ Artificial,0,is_subclass_of
+Serum uric acid,0,Uric acid measurement (procedure),0,is_subclass_of
+Sustained ventricular tachycardia,0,Tachycardia_ Ventricular,0,is_subclass_of
+Nonsustained ventricular tachycardia,0,Tachycardia_ Ventricular,0,is_subclass_of
+Holter monitor 24-hour,0,Holter Electrocardiography,0,is_subclass_of
+Food_ Supplemented,0,nutritional supplements,0,is_subclass_of
+Monitoring of cardiac output using continuous esophageal doppler,0,Monitoring of cardiac output/cardiac index,0,is_subclass_of
+Hypercapnia,0,Acidosis_ Respiratory,0,is_subclass_of
+Felodipine,0,Dihydropyridine Calcium Channel Blocker,0,is_subclass_of
+Amlodipine,0,Dihydropyridine Calcium Channel Blocker,0,is_subclass_of
+Nifedipine,0,Dihydropyridine Calcium Channel Blocker,0,is_subclass_of
+rosiglitazone,0,Thiazolidinediones,0,is_subclass_of
+Hemopericardium,0,Pericardial effusion,0,is_subclass_of
+Glycogen Storage Disease,0,Neuromuscular Diseases,0,is_subclass_of
+Muscular Dystrophy,0,Neuromuscular Diseases,0,is_subclass_of
+Myasthenia Gravis,0,Neuromuscular Diseases,0,is_subclass_of
+myopathy,0,Neuromuscular Diseases,0,is_subclass_of
+hospice care,0,Palliative Care,0,is_subclass_of
+Permanent atrial fibrillation,0,Atrial Fibrillation,0,is_subclass_of
+Myocardial biopsy,0,Biopsy of heart,0,is_subclass_of
+Open right ventricular biopsy,0,Biopsy of heart,0,is_subclass_of
+Endomyocardial biopsy (procedure),0,Biopsy of heart,0,is_subclass_of
+Respiration intermittent,0,Breath Holding,0,is_subclass_of
+Supraventricular tachyarrhythmia,0,Supraventricular arrhythmia,0,is_subclass_of
+Supraventricular tachycardia,0,Supraventricular arrhythmia,0,is_subclass_of
+Atrial tachycardia,0,Supraventricular arrhythmia,0,is_subclass_of
+Sick Sinus Syndrome,0,Supraventricular arrhythmia,0,is_subclass_of
+Atrial arrhythmia,0,Supraventricular arrhythmia,0,is_subclass_of
+Atrial Fibrillation,0,Supraventricular arrhythmia,0,is_subclass_of
+Atrial Flutter,0,Supraventricular arrhythmia,0,is_subclass_of
+Family history of coronary arteriosclerosis,0,Family history,0,is_subclass_of
+Cyclooxygenase 2 Inhibitors,0,Anti-Inflammatory Agents_ Non-Steroidal,0,is_subclass_of
+irbesartan,0,Angiotensin II receptor antagonist,0,is_subclass_of
+candesartan,0,Angiotensin II receptor antagonist,0,is_subclass_of
+Losartan,0,Angiotensin II receptor antagonist,0,is_subclass_of
+valsartan,0,Angiotensin II receptor antagonist,0,is_subclass_of
+Aspirin,0,Antiplatelet Agents,0,is_subclass_of
+clopidogrel,0,Antiplatelet Agents,0,is_subclass_of
+Stroke Volume,0,Left Ventricular Function,0,is_subclass_of
+Right ventricular ejection fraction (observable entity),0,Ventricular Function_ Right,0,is_subclass_of
+person,0,sex,0,has_sex
