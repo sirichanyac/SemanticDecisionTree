@@ -1,0 +1,2586 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.semanticweb.org/nudams/ontologies/2020/5/SoybeanOntology19"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.semanticweb.org/nudams/ontologies/2020/5/SoybeanOntology19">
+    <Prefix name="" IRI="http://www.semanticweb.org/nudams/ontologies/2020/5/SoybeanOntology19"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="#seed_discolor"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#GreaterNormalSize"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#pot-severe"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Virus"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#leaf_mild"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#LowerPrecip"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#brown-w/blk-specks"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#distort"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RhizoctoniaRootRot"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#lt-1/8"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#flower"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#upper-areas"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#yellow"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#shriveling_present"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#above-soil"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#stem_cankers"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#canker_lesion_brown"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#colored"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#july"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Plant_Reproductive_organs"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#PresentSymtomFruitPod"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#DistortFruitPods"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#EnvironmentalCondition"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BrownStemRot"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#fruit_spots_brown-w/blk-specks"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#GreaterTemp"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#hail"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#trifoliolate_leaf"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#root"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Canker_on_Stem"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#w-s-marg"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BrowSpot"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#VirusDisease"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_cause"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#YellowHalo"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#gall-cysts"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#minor"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#above-sec-nde"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NoWaterSoakMarg"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#PhytophthoraRot"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#december"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#lt-norm"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Near_Ground"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#lower-surf"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#tan"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_precip"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#march"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#LowerNormalSize"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#canker_lesion_tan"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_color"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#leaf_shread"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#dark-brown"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#temp"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CulturalPractice"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Disease"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_history"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#plant-growth"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#plant-stand"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Symptom"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#fruit_pods"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#DiaporthStemCanker"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#november"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#has_canker_node_number"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#area-damaged"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#fruiting_bodis_present"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Leaves"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#hail_yes"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#rotted"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#LowerSurfaceMild"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#seed_size"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#crop_hist"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#fruit_pod"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BacteriaBlight"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#precip"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#CauseOfDisease"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_severity"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#leafspots_halo"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#90-100"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#external_decay"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#may"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#february"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#october"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Antracnose"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#PowderyMildew"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeedNormalSize"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#seed-tmt_none"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#PurpleSeedStain"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#germination"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#below-soil"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#sclerotia_present"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#seed-tmt_fungicide"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#leaf_malf_present"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#no-w-s-marg"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_stand"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Roots"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#watery"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#GallCystsRoot"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#FruitSpotsColored"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#black"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#80-89"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NormalPrecip"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#same-lst-sev-yrs"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#DownyMildew"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Plant_Vegetative_Organs"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#seed-tmt"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#soil_temp"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ChacoalRot"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#FruitPods"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#FrogEyeLeafSpot"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#temp_gt-norm"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Stems"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#dk-brown-blk"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#brown"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#mycelium_present"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#LowerTemp"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#lodging_yes"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#GreaterPrecip"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#august"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#fruit_spots_colored"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#AlternarialLeafSpot"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#whole-field"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Plant_Parts"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#canker_lesion"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#int_discolor"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#seed_size_lt_norm"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#PhyllosticalLeafSpot"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#plant_stand_norm"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_time"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#plant-growth_abnormal"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#UpperSurfaceMild"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#severity"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#lt-80"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#norm"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#mold_growth"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#leaf_shread_present"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Seeds"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#severe"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#winds"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#mold_growth_present"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#upper-surf"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#temp_lt-norm"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#hail_no"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BlackColor"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#plant_stand_lt-normal"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SeedLowerSize"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NormalTemp"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_temp"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#september"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#scattered"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#temp_norm"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#plant-growth_norm"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#stem"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#fruiting_bodies"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#gt-norm"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#january"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BrownColor"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BacteriaPustule"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_growth"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#no-yellow-halos"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SoybeanMosaicVirus"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#FloralParts"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#same-lst-yr"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#diff-lst-year"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#fruit_spots"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Abnormality"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Color"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#seed"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Fungal"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Uncontinue_crop"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#few-present"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#has_leaf_spot_size"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#seed-tmt_other"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#unifoliolate_leaf"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OtherColored"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#leafspots_marg"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_symptom"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#low-areas"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#FirmDryDecay"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#location"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#yellow-halos"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#FungalDisease"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#mycelium"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#RottedRoot"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#diseased"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#leaf"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NoYellowHalo"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#leaf_malf"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#MeteologicalCondition"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#june"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#WaterSoakMarg"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#firm-and-dry"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#gt-1/8"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#shriveling"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BeanPodMottleVirus"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#seed_discolor_present"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#lodging"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#leafspot_size"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#has_temp_value"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#april"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_hail"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#same-lst-two-yrs"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#WateryDecay"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Continue_crop"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#date"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#int_discolor_brown"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#soil_water_content"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Bacteria"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#DarkBrownColor"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#seed_size_norm"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#sclerotia"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#has_damage"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#YellowColor"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#int_discolor_black"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BacteriaDisease"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#canker_lesion_dk-brown-blk"/>
+    </Declaration>
+    <EquivalentClasses>
+        <Class IRI="#AlternarialLeafSpot"/>
+        <ObjectIntersectionOf>
+            <Class IRI="#FungalDisease"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_symptom"/>
+                <Class IRI="#FruitSpotsColored"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_symptom"/>
+                <Class IRI="#GreaterNormalSize"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_symptom"/>
+                <Class IRI="#NoWaterSoakMarg"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_symptom"/>
+                <Class IRI="#NoYellowHalo"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_symptom"/>
+                <Class IRI="#fruit_pods"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_time"/>
+                <ObjectOneOf>
+                    <NamedIndividual IRI="#july"/>
+                    <NamedIndividual IRI="#october"/>
+                    <NamedIndividual IRI="#august"/>
+                    <NamedIndividual IRI="#september"/>
+                </ObjectOneOf>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#location"/>
+                <Class IRI="#Leaves"/>
+            </ObjectSomeValuesFrom>
+            <ObjectAllValuesFrom>
+                <ObjectProperty IRI="#has_temp"/>
+                <ObjectUnionOf>
+                    <Class IRI="#LowerTemp"/>
+                    <Class IRI="#NormalTemp"/>
+                </ObjectUnionOf>
+            </ObjectAllValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Antracnose"/>
+        <ObjectIntersectionOf>
+            <Class IRI="#FungalDisease"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_symptom"/>
+                <Class IRI="#FruitSpotsColored"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_symptom"/>
+                <Class IRI="#fruiting_bodies"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_time"/>
+                <ObjectOneOf>
+                    <NamedIndividual IRI="#october"/>
+                    <NamedIndividual IRI="#august"/>
+                    <NamedIndividual IRI="#september"/>
+                </ObjectOneOf>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#location"/>
+                <Class IRI="#Seeds"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#location"/>
+                <Class IRI="#Stems"/>
+            </ObjectSomeValuesFrom>
+            <ObjectAllValuesFrom>
+                <ObjectProperty IRI="#has_precip"/>
+                <ObjectUnionOf>
+                    <Class IRI="#GreaterPrecip"/>
+                    <Class IRI="#NormalPrecip"/>
+                </ObjectUnionOf>
+            </ObjectAllValuesFrom>
+            <ObjectHasValue>
+                <ObjectProperty IRI="#has_damage"/>
+                <NamedIndividual IRI="#whole-field"/>
+            </ObjectHasValue>
+            <ObjectHasValue>
+                <ObjectProperty IRI="#has_symptom"/>
+                <NamedIndividual IRI="#canker_lesion_brown"/>
+            </ObjectHasValue>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#BacteriaBlight"/>
+        <ObjectIntersectionOf>
+            <Class IRI="#BacteriaDisease"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_symptom"/>
+                <Class IRI="#LowerNormalSize"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_symptom"/>
+                <Class IRI="#WaterSoakMarg"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_symptom"/>
+                <Class IRI="#YellowHalo"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_symptom"/>
+                <Class IRI="#leaf_shread"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_time"/>
+                <ObjectOneOf>
+                    <NamedIndividual IRI="#may"/>
+                    <NamedIndividual IRI="#august"/>
+                    <NamedIndividual IRI="#september"/>
+                    <NamedIndividual IRI="#june"/>
+                    <NamedIndividual IRI="#april"/>
+                </ObjectOneOf>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#location"/>
+                <Class IRI="#Leaves"/>
+            </ObjectSomeValuesFrom>
+            <ObjectAllValuesFrom>
+                <ObjectProperty IRI="#has_precip"/>
+                <ObjectUnionOf>
+                    <Class IRI="#GreaterPrecip"/>
+                    <Class IRI="#NormalPrecip"/>
+                </ObjectUnionOf>
+            </ObjectAllValuesFrom>
+            <ObjectAllValuesFrom>
+                <ObjectProperty IRI="#has_temp"/>
+                <ObjectUnionOf>
+                    <Class IRI="#LowerTemp"/>
+                    <Class IRI="#NormalTemp"/>
+                </ObjectUnionOf>
+            </ObjectAllValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#BacteriaDisease"/>
+        <ObjectIntersectionOf>
+            <Class IRI="#Disease"/>
+            <ObjectAllValuesFrom>
+                <ObjectProperty IRI="#has_cause"/>
+                <Class IRI="#Bacteria"/>
+            </ObjectAllValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#BacteriaPustule"/>
+        <ObjectIntersectionOf>
+            <Class IRI="#BacteriaDisease"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_history"/>
+                <Class IRI="#Uncontinue_crop"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_symptom"/>
+                <Class IRI="#LowerNormalSize"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_symptom"/>
+                <Class IRI="#NoWaterSoakMarg"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_symptom"/>
+                <Class IRI="#NoYellowHalo"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_symptom"/>
+                <Class IRI="#leaf_shread"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_time"/>
+                <ObjectOneOf>
+                    <NamedIndividual IRI="#july"/>
+                    <NamedIndividual IRI="#august"/>
+                    <NamedIndividual IRI="#june"/>
+                </ObjectOneOf>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#location"/>
+                <Class IRI="#Leaves"/>
+            </ObjectSomeValuesFrom>
+            <ObjectAllValuesFrom>
+                <ObjectProperty IRI="#has_precip"/>
+                <ObjectUnionOf>
+                    <Class IRI="#GreaterPrecip"/>
+                    <Class IRI="#NormalPrecip"/>
+                </ObjectUnionOf>
+            </ObjectAllValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#BrowSpot"/>
+        <ObjectIntersectionOf>
+            <Class IRI="#FungalDisease"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_symptom"/>
+                <Class IRI="#GreaterNormalSize"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_symptom"/>
+                <Class IRI="#NoWaterSoakMarg"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_symptom"/>
+                <Class IRI="#YellowHalo"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#location"/>
+                <Class IRI="#Leaves"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#location"/>
+                <Class IRI="#Stems"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#BrownStemRot"/>
+        <ObjectIntersectionOf>
+            <Class IRI="#FungalDisease"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_history"/>
+                <Class IRI="#Uncontinue_crop"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_precip"/>
+                <Class IRI="#GreaterPrecip"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_symptom"/>
+                <Class IRI="#SeedLowerSize"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_symptom"/>
+                <Class IRI="#lodging"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_time"/>
+                <ObjectOneOf>
+                    <NamedIndividual IRI="#july"/>
+                    <NamedIndividual IRI="#august"/>
+                    <NamedIndividual IRI="#september"/>
+                </ObjectOneOf>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#location"/>
+                <Class IRI="#Leaves"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#location"/>
+                <Class IRI="#Stems"/>
+            </ObjectSomeValuesFrom>
+            <ObjectAllValuesFrom>
+                <ObjectProperty IRI="#has_temp"/>
+                <ObjectUnionOf>
+                    <Class IRI="#LowerTemp"/>
+                    <Class IRI="#NormalTemp"/>
+                </ObjectUnionOf>
+            </ObjectAllValuesFrom>
+            <ObjectHasValue>
+                <ObjectProperty IRI="#has_symptom"/>
+                <NamedIndividual IRI="#int_discolor_brown"/>
+            </ObjectHasValue>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Canker_on_Stem"/>
+        <ObjectIntersectionOf>
+            <Class IRI="#stem_cankers"/>
+            <DataSomeValuesFrom>
+                <DataProperty IRI="#has_canker_node_number"/>
+                <DatatypeRestriction>
+                    <Datatype abbreviatedIRI="xsd:integer"/>
+                    <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minInclusive">
+                        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">2</Literal>
+                    </FacetRestriction>
+                </DatatypeRestriction>
+            </DataSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#ChacoalRot"/>
+        <ObjectIntersectionOf>
+            <Class IRI="#FungalDisease"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_history"/>
+                <Class IRI="#Continue_crop"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_symptom"/>
+                <Class IRI="#RottedRoot"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_symptom"/>
+                <Class IRI="#SeedLowerSize"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_time"/>
+                <ObjectOneOf>
+                    <NamedIndividual IRI="#july"/>
+                    <NamedIndividual IRI="#august"/>
+                </ObjectOneOf>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#location"/>
+                <Class IRI="#Leaves"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#location"/>
+                <Class IRI="#Stems"/>
+            </ObjectSomeValuesFrom>
+            <ObjectAllValuesFrom>
+                <ObjectProperty IRI="#has_precip"/>
+                <ObjectUnionOf>
+                    <Class IRI="#LowerPrecip"/>
+                    <Class IRI="#NormalPrecip"/>
+                </ObjectUnionOf>
+            </ObjectAllValuesFrom>
+            <ObjectAllValuesFrom>
+                <ObjectProperty IRI="#has_temp"/>
+                <ObjectUnionOf>
+                    <Class IRI="#GreaterTemp"/>
+                    <Class IRI="#NormalTemp"/>
+                </ObjectUnionOf>
+            </ObjectAllValuesFrom>
+            <ObjectHasValue>
+                <ObjectProperty IRI="#has_damage"/>
+                <NamedIndividual IRI="#upper-areas"/>
+            </ObjectHasValue>
+            <ObjectHasValue>
+                <ObjectProperty IRI="#has_growth"/>
+                <NamedIndividual IRI="#plant-growth_abnormal"/>
+            </ObjectHasValue>
+            <ObjectHasValue>
+                <ObjectProperty IRI="#has_severity"/>
+                <NamedIndividual IRI="#severe"/>
+            </ObjectHasValue>
+            <ObjectHasValue>
+                <ObjectProperty IRI="#has_symptom"/>
+                <NamedIndividual IRI="#int_discolor_black"/>
+            </ObjectHasValue>
+            <ObjectHasValue>
+                <ObjectProperty IRI="#has_symptom"/>
+                <NamedIndividual IRI="#sclerotia_present"/>
+            </ObjectHasValue>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#DiaporthStemCanker"/>
+        <ObjectIntersectionOf>
+            <Class IRI="#FungalDisease"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_history"/>
+                <Class IRI="#Continue_crop"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_symptom"/>
+                <Class IRI="#fruiting_bodies"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_time"/>
+                <ObjectOneOf>
+                    <NamedIndividual IRI="#august"/>
+                    <NamedIndividual IRI="#september"/>
+                </ObjectOneOf>
+            </ObjectSomeValuesFrom>
+            <ObjectAllValuesFrom>
+                <ObjectProperty IRI="#has_precip"/>
+                <ObjectUnionOf>
+                    <Class IRI="#GreaterPrecip"/>
+                    <Class IRI="#NormalPrecip"/>
+                </ObjectUnionOf>
+            </ObjectAllValuesFrom>
+            <ObjectAllValuesFrom>
+                <ObjectProperty IRI="#has_temp"/>
+                <ObjectUnionOf>
+                    <Class IRI="#GreaterTemp"/>
+                    <Class IRI="#NormalTemp"/>
+                </ObjectUnionOf>
+            </ObjectAllValuesFrom>
+            <ObjectHasValue>
+                <ObjectProperty IRI="#has_symptom"/>
+                <NamedIndividual IRI="#above-sec-nde"/>
+            </ObjectHasValue>
+            <ObjectHasValue>
+                <ObjectProperty IRI="#has_symptom"/>
+                <NamedIndividual IRI="#canker_lesion_brown"/>
+            </ObjectHasValue>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#DownyMildew"/>
+        <ObjectIntersectionOf>
+            <Class IRI="#FungalDisease"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_symptom"/>
+                <Class IRI="#LowerSurfaceMild"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_symptom"/>
+                <Class IRI="#NoYellowHalo"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_time"/>
+                <ObjectOneOf>
+                    <NamedIndividual IRI="#july"/>
+                    <NamedIndividual IRI="#august"/>
+                    <NamedIndividual IRI="#june"/>
+                </ObjectOneOf>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#location"/>
+                <Class IRI="#Leaves"/>
+            </ObjectSomeValuesFrom>
+            <ObjectAllValuesFrom>
+                <ObjectProperty IRI="#has_precip"/>
+                <ObjectUnionOf>
+                    <Class IRI="#GreaterPrecip"/>
+                    <Class IRI="#NormalPrecip"/>
+                </ObjectUnionOf>
+            </ObjectAllValuesFrom>
+            <ObjectHasValue>
+                <ObjectProperty IRI="#has_damage"/>
+                <NamedIndividual IRI="#whole-field"/>
+            </ObjectHasValue>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#FrogEyeLeafSpot"/>
+        <ObjectIntersectionOf>
+            <Class IRI="#FungalDisease"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_symptom"/>
+                <Class IRI="#Canker_on_Stem"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_symptom"/>
+                <Class IRI="#FruitSpotsColored"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_symptom"/>
+                <Class IRI="#GreaterNormalSize"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_symptom"/>
+                <Class IRI="#NoWaterSoakMarg"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_symptom"/>
+                <Class IRI="#NoYellowHalo"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_symptom"/>
+                <Class IRI="#fruiting_bodies"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_time"/>
+                <ObjectOneOf>
+                    <NamedIndividual IRI="#july"/>
+                    <NamedIndividual IRI="#august"/>
+                    <NamedIndividual IRI="#september"/>
+                </ObjectOneOf>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#location"/>
+                <Class IRI="#Leaves"/>
+            </ObjectSomeValuesFrom>
+            <ObjectAllValuesFrom>
+                <ObjectProperty IRI="#has_precip"/>
+                <ObjectUnionOf>
+                    <Class IRI="#GreaterPrecip"/>
+                    <Class IRI="#NormalPrecip"/>
+                </ObjectUnionOf>
+            </ObjectAllValuesFrom>
+            <ObjectHasValue>
+                <ObjectProperty IRI="#has_symptom"/>
+                <NamedIndividual IRI="#canker_lesion_tan"/>
+            </ObjectHasValue>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#FungalDisease"/>
+        <ObjectIntersectionOf>
+            <Class IRI="#Disease"/>
+            <ObjectAllValuesFrom>
+                <ObjectProperty IRI="#has_cause"/>
+                <Class IRI="#Fungal"/>
+            </ObjectAllValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#GreaterNormalSize"/>
+        <ObjectIntersectionOf>
+            <Class IRI="#leafspot_size"/>
+            <DataSomeValuesFrom>
+                <DataProperty IRI="#has_leaf_spot_size"/>
+                <DatatypeRestriction>
+                    <Datatype abbreviatedIRI="xsd:decimal"/>
+                    <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minInclusive">
+                        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.125</Literal>
+                    </FacetRestriction>
+                </DatatypeRestriction>
+            </DataSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#GreaterTemp"/>
+        <ObjectIntersectionOf>
+            <Class IRI="#temp"/>
+            <DataSomeValuesFrom>
+                <DataProperty IRI="#has_temp_value"/>
+                <DatatypeRestriction>
+                    <Datatype abbreviatedIRI="xsd:integer"/>
+                    <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minInclusive">
+                        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">28</Literal>
+                    </FacetRestriction>
+                </DatatypeRestriction>
+            </DataSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#LowerNormalSize"/>
+        <ObjectIntersectionOf>
+            <Class IRI="#leafspot_size"/>
+            <DataSomeValuesFrom>
+                <DataProperty IRI="#has_leaf_spot_size"/>
+                <DatatypeRestriction>
+                    <Datatype abbreviatedIRI="xsd:decimal"/>
+                    <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#maxExclusive">
+                        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#decimal">0.125</Literal>
+                    </FacetRestriction>
+                </DatatypeRestriction>
+            </DataSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#LowerTemp"/>
+        <ObjectIntersectionOf>
+            <Class IRI="#temp"/>
+            <DataSomeValuesFrom>
+                <DataProperty IRI="#has_temp_value"/>
+                <DatatypeRestriction>
+                    <Datatype abbreviatedIRI="xsd:integer"/>
+                    <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#maxInclusive">
+                        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">14</Literal>
+                    </FacetRestriction>
+                </DatatypeRestriction>
+            </DataSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#Near_Ground"/>
+        <ObjectIntersectionOf>
+            <Class IRI="#stem_cankers"/>
+            <DataSomeValuesFrom>
+                <DataProperty IRI="#has_canker_node_number"/>
+                <DatatypeRestriction>
+                    <Datatype abbreviatedIRI="xsd:integer"/>
+                    <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#maxInclusive">
+                        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1</Literal>
+                    </FacetRestriction>
+                </DatatypeRestriction>
+            </DataSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#NormalTemp"/>
+        <ObjectIntersectionOf>
+            <Class IRI="#temp"/>
+            <DataSomeValuesFrom>
+                <DataProperty IRI="#has_temp_value"/>
+                <DatatypeRestriction>
+                    <Datatype abbreviatedIRI="xsd:integer"/>
+                    <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#minInclusive">
+                        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">15</Literal>
+                    </FacetRestriction>
+                    <FacetRestriction facet="http://www.w3.org/2001/XMLSchema#maxInclusive">
+                        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">27</Literal>
+                    </FacetRestriction>
+                </DatatypeRestriction>
+            </DataSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#PhyllosticalLeafSpot"/>
+        <ObjectIntersectionOf>
+            <Class IRI="#FungalDisease"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_symptom"/>
+                <Class IRI="#GreaterNormalSize"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_symptom"/>
+                <Class IRI="#NoWaterSoakMarg"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_symptom"/>
+                <Class IRI="#NoYellowHalo"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_symptom"/>
+                <Class IRI="#leaf_shread"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_time"/>
+                <ObjectOneOf>
+                    <NamedIndividual IRI="#july"/>
+                    <NamedIndividual IRI="#may"/>
+                    <NamedIndividual IRI="#june"/>
+                    <NamedIndividual IRI="#april"/>
+                </ObjectOneOf>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#location"/>
+                <Class IRI="#Leaves"/>
+            </ObjectSomeValuesFrom>
+            <ObjectAllValuesFrom>
+                <ObjectProperty IRI="#has_precip"/>
+                <ObjectUnionOf>
+                    <Class IRI="#GreaterPrecip"/>
+                    <Class IRI="#NormalPrecip"/>
+                </ObjectUnionOf>
+            </ObjectAllValuesFrom>
+            <ObjectAllValuesFrom>
+                <ObjectProperty IRI="#has_temp"/>
+                <ObjectUnionOf>
+                    <Class IRI="#LowerTemp"/>
+                    <Class IRI="#NormalTemp"/>
+                </ObjectUnionOf>
+            </ObjectAllValuesFrom>
+            <ObjectHasValue>
+                <ObjectProperty IRI="#has_damage"/>
+                <NamedIndividual IRI="#whole-field"/>
+            </ObjectHasValue>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#PhytophthoraRot"/>
+        <ObjectIntersectionOf>
+            <Class IRI="#FungalDisease"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_history"/>
+                <Class IRI="#Uncontinue_crop"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_symptom"/>
+                <Class IRI="#Near_Ground"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_symptom"/>
+                <Class IRI="#RottedRoot"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_time"/>
+                <ObjectOneOf>
+                    <NamedIndividual IRI="#july"/>
+                    <NamedIndividual IRI="#may"/>
+                    <NamedIndividual IRI="#august"/>
+                    <NamedIndividual IRI="#june"/>
+                </ObjectOneOf>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#location"/>
+                <Class IRI="#Leaves"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#location"/>
+                <Class IRI="#Stems"/>
+            </ObjectSomeValuesFrom>
+            <ObjectAllValuesFrom>
+                <ObjectProperty IRI="#has_precip"/>
+                <ObjectUnionOf>
+                    <Class IRI="#LowerPrecip"/>
+                    <Class IRI="#NormalPrecip"/>
+                </ObjectUnionOf>
+            </ObjectAllValuesFrom>
+            <ObjectAllValuesFrom>
+                <ObjectProperty IRI="#has_temp"/>
+                <ObjectUnionOf>
+                    <Class IRI="#GreaterTemp"/>
+                    <Class IRI="#NormalTemp"/>
+                </ObjectUnionOf>
+            </ObjectAllValuesFrom>
+            <ObjectHasValue>
+                <ObjectProperty IRI="#has_damage"/>
+                <NamedIndividual IRI="#low-areas"/>
+            </ObjectHasValue>
+            <ObjectHasValue>
+                <ObjectProperty IRI="#has_symptom"/>
+                <NamedIndividual IRI="#canker_lesion_dk-brown-blk"/>
+            </ObjectHasValue>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#PowderyMildew"/>
+        <ObjectIntersectionOf>
+            <Class IRI="#FungalDisease"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_symptom"/>
+                <Class IRI="#UpperSurfaceMild"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_time"/>
+                <ObjectOneOf>
+                    <NamedIndividual IRI="#august"/>
+                    <NamedIndividual IRI="#september"/>
+                </ObjectOneOf>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#location"/>
+                <Class IRI="#Leaves"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#PurpleSeedStain"/>
+        <ObjectIntersectionOf>
+            <Class IRI="#FungalDisease"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_symptom"/>
+                <Class IRI="#SeedLowerSize"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_symptom"/>
+                <Class IRI="#seed_discolor"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_time"/>
+                <ObjectOneOf>
+                    <NamedIndividual IRI="#october"/>
+                    <NamedIndividual IRI="#august"/>
+                    <NamedIndividual IRI="#september"/>
+                </ObjectOneOf>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#location"/>
+                <Class IRI="#Seeds"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#RhizoctoniaRootRot"/>
+        <ObjectIntersectionOf>
+            <Class IRI="#FungalDisease"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_precip"/>
+                <Class IRI="#GreaterPrecip"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_symptom"/>
+                <Class IRI="#FirmDryDecay"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_symptom"/>
+                <Class IRI="#Near_Ground"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_symptom"/>
+                <Class IRI="#RottedRoot"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_temp"/>
+                <Class IRI="#LowerTemp"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#has_time"/>
+                <ObjectOneOf>
+                    <NamedIndividual IRI="#may"/>
+                    <NamedIndividual IRI="#june"/>
+                </ObjectOneOf>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#location"/>
+                <Class IRI="#Leaves"/>
+            </ObjectSomeValuesFrom>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#location"/>
+                <Class IRI="#Stems"/>
+            </ObjectSomeValuesFrom>
+            <ObjectHasValue>
+                <ObjectProperty IRI="#has_hail"/>
+                <NamedIndividual IRI="#hail_no"/>
+            </ObjectHasValue>
+            <ObjectHasValue>
+                <ObjectProperty IRI="#has_stand"/>
+                <NamedIndividual IRI="#plant_stand_lt-normal"/>
+            </ObjectHasValue>
+            <ObjectHasValue>
+                <ObjectProperty IRI="#has_symptom"/>
+                <NamedIndividual IRI="#canker_lesion_brown"/>
+            </ObjectHasValue>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#VirusDisease"/>
+        <ObjectIntersectionOf>
+            <Class IRI="#Disease"/>
+            <ObjectAllValuesFrom>
+                <ObjectProperty IRI="#has_cause"/>
+                <Class IRI="#Virus"/>
+            </ObjectAllValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <SubClassOf>
+        <Class IRI="#AlternarialLeafSpot"/>
+        <Class IRI="#FungalDisease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Antracnose"/>
+        <Class IRI="#FungalDisease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Bacteria"/>
+        <Class IRI="#CauseOfDisease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BacteriaBlight"/>
+        <Class IRI="#BacteriaDisease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BacteriaDisease"/>
+        <Class IRI="#Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BacteriaPustule"/>
+        <Class IRI="#BacteriaDisease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BeanPodMottleVirus"/>
+        <Class IRI="#VirusDisease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BlackColor"/>
+        <Class IRI="#Color"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BrowSpot"/>
+        <Class IRI="#FungalDisease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BrownColor"/>
+        <Class IRI="#Color"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BrownStemRot"/>
+        <Class IRI="#FungalDisease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Canker_on_Stem"/>
+        <Class IRI="#stem_cankers"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ChacoalRot"/>
+        <Class IRI="#FungalDisease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Color"/>
+        <Class IRI="#Abnormality"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Continue_crop"/>
+        <Class IRI="#crop_hist"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#DarkBrownColor"/>
+        <Class IRI="#Color"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#DiaporthStemCanker"/>
+        <Class IRI="#FungalDisease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#DistortFruitPods"/>
+        <Class IRI="#fruit_spots"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#DownyMildew"/>
+        <Class IRI="#FungalDisease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#FirmDryDecay"/>
+        <Class IRI="#external_decay"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#FloralParts"/>
+        <Class IRI="#Plant_Reproductive_organs"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#FrogEyeLeafSpot"/>
+        <Class IRI="#FungalDisease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#FruitPods"/>
+        <Class IRI="#Plant_Reproductive_organs"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#FruitSpotsColored"/>
+        <Class IRI="#fruit_spots"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Fungal"/>
+        <Class IRI="#CauseOfDisease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#FungalDisease"/>
+        <Class IRI="#Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GallCystsRoot"/>
+        <Class IRI="#Symptom"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GreaterNormalSize"/>
+        <Class IRI="#leafspot_size"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GreaterPrecip"/>
+        <Class IRI="#precip"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GreaterTemp"/>
+        <Class IRI="#temp"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Leaves"/>
+        <Class IRI="#Plant_Vegetative_Organs"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#LowerNormalSize"/>
+        <Class IRI="#leafspot_size"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#LowerPrecip"/>
+        <Class IRI="#precip"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#LowerSurfaceMild"/>
+        <Class IRI="#leaf_mild"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#LowerTemp"/>
+        <Class IRI="#temp"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#MeteologicalCondition"/>
+        <Class IRI="#EnvironmentalCondition"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Near_Ground"/>
+        <Class IRI="#stem_cankers"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NoWaterSoakMarg"/>
+        <Class IRI="#leafspots_marg"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NoYellowHalo"/>
+        <Class IRI="#leafspots_halo"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NormalPrecip"/>
+        <Class IRI="#precip"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NormalTemp"/>
+        <Class IRI="#temp"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OtherColored"/>
+        <Class IRI="#Color"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#PhyllosticalLeafSpot"/>
+        <Class IRI="#FungalDisease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#PhytophthoraRot"/>
+        <Class IRI="#FungalDisease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Plant_Reproductive_organs"/>
+        <Class IRI="#Plant_Parts"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Plant_Vegetative_Organs"/>
+        <Class IRI="#Plant_Parts"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#PowderyMildew"/>
+        <Class IRI="#FungalDisease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#PresentSymtomFruitPod"/>
+        <Class IRI="#fruit_pods"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#PurpleSeedStain"/>
+        <Class IRI="#FungalDisease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RhizoctoniaRootRot"/>
+        <Class IRI="#FungalDisease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Roots"/>
+        <Class IRI="#Plant_Vegetative_Organs"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#RottedRoot"/>
+        <Class IRI="#Symptom"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeedLowerSize"/>
+        <Class IRI="#seed_size"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SeedNormalSize"/>
+        <Class IRI="#seed_size"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Seeds"/>
+        <Class IRI="#Plant_Reproductive_organs"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SoybeanMosaicVirus"/>
+        <Class IRI="#VirusDisease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Stems"/>
+        <Class IRI="#Plant_Vegetative_Organs"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Symptom"/>
+        <Class IRI="#Abnormality"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Uncontinue_crop"/>
+        <Class IRI="#crop_hist"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#UpperSurfaceMild"/>
+        <Class IRI="#leaf_mild"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Virus"/>
+        <Class IRI="#CauseOfDisease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#VirusDisease"/>
+        <Class IRI="#Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#WaterSoakMarg"/>
+        <Class IRI="#leafspots_marg"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#WateryDecay"/>
+        <Class IRI="#external_decay"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#YellowColor"/>
+        <Class IRI="#Color"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#YellowHalo"/>
+        <Class IRI="#leafspots_halo"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#area-damaged"/>
+        <Class IRI="#Abnormality"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#canker_lesion"/>
+        <Class IRI="#Symptom"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#crop_hist"/>
+        <Class IRI="#CulturalPractice"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#date"/>
+        <Class IRI="#CulturalPractice"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#external_decay"/>
+        <Class IRI="#Symptom"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#fruit_pods"/>
+        <Class IRI="#Symptom"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#fruit_spots"/>
+        <Class IRI="#Symptom"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#fruiting_bodies"/>
+        <Class IRI="#Symptom"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#germination"/>
+        <Class IRI="#CulturalPractice"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#hail"/>
+        <Class IRI="#MeteologicalCondition"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#int_discolor"/>
+        <Class IRI="#Symptom"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#leaf_malf"/>
+        <Class IRI="#Symptom"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#leaf_mild"/>
+        <Class IRI="#Symptom"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#leaf_shread"/>
+        <Class IRI="#Symptom"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#leafspot_size"/>
+        <Class IRI="#Symptom"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#leafspots_halo"/>
+        <Class IRI="#Symptom"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#leafspots_marg"/>
+        <Class IRI="#Symptom"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#lodging"/>
+        <Class IRI="#Symptom"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#mold_growth"/>
+        <Class IRI="#Symptom"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#mycelium"/>
+        <Class IRI="#Symptom"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#plant-growth"/>
+        <Class IRI="#CulturalPractice"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#plant-stand"/>
+        <Class IRI="#CulturalPractice"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#precip"/>
+        <Class IRI="#MeteologicalCondition"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#sclerotia"/>
+        <Class IRI="#Symptom"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#seed-tmt"/>
+        <Class IRI="#CulturalPractice"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#seed_discolor"/>
+        <Class IRI="#Symptom"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#seed_size"/>
+        <Class IRI="#Symptom"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#severity"/>
+        <Class IRI="#Abnormality"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#shriveling"/>
+        <Class IRI="#Symptom"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#soil_temp"/>
+        <Class IRI="#MeteologicalCondition"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#soil_water_content"/>
+        <Class IRI="#MeteologicalCondition"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#stem_cankers"/>
+        <Class IRI="#Symptom"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#temp"/>
+        <Class IRI="#MeteologicalCondition"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#winds"/>
+        <Class IRI="#MeteologicalCondition"/>
+    </SubClassOf>
+    <ClassAssertion>
+        <Class IRI="#Canker_on_Stem"/>
+        <NamedIndividual IRI="#above-sec-nde"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Near_Ground"/>
+        <NamedIndividual IRI="#above-soil"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#date"/>
+        <NamedIndividual IRI="#april"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#date"/>
+        <NamedIndividual IRI="#august"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Near_Ground"/>
+        <NamedIndividual IRI="#below-soil"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#BlackColor"/>
+        <NamedIndividual IRI="#black"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#BrownColor"/>
+        <NamedIndividual IRI="#brown"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#canker_lesion"/>
+        <NamedIndividual IRI="#canker_lesion_brown"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#canker_lesion"/>
+        <NamedIndividual IRI="#canker_lesion_dk-brown-blk"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#canker_lesion"/>
+        <NamedIndividual IRI="#canker_lesion_tan"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#OtherColored"/>
+        <NamedIndividual IRI="#colored"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#DarkBrownColor"/>
+        <NamedIndividual IRI="#dark-brown"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#date"/>
+        <NamedIndividual IRI="#december"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Uncontinue_crop"/>
+        <NamedIndividual IRI="#diff-lst-year"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#PresentSymtomFruitPod"/>
+        <NamedIndividual IRI="#diseased"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#DistortFruitPods"/>
+        <NamedIndividual IRI="#distort"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#DarkBrownColor"/>
+        <NamedIndividual IRI="#dk-brown-blk"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#date"/>
+        <NamedIndividual IRI="#february"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#PresentSymtomFruitPod"/>
+        <NamedIndividual IRI="#few-present"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#FirmDryDecay"/>
+        <NamedIndividual IRI="#firm-and-dry"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#FloralParts"/>
+        <NamedIndividual IRI="#flower"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#FruitPods"/>
+        <NamedIndividual IRI="#fruit_pod"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#FruitSpotsColored"/>
+        <NamedIndividual IRI="#fruit_spots_colored"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#fruiting_bodies"/>
+        <NamedIndividual IRI="#fruiting_bodis_present"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#GallCystsRoot"/>
+        <NamedIndividual IRI="#gall-cysts"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#GreaterPrecip"/>
+        <NamedIndividual IRI="#gt-norm"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#hail"/>
+        <NamedIndividual IRI="#hail_no"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#hail"/>
+        <NamedIndividual IRI="#hail_yes"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#int_discolor"/>
+        <NamedIndividual IRI="#int_discolor_black"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#int_discolor"/>
+        <NamedIndividual IRI="#int_discolor_brown"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#date"/>
+        <NamedIndividual IRI="#january"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#date"/>
+        <NamedIndividual IRI="#july"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#date"/>
+        <NamedIndividual IRI="#june"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Leaves"/>
+        <NamedIndividual IRI="#leaf"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#leaf_malf"/>
+        <NamedIndividual IRI="#leaf_malf_present"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#leaf_shread"/>
+        <NamedIndividual IRI="#leaf_shread_present"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#lodging"/>
+        <NamedIndividual IRI="#lodging_yes"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#area-damaged"/>
+        <NamedIndividual IRI="#low-areas"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#LowerSurfaceMild"/>
+        <NamedIndividual IRI="#lower-surf"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#germination"/>
+        <NamedIndividual IRI="#lt-80"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#LowerPrecip"/>
+        <NamedIndividual IRI="#lt-norm"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#date"/>
+        <NamedIndividual IRI="#march"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#date"/>
+        <NamedIndividual IRI="#may"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#severity"/>
+        <NamedIndividual IRI="#minor"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#mold_growth"/>
+        <NamedIndividual IRI="#mold_growth_present"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#mycelium"/>
+        <NamedIndividual IRI="#mycelium_present"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#NoWaterSoakMarg"/>
+        <NamedIndividual IRI="#no-w-s-marg"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#NoYellowHalo"/>
+        <NamedIndividual IRI="#no-yellow-halos"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#NormalPrecip"/>
+        <NamedIndividual IRI="#norm"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#date"/>
+        <NamedIndividual IRI="#november"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#date"/>
+        <NamedIndividual IRI="#october"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#plant-growth"/>
+        <NamedIndividual IRI="#plant-growth_abnormal"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#plant-growth"/>
+        <NamedIndividual IRI="#plant-growth_norm"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#plant-stand"/>
+        <NamedIndividual IRI="#plant_stand_lt-normal"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#plant-stand"/>
+        <NamedIndividual IRI="#plant_stand_norm"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#severity"/>
+        <NamedIndividual IRI="#pot-severe"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Roots"/>
+        <NamedIndividual IRI="#root"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#RottedRoot"/>
+        <NamedIndividual IRI="#rotted"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Continue_crop"/>
+        <NamedIndividual IRI="#same-lst-sev-yrs"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Continue_crop"/>
+        <NamedIndividual IRI="#same-lst-two-yrs"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Continue_crop"/>
+        <NamedIndividual IRI="#same-lst-yr"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#area-damaged"/>
+        <NamedIndividual IRI="#scattered"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#sclerotia"/>
+        <NamedIndividual IRI="#sclerotia_present"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Seeds"/>
+        <NamedIndividual IRI="#seed"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#seed-tmt"/>
+        <NamedIndividual IRI="#seed-tmt_fungicide"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#seed-tmt"/>
+        <NamedIndividual IRI="#seed-tmt_none"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#seed-tmt"/>
+        <NamedIndividual IRI="#seed-tmt_other"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#seed_discolor"/>
+        <NamedIndividual IRI="#seed_discolor_present"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeedLowerSize"/>
+        <NamedIndividual IRI="#seed_size_lt_norm"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#SeedNormalSize"/>
+        <NamedIndividual IRI="#seed_size_norm"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#date"/>
+        <NamedIndividual IRI="#september"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#severity"/>
+        <NamedIndividual IRI="#severe"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#shriveling"/>
+        <NamedIndividual IRI="#shriveling_present"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Stems"/>
+        <NamedIndividual IRI="#stem"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#DarkBrownColor"/>
+        <NamedIndividual IRI="#tan"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#GreaterTemp"/>
+        <NamedIndividual IRI="#temp_gt-norm"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#LowerTemp"/>
+        <NamedIndividual IRI="#temp_lt-norm"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#NormalTemp"/>
+        <NamedIndividual IRI="#temp_norm"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Leaves"/>
+        <NamedIndividual IRI="#trifoliolate_leaf"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Leaves"/>
+        <NamedIndividual IRI="#unifoliolate_leaf"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#area-damaged"/>
+        <NamedIndividual IRI="#upper-areas"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#UpperSurfaceMild"/>
+        <NamedIndividual IRI="#upper-surf"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#WaterSoakMarg"/>
+        <NamedIndividual IRI="#w-s-marg"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#WateryDecay"/>
+        <NamedIndividual IRI="#watery"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#area-damaged"/>
+        <NamedIndividual IRI="#whole-field"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#YellowColor"/>
+        <NamedIndividual IRI="#yellow"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#YellowHalo"/>
+        <NamedIndividual IRI="#yellow-halos"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#germination"/>
+        <NamedIndividual IRI="#80-89"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#germination"/>
+        <NamedIndividual IRI="#90-100"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#OtherColored"/>
+        <NamedIndividual IRI="#brown-w/blk-specks"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#FruitSpotsColored"/>
+        <NamedIndividual IRI="#fruit_spots_brown-w/blk-specks"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#GreaterNormalSize"/>
+        <NamedIndividual IRI="#gt-1/8"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#LowerNormalSize"/>
+        <NamedIndividual IRI="#lt-1/8"/>
+    </ClassAssertion>
+    <SameIndividual>
+        <NamedIndividual IRI="#colored"/>
+        <NamedIndividual IRI="#fruit_spots_colored"/>
+    </SameIndividual>
+    <SameIndividual>
+        <NamedIndividual IRI="#brown-w/blk-specks"/>
+        <NamedIndividual IRI="#fruit_spots_brown-w/blk-specks"/>
+    </SameIndividual>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#location"/>
+        <NamedIndividual IRI="#above-sec-nde"/>
+        <NamedIndividual IRI="#stem"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#location"/>
+        <NamedIndividual IRI="#above-soil"/>
+        <NamedIndividual IRI="#stem"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#location"/>
+        <NamedIndividual IRI="#below-soil"/>
+        <NamedIndividual IRI="#stem"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_color"/>
+        <NamedIndividual IRI="#canker_lesion_brown"/>
+        <NamedIndividual IRI="#brown"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#location"/>
+        <NamedIndividual IRI="#canker_lesion_brown"/>
+        <NamedIndividual IRI="#stem"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_color"/>
+        <NamedIndividual IRI="#canker_lesion_dk-brown-blk"/>
+        <NamedIndividual IRI="#dk-brown-blk"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#location"/>
+        <NamedIndividual IRI="#canker_lesion_dk-brown-blk"/>
+        <NamedIndividual IRI="#stem"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_color"/>
+        <NamedIndividual IRI="#canker_lesion_tan"/>
+        <NamedIndividual IRI="#tan"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#location"/>
+        <NamedIndividual IRI="#canker_lesion_tan"/>
+        <NamedIndividual IRI="#stem"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#location"/>
+        <NamedIndividual IRI="#colored"/>
+        <NamedIndividual IRI="#fruit_pod"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#location"/>
+        <NamedIndividual IRI="#diseased"/>
+        <NamedIndividual IRI="#fruit_pod"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#location"/>
+        <NamedIndividual IRI="#distort"/>
+        <NamedIndividual IRI="#fruit_pod"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#location"/>
+        <NamedIndividual IRI="#few-present"/>
+        <NamedIndividual IRI="#fruit_pod"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#location"/>
+        <NamedIndividual IRI="#firm-and-dry"/>
+        <NamedIndividual IRI="#leaf"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_color"/>
+        <NamedIndividual IRI="#fruit_spots_colored"/>
+        <NamedIndividual IRI="#colored"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#location"/>
+        <NamedIndividual IRI="#fruit_spots_colored"/>
+        <NamedIndividual IRI="#fruit_pod"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#location"/>
+        <NamedIndividual IRI="#fruiting_bodis_present"/>
+        <NamedIndividual IRI="#stem"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#location"/>
+        <NamedIndividual IRI="#gall-cysts"/>
+        <NamedIndividual IRI="#root"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_color"/>
+        <NamedIndividual IRI="#int_discolor_black"/>
+        <NamedIndividual IRI="#black"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#location"/>
+        <NamedIndividual IRI="#int_discolor_black"/>
+        <NamedIndividual IRI="#stem"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_color"/>
+        <NamedIndividual IRI="#int_discolor_brown"/>
+        <NamedIndividual IRI="#brown"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#location"/>
+        <NamedIndividual IRI="#int_discolor_brown"/>
+        <NamedIndividual IRI="#stem"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#location"/>
+        <NamedIndividual IRI="#leaf_malf_present"/>
+        <NamedIndividual IRI="#leaf"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#location"/>
+        <NamedIndividual IRI="#leaf_shread_present"/>
+        <NamedIndividual IRI="#leaf"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#location"/>
+        <NamedIndividual IRI="#lodging_yes"/>
+        <NamedIndividual IRI="#stem"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#location"/>
+        <NamedIndividual IRI="#lower-surf"/>
+        <NamedIndividual IRI="#leaf"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#location"/>
+        <NamedIndividual IRI="#mold_growth_present"/>
+        <NamedIndividual IRI="#seed"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#location"/>
+        <NamedIndividual IRI="#mycelium_present"/>
+        <NamedIndividual IRI="#stem"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#location"/>
+        <NamedIndividual IRI="#no-w-s-marg"/>
+        <NamedIndividual IRI="#leaf"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#location"/>
+        <NamedIndividual IRI="#no-yellow-halos"/>
+        <NamedIndividual IRI="#leaf"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#location"/>
+        <NamedIndividual IRI="#rotted"/>
+        <NamedIndividual IRI="#root"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#location"/>
+        <NamedIndividual IRI="#sclerotia_present"/>
+        <NamedIndividual IRI="#stem"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#location"/>
+        <NamedIndividual IRI="#seed_discolor_present"/>
+        <NamedIndividual IRI="#seed"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#location"/>
+        <NamedIndividual IRI="#seed_size_lt_norm"/>
+        <NamedIndividual IRI="#seed"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#location"/>
+        <NamedIndividual IRI="#seed_size_norm"/>
+        <NamedIndividual IRI="#seed"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#location"/>
+        <NamedIndividual IRI="#shriveling_present"/>
+        <NamedIndividual IRI="#leaf"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#location"/>
+        <NamedIndividual IRI="#upper-surf"/>
+        <NamedIndividual IRI="#leaf"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#location"/>
+        <NamedIndividual IRI="#w-s-marg"/>
+        <NamedIndividual IRI="#leaf"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#location"/>
+        <NamedIndividual IRI="#watery"/>
+        <NamedIndividual IRI="#leaf"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#location"/>
+        <NamedIndividual IRI="#yellow-halos"/>
+        <NamedIndividual IRI="#leaf"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#has_color"/>
+        <NamedIndividual IRI="#fruit_spots_brown-w/blk-specks"/>
+        <NamedIndividual IRI="#brown-w/blk-specks"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#location"/>
+        <NamedIndividual IRI="#fruit_spots_brown-w/blk-specks"/>
+        <NamedIndividual IRI="#fruit_pod"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#location"/>
+        <NamedIndividual IRI="#gt-1/8"/>
+        <NamedIndividual IRI="#leaf"/>
+    </ObjectPropertyAssertion>
+    <ObjectPropertyAssertion>
+        <ObjectProperty IRI="#location"/>
+        <NamedIndividual IRI="#lt-1/8"/>
+        <NamedIndividual IRI="#leaf"/>
+    </ObjectPropertyAssertion>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#has_hail"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <SubObjectPropertyOf>
+        <ObjectProperty IRI="#has_stand"/>
+        <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
+    </SubObjectPropertyOf>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_cause"/>
+        <Class IRI="#Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_color"/>
+        <Class IRI="#Symptom"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_damage"/>
+        <Class IRI="#Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_growth"/>
+        <Class IRI="#Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_hail"/>
+        <Class IRI="#Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_history"/>
+        <Class IRI="#Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_precip"/>
+        <Class IRI="#Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_severity"/>
+        <Class IRI="#Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_stand"/>
+        <Class IRI="#Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_symptom"/>
+        <Class IRI="#Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_temp"/>
+        <Class IRI="#Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#has_time"/>
+        <Class IRI="#Disease"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#location"/>
+        <Class IRI="#Abnormality"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#has_cause"/>
+        <Class IRI="#CauseOfDisease"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#has_color"/>
+        <Class IRI="#Color"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#has_damage"/>
+        <Class IRI="#area-damaged"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#has_growth"/>
+        <Class IRI="#plant-growth"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#has_hail"/>
+        <Class IRI="#hail"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#has_history"/>
+        <Class IRI="#crop_hist"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#has_precip"/>
+        <Class IRI="#precip"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#has_severity"/>
+        <Class IRI="#severity"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#has_stand"/>
+        <Class IRI="#plant-stand"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#has_symptom"/>
+        <Class IRI="#Abnormality"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#has_temp"/>
+        <Class IRI="#temp"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#has_time"/>
+        <Class IRI="#date"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#location"/>
+        <Class IRI="#Plant_Parts"/>
+    </ObjectPropertyRange>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi -->
+
