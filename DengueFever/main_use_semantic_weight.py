@@ -75,14 +75,6 @@ def main():
     print('----------------------------------------')
     
     
-    
-    DOW = Graph('Semantic Decision Tree')
-    DOW.printTree(id3treeOW.getRoot())
-    #DOW.draw('Semantic Decision Tree.dot', 'Semantic Decision Tree.png', font_size=3, node_size=50, label_size=3)
-    DOW.GraphDetail()
-    print("----------------------------------")
-
-# # ==========================ID3 Ontology Weighted=====================================
 
     
 if __name__ == '__main__':
