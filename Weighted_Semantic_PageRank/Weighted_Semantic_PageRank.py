@@ -73,13 +73,13 @@ class Weighted_Semantic_PageRank:
                     neighbors = self.graph[key]
                     for n in neighbors:
                         if self.ranks[n] is not None:
-                            #outlinks = len(self.graph.neighbors(n))
+                            
                             outlinks = len(list(self.graph.neighbors(n)))
                             rank_sum += (1 / float(outlinks)) * self.ranks[n]
                 #print("---------------------------------------") 
             
-                # actual page rank compution
-                #self.ranks[key] = ((1 - float(self.d)) * (1/float(self.V))) + self.d*rank_sum
+                # weighted page rank compution
+                
                 self.ranks[key] = ((1 - float(self.d))) + self.d*rank_sum
                 print("key = ", key," rank = ", self.ranks[key])
                 
